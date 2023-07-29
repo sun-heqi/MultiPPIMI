@@ -33,13 +33,13 @@ https://github.com/rdkit/rdkit
 ## Training
 
 ```python
-python /home/dqw_shq/MultiPPIMI/train.py --fold 1 --eval_setting S1 
+python ./train.py --fold 1 --eval_setting S1 
 ```
 
 ## Testing
 
 ```python
-python /home/dqw_shq/MultiPPIMI/test.py --fold 1 --eval_setting S1 --input_model_file ./setting_S1_fold1.model
+python ./test.py --fold 1 --eval_setting S1 --input_model_file ./setting_S1_fold1.model
 ```
 
 ## License
