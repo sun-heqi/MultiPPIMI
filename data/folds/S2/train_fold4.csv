@@ -1,0 +1,514 @@
+dlip_id,SMILES,Target_Pref_Name,Common_Target_Pref_Name,uniprot_id1,uniprot_id2,uniprot_id3,uniprot_id4,uniprot_id5,ppi_label,label
+T007R7,C[C@H]1C[C@H](C)C(=O)[C@H]([C@H](O)CC2CC(=O)NC(=O)C2)C1,HIF-1a/p300,HIF-1a/p300,Q16665,Q09472,,,,23.0,1
+C000WK,Nc1ncnc2[nH]nc(Nc3ccc(F)cc3)c12,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C004UN,Cc1ccccc1-c1nnc(S)o1,Peroxisome proliferator-activated receptor gamma/Nuclear receptor coactivator 2,Peroxisome proliferator-activated receptor gamma/Nuclear receptor coactivator 2,P37231,Q15596,,,,70.0,1
+C00454,CN(C)CCCC(=O)Nc1ccccc1N1CCN(C(=O)C2(Oc3ccc(C(F)(F)F)cc3)CCCN(C(=O)c3cnccc3C(F)(F)F)C2)CC1.Cl,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,1
+T000CC,C=CCNC1=C2C[C@@H](C)C[C@H](OC)[C@H](O)[C@@H](C)/C=C(\C)[C@H](OC(N)=O)[C@@H](OC)/C=C\C=C(/C)C(=O)NC(=CC1=O)C2=O,HIF-1a/p300,HIF-1a/p300,Q16665,Q09472,,,,23.0,1
+C000PW,CC1=C(C)C(=O)C(CCCCC#CCCCC#CCO)=C(C)C1=O,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+P0004G,C[C@@H]1CN(CC(=O)N2CCCC2)CC[NH2+]1,XIAP-BIR3/SMAC,XIAP/SMAC,P98170,Q9NR28,,,,16.0,1
+C003M2,Cc1cc(OI)c(C(C)C)cc1-c1cc(C(C)C)c(OI)cc1C,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+J100BO,CCNCc1cc(C)c(OCc2cccc(-c3cccc(COc4cc(OCc5cncc(C#N)c5)c(CNCC)cc4C)c3C)c2C)cc1OCc1cncc(C#N)c1,PD-1/PD-L1,PD-1/PD-L1,Q15116,Q9NZQ7,,,,91.0,1
+T0060C,C=C[C@@]1(C)CC[C@](C)(C(C)C)c2cc3c4c(c[nH]c4c21)CC(=O)NC(=O)[C@H](C(C)C)N3C,XIAP/Caspase9,XIAP/SMAC,P98170,P55211,,,,116.0,1
+I000FJ,Cc1cc(Nc2ccnc3c2CC[C@H]3O)ccc1NCCc1c[nH]c2c(C)cccc12,MDM2/p53,P53/HDM2,Q00987,P04637,,,,6.0,1
+P0007M,CCOc1cc(=O)n(C)cc1-c1cc(NS(O)(O)CC)ccc1Oc1ccc(F)cc1F,BRD4-2/H4,Bromodomain/Histone,O60885-2,P62805,,,,13.0,1
+J000F7,CCn1c(=O)/c(=C2\Sc3cc(C)ccc3N2C)s/c1=C\c1scc[n+]1Cc1ccccc1.[Cl-],Hsp70/Bcl-2 associated anthanogene (Bag1),Hsp70/Bcl-2 associated anthanogene (Bag1),P0DMV8,Q99933,,,,9.0,1
+C003L1,CC(C)=CCC/C(C)=C/COc1c2occc2cc2ccc(=O)oc12,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+C00004,Oc1ccc(Nc2nc(-c3ccc(Cl)cc3)cs2)cc1,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C003OP,Cc1cc(C)cc(Oc2nc3c(C)cccn3c(=O)c2/C=C(\C#N)C(=O)NC2CCS(=O)(=O)C2)c1,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+C003D5,CC(C)(Cl)[N+](=O)[O-],Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+C0051E,CN(C)c1nc(-c2ccccc2)[n+](C)s1.[O-][Cl+3]([O-])([O-])[O-],Voltage-gated N-type calcium channel alpha-1B subunit/Amyloid beta A4 precursor protein-binding family A member 1,Voltage-gated N-type calcium channel alpha-1B subunit/Amyloid beta A4 precursor protein-binding family A member 1,Q00975,Q02410,,,,72.0,1
+C0039L,Cn1cc[nH]c1=S,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+T003LS,Cl.Cl.O=c1cc(CN2CCOCC2)occ1OCCCCCSc1ccnc2cc(C(F)(F)F)ccc12,Rac1/GEFs,RAC1/TIAM1,P63000,Q13009,,,,22.0,1
+C0015L,CCN1C(=Cc2sc3ccccc3[n+]2C)C=Cc2cccc(C)c21.[I-],Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C003AL,CCCCCCCCCCCCCC(=O)O[C@@H]1[C@@H](C)[C@@]2(O)[C@@H](C=C(CO)C[C@]3(O)C(=O)C(C)=C[C@@H]23)[C@@H]2C(C)(C)[C@]12OC(C)=O,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+C004UH,Sc1nnc(-c2cccc(Br)c2)o1,Peroxisome proliferator-activated receptor gamma/Nuclear receptor coactivator 2,Peroxisome proliferator-activated receptor gamma/Nuclear receptor coactivator 2,P37231,Q15596,,,,70.0,1
+T00276,CN[C@@H]1CC2O[C@@](C)([C@@H]1OC)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)NC4,Tak1/Tab1,Tak1/Tab1,O43318,Q15750,,,,56.0,1
+C000TL,CN[C@@H]1C[C@H]2O[C@@](C)([C@@H]1OC)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)NC4,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+P00081,Nc1ccc2cn[nH]c2c1,BAZ2B/H4,BAZ2B/H4,Q9UIF8,P62805,,,,15.0,1
+C004RD,CCCCC/C=C\C[C@H](O)/C=C/c1cccc(C[C@H](O)CCCCO)n1,1-acylglycerol-3-phosphate O-acyltransferase ABHD5/Perilipin-5,1-acylglycerol-3-phosphate O-acyltransferase ABHD5/Perilipin-5,Q8WTS1,Q00G26,,,,65.0,1
+C000Q3,O=P1(NCCCl)OCCCN1CCCl,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+T00839,CC1(C)C(/C=C/C=C/C=C/C=C2/N(CCC(=O)N[C@@H](CCCN=C(N)N)C(=O)NCC(=O)N[C@H](CC(=O)O)C(=O)N[C@@H](CCCN=C(N)N)C(=O)NCC(=O)N[C@H](CC(=O)O)C(=O)N[C@@H](CCCN=C(N)N)C(=O)NCC(=O)N[C@H](CC(=O)N[C@@H](CCCN=C(N)N)C(=O)NCC(=O)N[C@H](CC(=O)O)C(N)=O)C(=O)O)c3ccc4ccccc4c3C2(C)C)=[N+](CC(=O)N[C@@H](CCCN=C(N)N)C(=O)NCC(=O)N[C@H](CC(=O)O)C(=O)N[C@@H](CCCN=C(N)N)C(=O)NCC(=O)N[C@H](CC(=O)O)C(=O)N[C@@H](CCCN=C(N)N)C(=O)NCC(=O)N[C@H](CC(=O)N[C@@H](CCCN=C(N)N)C(=O)NCC(=O)N[C@H](CC(=O)O)C(N)=O)C(=O)O)c2ccc3ccccc3c21,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,1
+P0004F,CNC(=O)N1C[C@@H](C)Oc2cc(C)ccc21,CREBBP/H4,CREBBP/H4,Q92793,P62805,,,,1.0,1
+C005CZ,CC1=CC(C)(C)[C@@H](/C=C\[C@@H](C)[C@H]2CC[C@H]3[C@@H]4C[C@H](OS(=O)(=O)[O-])[C@H]5C[C@H](O)[C@@H](OS(=O)(=O)[O-])C[C@]5(C)[C@H]4CC[C@@]32C)[C@H]1CC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3C[C@H](OS(=O)(=O)[O-])[C@H]4C[C@H](OS(=O)(=O)[O-])[C@@H](OS(=O)(=O)[O-])C[C@]4(C)[C@H]3CC[C@@]21C.[Na+].[Na+].[Na+].[Na+].[Na+],Ubiquitin-conjugating enzyme E2 N/Ubiquitin-conjugating enzyme E2 variant 1,Ubiquitin-conjugating enzyme E2 N/Ubiquitin-conjugating enzyme E2 variant 1,P61088,Q13404,,,,80.0,1
+C001NE,O=C(O)CC1(c2ccc(F)cc2)C2CC3CC(C2)CC1C3,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+P0000P,O=C(N1CCc2sccc2C1)n1ccnc1,BRD4-1/H4,Bromodomain/Histone,O60885,P62805,,,,3.0,1
+C004QW,CCCCC/C=C\C[C@H](O)/C=C/c1cccc(C[C@H](O)CCCCO)n1,Perilipin-1/ABHD5,Perilipin-1/ABHD5,O60240,Q8WTS1,,,,64.0,1
+C001DF,CC1=C(/C=C/C(C)=C/C=C/C(C)=C/C(=O)Nc2ccc(O)cc2)C(C)(C)CCC1,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+P000EK,C[C@@H]1CC(=O)Nc2cccc(-c3ccc4c(c3)c(C3CC3)nn4C)c2N1,CREBBP/H4,CREBBP/H4,Q92793,P62805,,,,1.0,1
+C002KR,Cc1ccc(NC2=NC(=O)/C(=C/C=C/c3ccco3)S2)cc1C,Importin subunit beta-1/Snurportin-1,Importin subunit beta-1/Snurportin-1,Q14974,O95149,,,,18.0,1
+T002ZG,CC1=C[C@@H](O)[C@@H]([C@@H](C)CC[C@@H]2[C@@H](C)[C@@]3(C)CC[C@]2(C)O3)CC1,HIF-1a/p300,HIF-1a/p300,Q16665,Q09472,,,,23.0,1
+C000AG,C/N=C(\S)n1cnc(N)n1,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+T002ZE,CC1=C[C@@H](O)[C@@H]([C@H](C)CC[C@@H]2[C@@H](C)[C@@]3(C)CC[C@]2(C)O3)CC1,HIF-1a/p300,HIF-1a/p300,Q16665,Q09472,,,,23.0,1
+T007LN,On1ncc2cc(CCc3nn[nH]n3)ccc21,BetaCatenin/Tcf3,Beta-catenin/TCF,P35222,P15923,,,,115.0,1
+C0017H,Cc1n[nH]c2c1C(=O)CC(C)(C)C2,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C003A5,C=CC1=C(C)c2cc3nc(cc4[nH]c(cc5[nH]c(cc1n2)c(C)c5C=C)c(C)c4CCC(=O)O)C(CCC(=O)O)=C3C,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+C000ER,CC(=O)[C@H]1CC[C@H]2[C@@H]3CC[C@H]4C[C@H](O)CC[C@]4(C)[C@H]3C(=O)C[C@]12C,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C0026P,Nc1ncnc2c1ncn2[C@@H]1O[C@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)O)[C@H]2OC3(O[C@H]21)C([N+](=O)[O-])=CC(=[N+]([O-])[O-])C=C3[N+](=O)[O-],Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C0001C,CC/C(=C(/CC)c1ccc(O)cc1)c1ccc(O)cc1,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C005F5,C=C(C)CNC(=O)C(C)(C)[C@@H]1C=C[C@@]2(COCOC)[C@@H](OC(=O)Nc3ccccc3)CC(C)=C[C@H]2C1,Induced myeloid leukemia cell differentiation protein Mcl-1/Bcl-2-like protein 11,Induced myeloid leukemia cell differentiation protein Mcl-1/Bcl-2-like protein 11,Q07820,O43521,,,,84.0,1
+C000UE,Nc1ccc(N)cc1,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C005HS,O=[N+]([O-])c1c(NCc2ccc(F)cc2C(F)(F)F)ccc2nonc12,Aryl hydrocarbon receptor nuclear translocator/Endothelial PAS domain-containing protein 1,Aryl hydrocarbon receptor nuclear translocator/Endothelial PAS domain-containing protein 1,P27540,Q99814,,,,88.0,1
+C001GE,C/C(=C\c1ccc(N(C)C)cc1)[N+](=O)[O-],Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+T00275,CN[C@@H]1C[C@H]2O[C@@](C)([C@@H]1OC)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)NC4,Tak1/Tab1,Tak1/Tab1,O43318,Q15750,,,,56.0,1
+C005DD,Oc1c(C(Nc2cccc(F)c2)c2ccccn2)ccc2cccnc12,MIF/CD74,MIF/CD74 (Macrophage migration inhibitory factor and HLA-DR antigens-associated invariant chain),P14174,P04233,,,,81.0,1
+C003BB,CCN(CC)C(=S)SSC(=S)N(CC)CC,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+C004RA,CCN(CC)C(=S)SSC(=S)N(CC)CC,1-acylglycerol-3-phosphate O-acyltransferase ABHD5/Perilipin-5,1-acylglycerol-3-phosphate O-acyltransferase ABHD5/Perilipin-5,Q8WTS1,Q00G26,,,,65.0,1
+P000F0,CN1CCCC1=O,PB1-5/H4,PB1-5/H3,Q86U86-5,P62805,,,,37.0,1
+T004U8,C[n+]1cc2c(O)c(O)ccc2c2ccc3cc(O)c(O)cc3c21,Rac1/GEFs,RAC1/TIAM1,P63000,Q13009,,,,22.0,1
+C0034H,CCN1CCCC1=O,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+T003UQ,CC[C@@]1(O)C(=O)OCc2c1cc1n(c2=O)Cc2c-1nc1ccc(OC(=O)N3CCN(C(=O)c4ccc(COC(=O)N[C@@H](CCC(=O)N5CCN(c6cccc(NC7=NCCCN7)c6)CC5)C(=O)O)cc4)CC3)cc1c2/C=N/OC(C)(C)C,Integrin alpha-V/beta-5,Integrins,P06756,P18084,,,,106.0,1
+T007R6,C[C@H]1C[C@H](C)C(=O)[C@H]([C@H](O)CC2CC(=O)NC(=O)C2)C1,FKBP1A/FK506,FKBP1A/FK506,P62942,na,,,,4.0,1
+I001G6,Nc1nnc(-c2nc(-c3ccsc3)n(-c3cccc(Cl)c3F)c2-c2ccc(F)c(Cl)c2)o1,MDM2/p53,P53/HDM2,Q00987,P04637,,,,6.0,1
+C0037E,CCCCCCCCCCCCCCCCCCOC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+P000IT,Oc1ccc2cc[nH]c2c1,BAZ2B/H4,BAZ2B/H4,Q9UIF8,P62805,,,,15.0,1
+I0006A,Cn1ccc2ccc(-c3nc(-c4nn[nH]n4)c(-c4ccc(F)c(Cl)c4)n3-c3cccc(Cl)c3F)cc21,MDM2/p53,P53/HDM2,Q00987,P04637,,,,6.0,1
+C0022G,CC(=O)[C@H]1CC[C@H]2[C@@H]3CC[C@H]4C[C@](C)(O)CC[C@]4(C)[C@H]3CC[C@]12C,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C000VG,OCCN(CCO)c1nc(N2CCCCC2)c2nc(N(CCO)CCO)nc(N3CCCCC3)c2n1,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C005F9,C=C(C)CNC(=O)C(C)(C)[C@@H]1C=C[C@@]2(COCOC)[C@@H](OC(=O)NC3CCCCC3)CC(C)=C[C@H]2C1,Induced myeloid leukemia cell differentiation protein Mcl-1/Bcl-2-like protein 11,Induced myeloid leukemia cell differentiation protein Mcl-1/Bcl-2-like protein 11,Q07820,O43521,,,,84.0,1
+C002LT,CCSc1nc2sc3c(c2c(=O)[nH]1)CCCC3,Importin subunit beta-1/Snurportin-1,Importin subunit beta-1/Snurportin-1,Q14974,O95149,,,,18.0,1
+C003IY,CCOP(=S)(OCC)Oc1cc(C)nc(N(CC)CC)n1,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+T003HU,Oc1ccc(/C=N/c2ccc(O)cc2)cc1,S100B/p53,S100B/p53,P04271,P04637,,,,42.0,1
+T007LN,On1ncc2cc(CCc3nn[nH]n3)ccc21,BetaCatenin/Tcf4,Beta-catenin/TCF,P35222,P15884,,,,25.0,1
+C00021,Oc1ccc(O)cc1,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C001ZC,CCCCc1c(C)nn(-c2nnc3c4ccccc4n(CC)c3n2)c1C,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C0005E,O=C(O)[C@@H]1C[C@H](C(=O)O)N1,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C001LP,CCOc1ccc2nc(NC3=NC(C)=CC(C)(C)N3)nc(C)c2c1,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+T005H0,O=C(O)CN1CCC2(CCC(C(=O)N3CCC(C4CCCCC4)CC3)CC2)CC1,Integrin alpha-IIb/beta-3,Integrins,P08514,P05106,,,,104.0,1
+T001JH,Cc1ccccc1NC(=O)Nc1ccc(C(=O)N[C@H](CCCCNC(=O)/C=C/c2cccnc2)C(=O)N[C@H](CCCC(=O)O)C(=O)NC2(C(N)=O)CCCCC2)cc1,Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,1
+C002DC,CC(=O)O[C@]1(C(C)=O)CC[C@H]2[C@@H]3C=C(Cl)C4=CC(=O)CC[C@]4(C)[C@H]3CC[C@@]21C,Importin subunit beta-1/Snurportin-1,Importin subunit beta-1/Snurportin-1,Q14974,O95149,,,,18.0,1
+C0038P,CC(C)(S)[C@H](N)C(=O)O,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+T003RT,O=c1c(/C=N/Cc2ccco2)c(CSc2ccc(Cl)cc2)[nH]n1-c1nc2ccccc2s1,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,1
+C0038D,CC(C)(c1cc(Br)c(O)c(Br)c1)c1cc(Br)c(O)c(Br)c1,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+C000D2,O=C(NCCCCCCNC(=O)ON=C1CCCCC1)ON=C1CCCCC1,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+T0060C,C=C[C@@]1(C)CC[C@](C)(C(C)C)c2cc3c4c(c[nH]c4c21)CC(=O)NC(=O)[C@H](C(C)C)N3C,XIAP/SMAC (BIR3 domanin),XIAP/SMAC,P98170,Q9NR28,,,,16.0,1
+P000GF,Cc1ccc([C@H](C)Nc2ccc3c(c2)N(C2CC2)[C@@H](C)C(=O)N3C)cc1,BRD4-1/H4,Bromodomain/Histone,O60885,P62805,,,,3.0,1
+T004WH,O=C([O-])c1ccccc1Oc1ccccc1,BetaCatenin/Tcf4,Beta-catenin/TCF,P35222,P15884,,,,25.0,1
+C0022C,Cc1cc(/C=C/c2ccc3cc(N(C)C)ccc3[n+]2C)c(C)n1-c1ccccc1.O=C([O-])c1cc2ccccc2c(Cc2c(O)c(C(=O)O)cc3ccccc23)c1O,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+T0067P,CC[C@@]1(O)C(=O)OCc2c1cc1n(c2=O)Cc2cc3c(CN(C)C)c(O)ccc3nc2-1,HIF-1a/p300,HIF-1a/p300,Q16665,Q09472,,,,23.0,1
+P00019,Nc1nc(-c2cc(Br)cc3ccoc23)c2nc[nH]c2n1,BRD4-1/H4,Bromodomain/Histone,O60885,P62805,,,,3.0,1
+C003A4,CC(C)(S)[C@@H](N)C(=O)O,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+C001GK,N#Cc1c(Oc2cccc(OS(=O)(=O)CCCC(F)(F)F)c2)cccc1C(F)(F)F,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C0028I,Cl.Cl.Oc1ccc2c3c1O[C@H]1c4[nH]c5c(c4C[C@@]4(O)[C@@H](C2)N(CC2CC2)CC[C@]314)C[C@@]1(O)[C@H]2Cc3ccc(O)c4c3[C@@]1(CCN2CC1CC1)[C@H]5O4,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+P0001W,Cc1cc2c(-c3cncc(N)c3)cnc(N[C@@H]3CCNC[C@H]3OCC3CCS(=O)(=O)CC3)c2[nH]c1=O,BRD4-1/H4,Bromodomain/Histone,O60885,P62805,,,,3.0,1
+C000RF,C[N+](C)(C)CCCCCC[N+](C)(C)C.[Br-].[Br-],Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C000VW,CN(C)[C@@H]1C(O)=C(C(N)=O)C(=O)[C@@]2(O)C(O)=C3C(=O)c4c(O)cccc4[C@@](C)(O)[C@H]3[C@H](O)[C@@H]12,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+T007JG,CCC(=C/[C@H](C)C/C=C/C(C)=C/[C@@H](C)C(=O)[C@@H](C)[C@H](O)[C@@H](C)C/C(C)=C/C(=O)O)/C=C/[C@@H]1OC(=O)C=C[C@@H]1C,CRM1/Rev,CRM1/Rev,O14980,P04618,,,,30.0,1
+C101W6,O=C(NCCCCN=C=S)Nc1ccc2scnc2c1,Keap1/Nrf2,KEAP1/NRF2,Q14145,Q16236,,,,45.0,1
+C002MY,Cc1ccc(C#N)c(SCc2nnc(-c3ccc(Cl)cc3)o2)n1,Importin subunit beta-1/Snurportin-1,Importin subunit beta-1/Snurportin-1,Q14974,O95149,,,,18.0,1
+T002II,CC[C@H]1CN2CCc3cc(O)c(OC)cc3[C@@H]2C[C@@H]1C[C@@]1(O)NCCc2cc(O)c(OC)cc21,HIF-1a/p300,HIF-1a/p300,Q16665,Q09472,,,,23.0,1
+T003UQ,CC[C@@]1(O)C(=O)OCc2c1cc1n(c2=O)Cc2c-1nc1ccc(OC(=O)N3CCN(C(=O)c4ccc(COC(=O)N[C@@H](CCC(=O)N5CCN(c6cccc(NC7=NCCCN7)c6)CC5)C(=O)O)cc4)CC3)cc1c2/C=N/OC(C)(C)C,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,1
+C1022R,O=c1[nH]c2ccc(Nc3cc(NCCCO)c([N+](=O)[O-])cc3Cl)cc2[nH]1,BCoR/BCL6,BCoR/BCL6,Q6W2J9,P41182,,,,97.0,1
+C000BE,CN(C)c1ccc(/C=C/c2ccc3ccccc3n2)cc1,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C003DM,N[C@@H](CSS(=O)(=O)O)C(=O)O,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+C001AB,O=C1OC2(c3cc(I)c(O)c(I)c3Oc3c2cc(I)c(O)c3I)c2c(Cl)c(Cl)c(Cl)c(Cl)c21,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C0011E,CO[C@@]12[C@H](COC(N)=O)C3=C(C(=O)C(C)=C(N)C3=O)N1C[C@H]1[C@@H]2N1C,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C003LV,Nc1ccc2[nH]c(CCCCCCCCc3nc4cc(N)ccc4[nH]3)nc2c1,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+P0007Z,Cn1c(=S)n(CCSc2nc3ccccc3[nH]2)c2ccccc21,BRD2-1/H4,Bromodomain/Histone,P25440,P62805,,,,50.0,1
+C003QP,CC(C)(C)c1cc(C=C(C#N)C#N)cc(C(C)(C)C)c1O,Guanine nucleotide-binding protein G(i) subunit alpha-1/Regulator of G-protein signaling 12,Guanine nucleotide-binding protein G(i) subunit alpha-1/Regulator of G-protein signaling 12,P63096,O14924,,,,48.0,1
+C004TM,Sc1nnc(-c2cccc(Br)c2)o1,Peroxisome proliferator-activated receptor gamma/Nuclear receptor coactivator 1,Peroxisome proliferator-activated receptor gamma/Nuclear receptor coactivator 1,P37231,Q15788,,,,69.0,1
+C0013X,Clc1ccc2c(N/N=C/c3ccc(Br)cc3)ccnc2c1,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C000Y3,CC(C)[C@H]1C(=O)O[C@H](C(C)C)C(=O)N(C)[C@@H](C(C)C)C(=O)O[C@H](C(C)C)C(=O)N(C)[C@@H](C(C)C)C(=O)O[C@H](C(C)C)C(=O)N1C,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C000D7,CCCc1c(OCCCCc2nnn[nH]2)ccc(C(C)=O)c1O,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+T002F4,CC[C@H](C)[C@H](NC(=O)[C@@H]1CCCN1C(=O)[C@H](CS)NC(=O)[C@H](C)N)C(=O)NCCOCCOCC(=O)NCCN(CC(=O)NCCN(CC(=O)NCCN(CC(=O)NCCN(CC(=O)NCCN(CC(=O)NCCN(CC(=O)NCCN(CC(=O)NCC(N)=O)C(=O)Cn1cnc2c(=O)[nH]c(N)nc21)C(=O)Cn1cnc2c(N)ncnc21)C(=O)Cn1ccc(N)nc1=O)C(=O)Cn1cnc2c(N)ncnc21)C(=O)Cn1cc(C)c(=O)[nH]c1=O)C(=O)Cn1ccc(N)nc1=O)C(=O)Cn1ccc(N)nc1=O,XIAP/SMAC (BIR3 domanin),XIAP/SMAC,P98170,Q9NR28,,,,16.0,1
+C002U8,Nc1nonc1-c1nc2ccccc2n1Cc1ccc(F)cc1Cl,Importin subunit beta-1/Snurportin-1,Importin subunit beta-1/Snurportin-1,Q14974,O95149,,,,18.0,1
+C0019I,CC(C)=CCC/C(C)=C/CC/C(C)=C/CSCC(=O)O,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C1029D,C[S+]([O-])CCCCN=C=S,KEAP1/NRF2,KEAP1/NRF2,Q14145,Q16236,,,,45.0,1
+C001H9,COCCN1CSC(=S)N(Cc2ccco2)C1,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+P000JQ,C[C@@H]1CN(CC(=O)N2CC(C)(C)c3nc(CO)c(Cc4ccc(F)cc4)cc32)[C@@H](CN2CCOC[C@H]2C)C[NH2+]1,XIAP-BIR3/SMAC,XIAP/SMAC,P98170,Q9NR28,,,,16.0,1
+J1006A,CN(C)c1ccc(C=Nc2c(-c3ccccc3)nc3ncccn23)cc1,GATA4/NKX2-5,GATA4/NKX2-5,P43694,P52952,,,,90.0,1
+P000BK,O=C(Nc1cc(-c2csc(=O)[nH]2)cc(S(=O)(=O)NC2CCCC2)c1)C1CC1,BRD4-1/H4,Bromodomain/Histone,O60885,P62805,,,,3.0,1
+T001XC,CC1(C)C(/C=C/C=C/C=C/C=C2/N(CCC(=O)N[C@@H](CCCN=C(N)N)C(=O)NCC(=O)N[C@H](CC(=O)O)C(=O)N[C@@H](CCCN=C(N)N)C(=O)NCC(=O)N[C@H](CC(=O)O)C(=O)N[C@@H](CCCN=C(N)N)C(=O)NCC(=O)N[C@H](CC(=O)N[C@@H](CCCN=C(N)N)C(=O)NCC(=O)N[C@H](CC(=O)O)C(N)=O)C(=O)O)c3ccc4ccccc4c3C2(C)C)=[N+](CC(=O)O)c2ccc3ccccc3c21,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,1
+C005IQ,CC(O)(c1cnc(-c2ccc(S(=O)(=O)c3ccc(N)nc3)s2)c(Cl)c1)C(F)(F)F,Glucokinase/Glucokinase regulatory protein,Glucokinase/Glucokinase regulatory protein,Q14397,Q14397,,,,82.0,1
+C001LW,C=CCN1CC[C@]23c4c5ccc(O)c4O[C@H]2/C(=N/NC(=O)c2ccccc2)CC[C@@]3(O)[C@H]1C5,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C001CL,CN(C)[C@@H]1C(O)=C(C(N)=O)C(=O)[C@@]2(O)C(O)=C3C(=O)c4c(O)ccc(Cl)c4[C@@H](O)[C@H]3C[C@@H]12.Cl,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+T00800,C1=C/[C@@H]2[C@H](C[C@@H]3CCCC[C@H]32)NCCCN[C@@H]2C[C@@H]3CCCC[C@H]3[C@@H]2/C=C/1,HIF-1a/p300,HIF-1a/p300,Q16665,Q09472,,,,23.0,1
+C003EU,CCN1/C(=C/C=C/c2oc3ccc4ccccc4c3[n+]2CC)Oc2ccc3ccccc3c21.Cc1ccc(S(=O)(=O)[O-])cc1,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+T007N5,N#Cc1ccc2cc1Oc1ccc(CCC3CCCCC3)c(c1)CN1CCN(CC1=O)Cc1cncn1C2,K-Ras/SOS1,KRAS/SOS1,P01116,Q07889,,,,12.0,1
+P000BB,Clc1ncc[nH]1,BAZ2B/H4,BAZ2B/H4,Q9UIF8,P62805,,,,15.0,1
+C002SV,C#C[C@]1(O)CC[C@H]2[C@@H]3CCC4=Cc5nc6nc7ccccc7n6cc5C[C@]4(C)[C@H]3CC[C@@]21C,Importin subunit beta-1/Snurportin-1,Importin subunit beta-1/Snurportin-1,Q14974,O95149,,,,18.0,1
+C001QQ,Cc1cc2nc3c(=O)[nH]c(=O)nc-3n(C[C@@H](O)[C@@H](O)[C@@H](O)CO)c2cc1C,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C003JL,C[N+](C)(C)CCO.[Br-],Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+C000V1,Cc1nc2c([nH]1)c(=O)n(C)c(=O)n2Cc1ccco1,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C003OO,COP(=S)(OC)Oc1ccc(SC)c(C)c1,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+P000G1,Cc1cc(=O)n(C)c2cc(N3CCCCC3=O)ccc12,BRD9/H4,Bromodomain/Histone,Q9H8M2,P62805,,,,34.0,1
+C001LR,C[N+](C)(C)CCO.[Br-],Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+I0004Q,c1cc(Nc2ccc(NCCc3cnc4n3CCCC4)cc2)ccn1,MDM2/p53,P53/HDM2,Q00987,P04637,,,,6.0,1
+P0007X,COc1ccc(Br)cc1-c1nc(N)nc2[nH]cnc12,BRD4-1/H4,Bromodomain/Histone,O60885,P62805,,,,3.0,1
+P000IX,Nc1ccc2[nH]ncc2c1,BAZ2B/H4,BAZ2B/H4,Q9UIF8,P62805,,,,15.0,1
+C0003R,CC(C)=CCC/C(C)=C/CO,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+I001AN,Cc1ccc2ccc([C@H](Nc3ccccc3)c3ccccc3)c(O)c2n1,MDM2/p53,P53/HDM2,Q00987,P04637,,,,6.0,1
+C004VD,OCCN(CCO)c1nc(N2CCCCC2)c2nc(N(CCO)CCO)nc(N3CCCCC3)c2n1,Keap1/Nrf2,KEAP1/NRF2,Q14145,Q16236,,,,45.0,1
+C001CU,CN1C(=O)NC(=O)C(C)(C2=CCCCC2)C1=O,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C0026T,Nc1ccc(-c2nc3ccc(-c4nc5ccc(N)cc5[nH]4)cc3[nH]2)cc1,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C003DH,C=CCNC(=S)N/N=C(\C)c1ccccn1,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+P0003H,Cc1cc2ccnc(N[C@@H]3CCNC[C@H]3OCC3CCCCC3)c2[nH]c1=O,BRD4-1/H4,Bromodomain/Histone,O60885,P62805,,,,3.0,1
+C0002K,CCc1cc(C(C)=O)c(O)cc1OCCCCCC(C)(C)c1nn[nH]n1,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C001TZ,O=C(OC1Cc2c(O)cc(O)cc2OC1c1cc(O)c(=O)c2c(O)c(O)cc(C3Oc4cc(O)cc(O)c4CC3OC(=O)c3cc(O)c(O)c(O)c3)c2c1)c1cc(O)c(O)c(O)c1,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+J100BN,CC(=O)NCCNCc1cc(C)c(OCc2cccc(-c3cccc(COc4cc(OCc5cncc(C#N)c5)c(CNCCNC(C)=O)cc4C)c3C)c2C)cc1OCc1cncc(C#N)c1,PD-1/PD-L1,PD-1/PD-L1,Q15116,Q9NZQ7,,,,91.0,1
+P000GG,Cc1ccc([C@H](C)Nc2ccc3c(c2)N(C2CC2)[C@H](C)C(=O)N3C)cc1,BRD4-1/H4,Bromodomain/Histone,O60885,P62805,,,,3.0,1
+C003K7,Cl.Nc1ccn([C@@H]2O[C@H](CO)[C@@H](O)[C@@H]2O)c(=O)n1,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+C001FZ,C1CCC(C(CC2CCCCN2)C2CCCCC2)CC1.O=C(O)/C=C\C(=O)O,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C00285,CCC(C)(C)c1ccc(OCCCC[n+]2ccc(C)cc2)c(C(C)(C)CC)c1.[Br-],Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+P0004Q,CC1(C)CN=C(N2CCN(c3ncnc4sc(C(F)(F)C(F)(F)F)cc34)CC2)S1,MENIN/MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+T006X2,Cc1ccc2ccc(C(Nc3ccccc3)c3ccccc3)c(O)c2n1,p53/MDM2,P53/HDM2,P04637,Q00987,,,,6.0,1
+P000JD,CCNc1ncnc2cc(OC)c(OC)cc12,BRD4-1/H4,Bromodomain/Histone,O60885,P62805,,,,3.0,1
+T0064H,C#C[C@@H](O)/C=C/CCCCCCC#C[C@H](O)C#C/C=C/CC/C=C\CCCC/C=C\CCCCCCCCCCCCC/C=C/[C@@H](O)C#C,HIF-1a/p300,HIF-1a/p300,Q16665,Q09472,,,,23.0,1
+C000QG,N#CC(C#N)=Cc1cc(O)c(O)c(O)c1,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C001IS,CN(C)c1ccc(/C=C/c2cc[n+](C)cc2)cc1.[I-],Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+P0004A,CN(C)Cc1ccn2c1[nH]c(=O)c1c(Cl)cccc12,PB1-5/H4,PB1-5/H3,Q86U86-5,P62805,,,,37.0,1
+T00571,Nc1nc2c(ncn2[C@H]2O[C@@H](COP(=O)(O)OP(=O)(O)O)[C@H](O)[C@@H]2O)c(=O)[nH]1,Rac1/GEFs,RAC1/TIAM1,P63000,Q13009,,,,22.0,1
+P000L6,Cn1ccc2cc[nH]c2c1=O,BRD9/H4,Bromodomain/Histone,Q9H8M2,P62805,,,,34.0,1
+T000T7,Nc1ccc(N2CCCCC2)cc1N1CCCCC1,S100B/p53,S100B/p53,P04271,P04637,,,,42.0,1
+C1022S,O=C1Cc2cc(Nc3cc(OC4CCOCC4)c([N+](=O)[O-])cc3Cl)ccc2N1,BCoR/BCL6,BCoR/BCL6,Q6W2J9,P41182,,,,97.0,1
+C0013A,Nc1cc(=O)[nH]c(SCc2ccccc2Cl)n1,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+T006QX,O=C(OCc1cc(=O)n2c(n1)sc1ccccc12)C12CC3CC(CC(O)(C3)C1)C2,Rac1/GEFs,RAC1/TIAM1,P63000,Q13009,,,,22.0,1
+P000DB,Oc1ccc(-c2nc(-c3ccc(F)cc3)c(-c3ccncc3)[nH]2)cc1,BRD4-1/H4,Bromodomain/Histone,O60885,P62805,,,,3.0,1
+C005IX,COCC#Cc1cc(C(O)(C(F)(F)F)C(F)(F)F)cnc1-c1ccc(S(=O)(=O)c2ccc(N)nc2)cc1,Glucokinase/Glucokinase regulatory protein,Glucokinase/Glucokinase regulatory protein,Q14397,Q14397,,,,82.0,1
+C003NJ,Cl.Cl.NCCCCN,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+C000HI,N=C(NCCC[C@H](N)CNCCN)N[N+](=O)[O-],Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+P000JI,Cc1cncc(-c2cnc(N[C@@H]3C[C@H]4CC[C@H](N4)[C@H]3CCC3CCC(F)(F)CC3)c3[nH]c(=O)c(C)cc23)c1,BRD4-1/H4,Bromodomain/Histone,O60885,P62805,,,,3.0,1
+C000F1,CN1C2CC(=O)CC1C(O)C2,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+P000C3,O=C(CN1CC[NH2+]CC1)N1CCCCC1,XIAP-BIR3/SMAC,XIAP/SMAC,P98170,Q9NR28,,,,16.0,1
+T003RT,O=c1c(/C=N/Cc2ccco2)c(CSc2ccc(Cl)cc2)[nH]n1-c1nc2ccccc2s1,Integrin alpha-V/beta-1,Integrins,P06756,P05556,,,,99.0,1
+C0012H,N#CC(c1cccc(Cl)c1)c1ccc2c(C(F)(F)F)cc(C(F)(F)F)nc2n1,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C00123,CCN1/C(=C/C=C/c2oc3ccc4ccccc4c3[n+]2CC)Oc2ccc3ccccc3c21.Cc1ccc(S(=O)(=O)[O-])cc1,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C0051L,CN(CCC#N)C(=O)COC(=O)c1c2c(nc3ccccc13)/C(=C/c1ccco1)CC2,Voltage-gated N-type calcium channel alpha-1B subunit/Amyloid beta A4 precursor protein-binding family A member 1,Voltage-gated N-type calcium channel alpha-1B subunit/Amyloid beta A4 precursor protein-binding family A member 1,Q00975,Q02410,,,,72.0,1
+C003JC,O=c1[nH]c(=O)c2nc(-c3ccc(Cl)cc3)cnc2[nH]1,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+C0034T,CC(C)(Sc1cc(C(C)(C)C)c(O)c(C(C)(C)C)c1)Sc1cc(C(C)(C)C)c(O)c(C(C)(C)C)c1,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+P00040,Brc1c[nH]cn1,BAZ2B/H4,BAZ2B/H4,Q9UIF8,P62805,,,,15.0,1
+P000JR,CO[C@H]1CNC[C@@H](OCC2CCC(F)(F)CC2)[C@@H]1Nc1ncc(-c2cncc(C)c2)c2cc(C)c(=O)[nH]c12,BRD4-1/H4,Bromodomain/Histone,O60885,P62805,,,,3.0,1
+C003JM,Cl.O=C(O)C1=CCCNC1,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+P000J3,C[C@@H]1CN(CC(=O)N2CC(C)(C)c3ncc(Cc4ccc(F)cc4)cc32)[C@@H](CN2CCOC[C@H]2C)C[NH2+]1,XIAP-BIR3/SMAC,XIAP/SMAC,P98170,Q9NR28,,,,16.0,1
+I001AM,CCOc1cc(CNCc2ccccc2)cc(Cl)c1OCc1ccccc1Cl,NRP/VEGF,NRP/VEGF,O14786,P15692,,,,38.0,1
+C003R2,N#CC(C#N)=Cc1cc(O)c(O)c(O)c1,Guanine nucleotide-binding protein G(i) subunit alpha-1/Regulator of G-protein signaling 12,Guanine nucleotide-binding protein G(i) subunit alpha-1/Regulator of G-protein signaling 12,P63096,O14924,,,,48.0,1
+C0037Q,CN(C)c1ccc(/C=C/c2ccc3ccccc3n2)cc1,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+I0008H,CCNc1nc(NCC)nc(C(=O)NN)n1,LEDGF/IN,LEDGF/IN,O75475,C5J4T0,,,,29.0,1
+C004U2,CN(C)c1ccc2nc3ccc(=[N+](C)C)cc-3sc2c1.[Cl-],Peroxisome proliferator-activated receptor gamma/Nuclear receptor coactivator 2,Peroxisome proliferator-activated receptor gamma/Nuclear receptor coactivator 2,P37231,Q15596,,,,70.0,1
+C004QT,CCN(CC)C(=S)SSC(=S)N(CC)CC,Perilipin-1/ABHD5,Perilipin-1/ABHD5,O60240,Q8WTS1,,,,64.0,1
+C003MJ,CC(=O)Oc1cc(-c2coc3cc(OC(C)=O)c(OC(C)=O)c(OC(C)=O)c3c2=O)cc(OC(C)=O)c1OC(C)=O,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+C00320,Cc1cc2nc(/C=C/c3nc4cc(C)c(C)cc4[nH]3)[nH]c2cc1C,Importin subunit beta-1/Snurportin-1,Importin subunit beta-1/Snurportin-1,Q14974,O95149,,,,18.0,1
+T006JO,Nc1ccc(N2CCNCC2)cc1,S100B/p53,S100B/p53,P04271,P04637,,,,42.0,1
+C001YB,OCCCNc1nc(O)c2c(n1)-c1ccccc1CC21CCCC1,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C000AW,COc1cc(SSc2cc(OC)cc([N+](=O)[O-])c2N)c(N)c([N+](=O)[O-])c1,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C00112,Cc1cc2nc3c(=O)[nH]c(=O)nc-3n(CC(O)C(O)C(O)CO)c2cc1C,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C001N6,C[C@]12C=CC(=O)C=C1CC[C@@H]1C2=CC[C@]2(C)[C@@H](C(=O)CN3CCN(c4cc(N5CCCC5)nc(N5CCCC5)n4)CC3)CC[C@@H]12.O=C(O)/C=C\C(=O)O,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C003EJ,Oc1ccc(/N=C/c2ccc(-c3cccs3)s2)cc1,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+C001Q8,Cc1cc2nc3c(=O)[nH]c(=O)nc-3n(C)c2cc1C=O,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+P000F1,CN1CCCC1=O,CREBBP/H4,CREBBP/H4,Q92793,P62805,,,,1.0,1
+C0050Q,Clc1nss/c1=N\c1ccccc1,Voltage-gated N-type calcium channel alpha-1B subunit/Amyloid beta A4 precursor protein-binding family A member 1,Voltage-gated N-type calcium channel alpha-1B subunit/Amyloid beta A4 precursor protein-binding family A member 1,Q00975,Q02410,,,,72.0,1
+P000K2,CN(C)c1ncc2c(=O)n(C)ccc2n1,BRD9/H4,Bromodomain/Histone,Q9H8M2,P62805,,,,34.0,1
+C0005T,O=C1NCN(c2ccccc2)C12CCN(CCCC(c1ccc(F)cc1)c1ccc(F)cc1)CC2,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+T000MQ,N=C(N)NC(=N)Nc1cc(Cl)cc(Cl)c1,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,1
+C000EF,CCCCCS(=O)(=O)CCCCCCCCCCn1c(-c2ccc(O)cc2)c(C)c2cc(O)ccc21,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C0006J,CC[C@H](C)C(=O)O[C@H]1CCC=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@H]21,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C1021A,C=C(C)C(=O)O[C@H]1CC(=C)[C@@H]2C[C@H](O)[C@](O)(CCl)[C@@H]2[C@H]2OC(=O)C(=C)[C@H]12,Cyclin-dependent kinases regulatory subunit 1/S-phase kinase-associated protein 2,Cyclin-dependent kinases regulatory subunit 1/S-phase kinase-associated protein 2,P61024,Q13309,,,,86.0,1
+P00061,CNC(=O)c1cc(Br)c[nH]1,CREBBP/H4,CREBBP/H4,Q92793,P62805,,,,1.0,1
+T004QS,CC(C)CN(CC(=O)N(CCCCN)CC(=O)N(CC(=O)N(CCCCN)CC(=O)N(CCCCN)CC(N)=O)Cc1ccco1)C(=O)CNCCCN1CCCC1=O,BRD4/NUT,Bromodomain/Histone,O60885,Q86Y26,,,,24.0,1
+C001MX,CCCCCCCCCOc1ccc2[nH]cc(CCN)c2c1.Cl,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C000C4,N#C/C(=C\c1cc(O)c(O)c(O)c1)C(N)=O,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+P000JZ,Nc1nc(=S)[nH]c2[nH]ncc12,KEAP1/NRF2,KEAP1/NRF2,Q14145,Q16236,,,,45.0,1
+I000FI,Cc1cc(Nc2ccnc3c2CC[C@@H]3O)ccc1NCCc1c[nH]c2c(C)cccc12,MDM2/p53,P53/HDM2,Q00987,P04637,,,,6.0,1
+C000S5,C[n+]1c2cc(N)ccc2cc2ccc(N)cc21.[Cl-],Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C000YI,C=CC(C)(C)c1c2c(c(O)c3c(=O)c4ccc(O)c(O)c4oc13)C=CC(C)(C)O2,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C004T9,Oc1ccc(/N=C/c2ccc(-c3cccs3)s2)cc1,Peroxisome proliferator-activated receptor gamma/Nuclear receptor coactivator 1,Peroxisome proliferator-activated receptor gamma/Nuclear receptor coactivator 1,P37231,Q15788,,,,69.0,1
+I00030,c1ccc(N=NC(=NNc2ccccc2)c2ccccc2)cc1,LEDGF/IN,LEDGF/IN,O75475,C5J4T0,,,,29.0,1
+C0043L,Nc1sc(-c2ccc(Cl)cc2)c(-c2ccc(Cl)cc2)c1C(=S)NC1CC1,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,1
+C003IM,COc1ccc(-c2nnc(Nc3nc4c(OC)cccc4s3)o2)cc1,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+C00347,NC1CONC1=O,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+C000XA,N#CC(C#N)=NNc1ccc(OC(F)(F)F)cc1,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+J10053,Nc1c(N=Nc2ccc([N+](=O)[O-])cc2)c(-c2ccccc2)nn1-c1ccccc1,GATA4/NKX2-5,GATA4/NKX2-5,P43694,P52952,,,,90.0,1
+T006Z0,COC(=O)CC[C@H](CCO)C[C@@H](C)[C@@H]1CC(=O)[C@H](C)/C=C(\C)[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)/C=C/C=C/C=C(\C)[C@@H](OC)C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N2CCCC[C@H]2C(=O)O1,FKBP1A/FK506,FKBP1A/FK506,P62942,na,,,,4.0,1
+C005GC,CC(C)[C@@](O)(C[C@H]1C(=O)/C(=C(\O)[C@@H]2[C@H](C)C=C[C@@H]3CCCC[C@H]32)C(=O)N1C)C(=O)O,Catenin beta-1/Transcription factor 7,Catenin beta-1/Transcription factor 7,P35222,P36402,,,,85.0,1
+C0005K,O=C1C(CC[S+]([O-])c2ccccc2)C(=O)N(c2ccccc2)N1c1ccccc1,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+C003GC,CC1=C2C[C@H]3[C@@H](CC=C4C[C@@H](O)CC[C@@]43C)[C@@H]2CC[C@]12O[C@@H]1C[C@H](C)CN[C@H]1[C@H]2C,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,1
+T003U9,O=c1cc(CN2CCOCC2)occ1OCCCCCSc1ccnc2cc(C(F)(F)F)ccc12,Rac1/GEFs,RAC1/TIAM1,P63000,Q13009,,,,22.0,1
+C001HH,CC(=O)[C@@]12O[C@@H]1C[C@H]1[C@@H]3CC[C@H]4C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@@]12C,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,1
+T0012J,Oc1cc2c(cc1O)-c1cc3ccc(O)c(O)c3c[n+]1CC2,Rac1/GEFs,RAC1/TIAM1,P63000,Q13009,,,,22.0,1
+T007FT,Nc1ccc2cn[nH]c2c1,Integrin alpha-4/beta-7,Integrins,P13612,P26010,,,,105.0,0
+I001FP,CNC(=O)N1C[C@@H](C)Oc2cc(C)ccc21,WDR5/MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),P61964,Q03164,,,,20.0,0
+T00188,COP(=S)(OC)Oc1ccc(SC)c(C)c1,FKBP1A/FK506,FKBP1A/FK506,P62942,na,,,,4.0,0
+J100AG,Clc1nss/c1=N\c1ccccc1,GATA4/NKX2-5,GATA4/NKX2-5,P43694,P52952,,,,90.0,0
+P0008G,CC[C@H]1CN2CCc3cc(O)c(OC)cc3[C@@H]2C[C@@H]1C[C@@]1(O)NCCc2cc(O)c(OC)cc21,KRAS/SOS1,KRAS/SOS1,P01116,Q07889,,,,12.0,0
+T004CL,C1CCC(C(CC2CCCCN2)C2CCCCC2)CC1.O=C(O)/C=C\C(=O)O,Rad51/BRCA2,Rad51/BRCA2,Q06609,P51587,,,,52.0,0
+T002US,N[C@@H](CSS(=O)(=O)O)C(=O)O,XIAP/SMAC (BIR3 domanin),XIAP/SMAC,P98170,Q9NR28,,,,16.0,0
+I000K9,CN(C)[C@@H]1C(O)=C(C(N)=O)C(=O)[C@@]2(O)C(O)=C3C(=O)c4c(O)ccc(Cl)c4[C@@H](O)[C@H]3C[C@@H]12.Cl,CD80/CD28,CD80/CD28,P33681,P10747,,,,17.0,0
+T002JX,CC1=C(C)C(=O)C(CCCCC#CCCCC#CCO)=C(C)C1=O,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+I000TC,N#CC(C#N)=NNc1ccc(OC(F)(F)F)cc1,XIAP/Smac,XIAP/SMAC,P98170,Q9NR28,,,,16.0,0
+I000FB,Oc1ccc(O)cc1,B2CL1/BAX,"BCL-like/BAX,BAK",Q07817,Q07812,,,,95.0,0
+I000QS,COc1ccc(-c2nnc(Nc3nc4c(OC)cccc4s3)o2)cc1,BCL2/BAX,"BCL-like/BAX,BAK",P10415,Q07812,,,,11.0,0
+T007OP,CCn1c(=O)/c(=C2\Sc3cc(C)ccc3N2C)s/c1=C\c1scc[n+]1Cc1ccccc1.[Cl-],Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+T003LW,Cc1cc2nc3ccc(N(C)C)cc3[s+]c2cc1N.[Cl-],Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+T003T4,COc1ccc(Br)cc1-c1nc(N)nc2[nH]cnc12,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+C00287,CN(CCC#N)C(=O)COC(=O)c1c2c(nc3ccccc13)/C(=C/c1ccco1)CC2,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,0
+I00188,Nc1ncnc2c1ncn2[C@@H]1O[C@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)O)[C@H]2OC3(O[C@H]21)C([N+](=O)[O-])=CC(=[N+]([O-])[O-])C=C3[N+](=O)[O-],BCL2/BAX,"BCL-like/BAX,BAK",P10415,Q07812,,,,11.0,0
+T007JB,c1ccc(N=NC(=NNc2ccccc2)c2ccccc2)cc1,"Intercellular adhesion molecule (ICAM-1), Integrin alpha-L/beta-2",Integrins,P05362,P20701,P05107,,,102.0,0
+C005CO,C1CCC(C(CC2CCCCN2)C2CCCCC2)CC1.O=C(O)/C=C\C(=O)O,Apoptosis regulator Bcl-2/Bcl-2 homologous antagonist/killer,Apoptosis regulator Bcl-2/Bcl-2 homologous antagonist/killer,P10415,Q16611,,,,79.0,0
+T005KX,CC[C@@]1(O)C(=O)OCc2c1cc1n(c2=O)Cc2cc3c(CN(C)C)c(O)ccc3nc2-1.Cl,Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+T005OK,Cc1cc2c(-c3cncc(N)c3)cnc(N[C@@H]3CCNC[C@H]3OCC3CCS(=O)(=O)CC3)c2[nH]c1=O,Integrin alpha-IIb/beta-3,Integrins,P08514,P05106,,,,104.0,0
+C0042L,O=C(NCCCCN=C=S)Nc1ccc2scnc2c1,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,0
+T0004D,CN(C)c1ccc(/C=C/c2ccc3ccccc3[n+]2C)cc1.[I-],Integrin alpha-5/beta-1,Integrins,P08648,P05556,,,,101.0,0
+T00828,CC(C)(C)c1cc(C=C(C#N)C#N)cc(C(C)(C)C)c1O,p53/MDM2,P53/HDM2,P04637,Q00987,,,,6.0,0
+T0059J,N#CC(c1cccc(Cl)c1)c1ccc2c(C(F)(F)F)cc(C(F)(F)F)nc2n1,XIAP/SMAC (BIR3 domanin),XIAP/SMAC,P98170,Q9NR28,,,,16.0,0
+C003XZ,CC(C)(Sc1cc(C(C)(C)C)c(O)c(C(C)(C)C)c1)Sc1cc(C(C)(C)C)c(O)c(C(C)(C)C)c1,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,0
+I000NU,Cc1cc2nc3c(=O)[nH]c(=O)nc-3n(C[C@@H](O)[C@@H](O)[C@@H](O)CO)c2cc1C,LFA/ICAM,LFA/ICAM,P20701,P05362,,,,14.0,0
+T006FN,CN1C2CC(=O)CC1C(O)C2,Integrin alpha-4/beta-7,Integrins,P13612,P26010,,,,105.0,0
+T006CM,C[C@@H]1CC(=O)Nc2cccc(-c3cnn(C(C)(C)C)c3)c2N1,"Intercellular adhesion molecule (ICAM-1), Integrin alpha-L/beta-2",Integrins,P05362,P20701,P05107,,,102.0,0
+T004TG,O=NC1=c2ccc(=c3nc(C4CCNCC4)[nH]c3=C3C=CNC=C3)cc2CC1,FKBP1A/FK506,FKBP1A/FK506,P62942,na,,,,4.0,0
+T004Y7,CC(=O)[C@H]1CC[C@H]2[C@@H]3CC[C@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C,Integrin alpha-IIb/beta-3,Integrins,P08514,P05106,,,,104.0,0
+I000ZS,ClC1=C(Cl)C(Cl)(C2(Cl)C(Cl)=C(Cl)C(Cl)=C2Cl)C(Cl)=C1Cl,MDM2/p53,P53/HDM2,Q00987,P04637,,,,6.0,0
+I001CK,On1ncc2cc(CCc3nn[nH]n3)ccc21,MDM2/p53,P53/HDM2,Q00987,P04637,,,,6.0,0
+T000MS,O=C(O)c1ccc(-c2ccc(F)cc2)cc1,Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+T003D0,CCCCN1[C@H]2CC[C@@H]1C[C@H](OC(c1ccc(F)cc1)c1ccc(F)cc1)C2.Cl.Cl,FKBP1A/FK506,FKBP1A/FK506,P62942,na,,,,4.0,0
+T007MO,CCCCN1[C@H]2CC[C@@H]1C[C@H](OC(c1ccc(F)cc1)c1ccc(F)cc1)C2.Cl.Cl,Integrin alpha-IIb/beta-3,Integrins,P08514,P05106,,,,104.0,0
+C004OB,CN(C)[C@@H]1C(O)=C(C(N)=O)C(=O)[C@@]2(O)C(O)=C3C(=O)c4c(O)cccc4[C@@](C)(O)[C@H]3[C@H](O)[C@@H]12,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,0
+T002GV,Oc1ccc(-c2nc(-c3ccc(F)cc3)c(-c3ccncc3)[nH]2)cc1,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+T0003U,CCN1CCS/C1=C\C=C\C1=[N+](CC)CCS1.[I-],Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+T007K3,Cn1c(=S)n(CCSc2nc3ccccc3[nH]2)c2ccccc21,Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+T004W7,N#Cc1ccc2cc1Oc1ccc(CCC3CCCCC3)c(c1)CN1CCN(CC1=O)Cc1cncn1C2,XIAP/SMAC (BIR3 domanin),XIAP/SMAC,P98170,Q9NR28,,,,16.0,0
+T006T6,C/N=C(\S)n1cnc(N)n1,Integrin alpha-V/beta-5,Integrins,P06756,P18084,,,,106.0,0
+J0008H,Nc1ccc(S(=O)(=O)c2cnc(-c3ccc(S(N)(=O)=O)cc3Cl)s2)cn1,DCN1/UBC12,DCN1/UBE2M,Q96GG9,P61081,,,,7.0,0
+T000P4,Cc1cc(/C=C/c2ccc3cc(N(C)C)ccc3[n+]2C)c(C)n1-c1ccccc1.O=C([O-])c1cc2ccccc2c(Cc2c(O)c(C(=O)O)cc3ccccc23)c1O,Integrin alpha-IIb/beta-3,Integrins,P08514,P05106,,,,104.0,0
+T0048N,Cn1c(=S)n(CCSc2nc3ccccc3[nH]2)c2ccccc21,XIAP/SMAC (BIR3 domanin),XIAP/SMAC,P98170,Q9NR28,,,,16.0,0
+T004TW,Nc1nc2c(ncn2[C@H]2O[C@@H](COP(=O)(O)OP(=O)(O)O)[C@H](O)[C@@H]2O)c(=O)[nH]1,Integrin alpha-IIb/beta-3,Integrins,P08514,P05106,,,,104.0,0
+I000PQ,CCc1cc(C(C)=O)c(O)cc1OCCCCCC(C)(C)c1nn[nH]n1,BCL2/BAX,"BCL-like/BAX,BAK",P10415,Q07812,,,,11.0,0
+T006PP,Clc1ncc[nH]1,Integrin alpha-V/beta-5,Integrins,P06756,P18084,,,,106.0,0
+C00595,CN(C)[C@@H]1C(O)=C(C(N)=O)C(=O)[C@@]2(O)C(O)=C3C(=O)c4c(O)ccc(Cl)c4[C@@H](O)[C@H]3C[C@@H]12.Cl,Annexin A2/S100-A10,Annexin A2/S100-A10,P07355,P60903,,,,75.0,0
+C101PL,C[C@@H]1CN(CC(=O)N2CCCC2)CC[NH2+]1,PCSK9/LDLR,PCSK9/LDLR,Q8NBP7,P01130,,,,92.0,0
+C101KU,Cc1cc2nc3c(=O)[nH]c(=O)nc-3n(C[C@H](O)[C@H](O)[C@H](O)COP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n4cnc5c(N)ncnc54)[C@H](O)[C@@H]3O)c2cc1C,Keap1/Nrf2,KEAP1/NRF2,Q14145,Q16236,,,,45.0,0
+C0043S,CC(C)CN(CC(=O)N(CCCCN)CC(=O)N(CC(=O)N(CCCCN)CC(=O)N(CCCCN)CC(N)=O)Cc1ccco1)C(=O)CNCCCN1CCCC1=O,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,0
+C100F2,O=c1[nH]c2ccc(Nc3cc(NCCCO)c([N+](=O)[O-])cc3Cl)cc2[nH]1,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,0
+I000PW,CN[C@@H]1C[C@H]2O[C@@](C)([C@@H]1OC)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)NC4,MDM2/p53,P53/HDM2,Q00987,P04637,,,,6.0,0
+T002GB,C=C1CC(C)(C)[C@@H](/C=C/[C@@H](C)[C@H]2CC[C@H]3[C@@H]4C[C@H](OS(=O)(=O)[O-])[C@H]5C[C@@H](O)CC[C@]5(C)[C@H]4CC[C@@]32C)[C@H]1CC(O)[C@@H](C)[C@H]1CC[C@H]2[C@@H]3C[C@H](OS(=O)(=O)[O-])[C@H]4C[C@H](OS(=O)(=O)[O-])[C@@H](OS(=O)(=O)[O-])C[C@]4(C)[C@H]3CC[C@@]21C.[Na+].[Na+].[Na+].[Na+],Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+C0042B,COC(=O)CC[C@H](CCO)C[C@@H](C)[C@@H]1CC(=O)[C@H](C)/C=C(\C)[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)/C=C/C=C/C=C(\C)[C@@H](OC)C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N2CCCC[C@H]2C(=O)O1,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,0
+T007MZ,Cc1ccc(NC2=NC(=O)/C(=C/C=C/c3ccco3)S2)cc1C,Integrin alpha-IIb/beta-3,Integrins,P08514,P05106,,,,104.0,0
+C004EM,C1=C/[C@@H]2[C@H](C[C@@H]3CCCC[C@H]32)NCCCN[C@@H]2C[C@@H]3CCCC[C@H]3[C@@H]2/C=C/1,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,0
+C005CA,CC[C@H]1CN2CCc3cc(O)c(OC)cc3[C@@H]2C[C@@H]1C[C@@]1(O)NCCc2cc(O)c(OC)cc21,Apoptosis regulator Bcl-2/Bcl-2 homologous antagonist/killer,Apoptosis regulator Bcl-2/Bcl-2 homologous antagonist/killer,P10415,Q16611,,,,79.0,0
+I000VN,Cn1ccc2ccc(-c3nc(-c4nn[nH]n4)c(-c4ccc(F)c(Cl)c4)n3-c3cccc(Cl)c3F)cc21,B2CL1/BAX,"BCL-like/BAX,BAK",Q07817,Q07812,,,,95.0,0
+I000BH,CC(O)(c1cnc(-c2ccc(S(=O)(=O)c3ccc(N)nc3)s2)nc1)C(F)(F)F,MDM2/p53,P53/HDM2,Q00987,P04637,,,,6.0,0
+I00058,Cc1ccc(C#N)c(SCc2nnc(-c3ccc(Cl)cc3)o2)n1,XIAP/Smac,XIAP/SMAC,P98170,Q9NR28,,,,16.0,0
+T002B8,CC1=C[C@@H](O)[C@@H]([C@H](C)CC[C@@H]2[C@@H](C)[C@@]3(C)CC[C@]2(C)O3)CC1,Integrin alpha-IIb/beta-3,Integrins,P08514,P05106,,,,104.0,0
+T0019W,N[C@@H](CSS(=O)(=O)O)C(=O)O,Integrin alpha-V/beta-5,Integrins,P06756,P18084,,,,106.0,0
+T001OW,COC(=O)CC[C@H](CCO)C[C@@H](C)[C@@H]1CC(=O)[C@H](C)/C=C(\C)[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)/C=C/C=C/C=C(\C)[C@@H](OC)C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N2CCCC[C@H]2C(=O)O1,XIAP/Caspase9,XIAP/SMAC,P98170,P55211,,,,116.0,0
+C004BH,COCCN1CSC(=S)N(Cc2ccco2)C1,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,0
+I000IJ,Cc1cc(OI)c(C(C)C)cc1-c1cc(C(C)C)c(OI)cc1C,BCL2/BAX,"BCL-like/BAX,BAK",P10415,Q07812,,,,11.0,0
+J0004J,Cc1cc(Nc2ccnc3c2CC[C@@H]3O)ccc1NCCc1c[nH]c2c(C)cccc12,DCN1/UBE2M,DCN1/UBE2M,Q96GG9,P61081,,,,7.0,0
+T007MU,Oc1c(C(Nc2cccc(F)c2)c2ccccn2)ccc2cccnc12,Integrin alpha-IIb/beta-3,Integrins,P08514,P05106,,,,104.0,0
+T001G2,O=C(Nc1cc(-c2csc(=O)[nH]2)cc(S(=O)(=O)NC2CCCC2)c1)C1CC1,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+C1020T,C[S+]([O-])CCCCN=C=S,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,0
+T002KN,O=c1[nH]c2ccc(Nc3cc(NCCCO)c([N+](=O)[O-])cc3Cl)cc2[nH]1,Neuropilin-1/VEGF-A,Neuropilin-1/VEGF-A,O14786,P15692,,,,38.0,0
+T001AL,CNC(=O)C(C)(C)C,Integrin alpha-V/beta-6,Integrins,P06756,P18564,,,,103.0,0
+T007CN,CNC(=O)N1C[C@@H](C)Oc2cc(C)ccc21,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+P000A2,Cl.Cl.Fc1ccc(C(c2ccc(F)cc2)N2CCN(C/C=C/c3ccccc3)CC2)cc1,INTEGRASE/LEDGF,INTEGRASE/LEDGF,P12497,O75475,,,,27.0,0
+J1004C,CNC(=O)c1cc(Br)c[nH]1,GATA4/NKX2-5,GATA4/NKX2-5,P43694,P52952,,,,90.0,0
+T006UL,CC(=O)NCCNCc1cc(C)c(OCc2cccc(-c3cccc(COc4cc(OCc5cncc(C#N)c5)c(CNCCNC(C)=O)cc4C)c3C)c2C)cc1OCc1cncc(C#N)c1,Integrin alpha-V/beta-5,Integrins,P06756,P18084,,,,106.0,0
+C005BR,Cc1ccc([C@H](C)Nc2ccc3c(c2)N(C2CC2)[C@@H](C)C(=O)N3C)cc1,Bcl-xL/Bcl-2-like protein 11,"BCL-like/BAX,BAK",Q07817,O43521,,,,78.0,0
+I0006H,CCN1C(=Cc2sc3ccccc3[n+]2C)C=Cc2cccc(C)c21.[I-],MDM2/p53,P53/HDM2,Q00987,P04637,,,,6.0,0
+T0033D,Cl.Nc1ccn([C@@H]2O[C@H](CO)[C@@H](O)[C@@H]2O)c(=O)n1,Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+C1012P,CCCCCS(=O)(=O)CCCCCCCCCCn1c(-c2ccc(O)cc2)c(C)c2cc(O)ccc21,Bcl-xL/Bcl-2-like protein 11,"BCL-like/BAX,BAK",Q07817,O43521,,,,78.0,0
+T0046C,CC(C)[C@@](O)(C[C@H]1C(=O)/C(=C(\O)[C@@H]2[C@H](C)C=C[C@@H]3CCCC[C@H]32)C(=O)N1C)C(=O)O,Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+I0006I,Cn1ccc2cc[nH]c2c1=O,CD80/CD28,CD80/CD28,P33681,P10747,,,,17.0,0
+T006RT,CC[C@H]1CN2CCc3cc(O)c(OC)cc3[C@@H]2C[C@@H]1C[C@@]1(O)NCCc2cc(O)c(OC)cc21,STAT3/STAT3,STAT3 dimer,P40763,P40763,,,,44.0,0
+P0003K,C[N+](C)(C)CCCCCC[N+](C)(C)C.[Br-].[Br-],BRD4-1/H4,Bromodomain/Histone,O60885,P62805,,,,3.0,0
+I001CW,C#C[C@@H](O)/C=C/CCCCCCC#C[C@H](O)C#C/C=C/CC/C=C\CCCC/C=C\CCCCCCCCCCCCC/C=C/[C@@H](O)C#C,MDM2/p53,P53/HDM2,Q00987,P04637,,,,6.0,0
+C0041B,CC1(C)C(/C=C/C=C/C=C/C=C2/N(CCC(=O)N[C@@H](CCCN=C(N)N)C(=O)NCC(=O)N[C@H](CC(=O)O)C(=O)N[C@@H](CCCN=C(N)N)C(=O)NCC(=O)N[C@H](CC(=O)O)C(=O)N[C@@H](CCCN=C(N)N)C(=O)NCC(=O)N[C@H](CC(=O)N[C@@H](CCCN=C(N)N)C(=O)NCC(=O)N[C@H](CC(=O)O)C(N)=O)C(=O)O)c3ccc4ccccc4c3C2(C)C)=[N+](CC(=O)O)c2ccc3ccccc3c21,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,0
+I000V4,CNC(=O)N1C[C@@H](C)Oc2cc(C)ccc21,CD80/CD28,CD80/CD28,P33681,P10747,,,,17.0,0
+T006MY,CC1=C2C[C@H]3[C@@H](CC=C4C[C@@H](O)CC[C@@]43C)[C@@H]2CC[C@]12O[C@@H]1C[C@H](C)CN[C@H]1[C@H]2C,Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+T000D4,C[C@@H]1CC(=O)Nc2cccc(-c3ccc4c(c3)c(C3CC3)nn4C)c2N1,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+T004BH,Nc1ccc(S(=O)(=O)c2cnc(-c3ccc(S(N)(=O)=O)cc3Cl)s2)cn1,Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+T000OO,Sc1nnc(-c2cccc(Br)c2)o1,Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+T003UF,CC(=O)[C@H]1CC[C@H]2[C@@H]3CC[C@H]4C[C@](C)(O)CC[C@]4(C)[C@H]3CC[C@]12C,p53/MDM2,P53/HDM2,P04637,Q00987,,,,6.0,0
+T0057H,CNC(=O)N1C[C@@H](C)Oc2cc(C)ccc21,p53/MDM2,P53/HDM2,P04637,Q00987,,,,6.0,0
+T0042Z,Oc1ccc2cc[nH]c2c1,Integrin alpha-IIb/beta-3,Integrins,P08514,P05106,,,,104.0,0
+P000FR,CCSc1nc2sc3c(c2c(=O)[nH]1)CCCC3,WDR5/MLL1,WDR5/MLL1,P61964,Q03164,,,,20.0,0
+T003P7,CCCCCCCCCOc1ccc2[nH]cc(CCN)c2c1.Cl,Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+T0048T,C[C@]12C=CC(=O)C=C1CC[C@@H]1C2=CC[C@]2(C)[C@@H](C(=O)CN3CCN(c4cc(N5CCCC5)nc(N5CCCC5)n4)CC3)CC[C@@H]12.O=C(O)/C=C\C(=O)O,Integrin alpha-V/beta-6,Integrins,P06756,P18564,,,,103.0,0
+T003K9,NC(=O)c1ccc2[nH]c(-c3ccc(Oc4ccc(Cl)cc4)cc3)nc2c1,Integrin alpha-IIb/beta-3,Integrins,P08514,P05106,,,,104.0,0
+T006W4,CC(C)=CCC/C(C)=C/CC/C(C)=C/CSCC(=O)O,"Intercellular adhesion molecule (ICAM-1), Integrin alpha-L/beta-2",Integrins,P05362,P20701,P05107,,,102.0,0
+T002SS,O=C1Cc2cc(Nc3cc(OC4CCOCC4)c([N+](=O)[O-])cc3Cl)ccc2N1,Integrin alpha-IIb/beta-3,Integrins,P08514,P05106,,,,104.0,0
+C004MB,CC1=C[C@@H](O)[C@@H]([C@H](C)CC[C@@H]2[C@@H](C)[C@@]3(C)CC[C@]2(C)O3)CC1,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,0
+J000E4,O=C(NCCCCN=C=S)Nc1ccc2scnc2c1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),P61964,Q03164,,,,20.0,0
+C005IE,COCCN1CSC(=S)N(Cc2ccco2)C1,Glucokinase/Glucokinase regulatory protein,Glucokinase/Glucokinase regulatory protein,Q14397,Q14397,,,,82.0,0
+T0023K,Nc1nc(=S)[nH]c2[nH]ncc12,Integrin alpha-IIb/beta-3,Integrins,P08514,P05106,,,,104.0,0
+T002MS,CN(CCC#N)C(=O)COC(=O)c1c2c(nc3ccccc13)/C(=C/c1ccco1)CC2,p53/MDM2,P53/HDM2,P04637,Q00987,,,,6.0,0
+T006IC,O=C(CN1CC[NH2+]CC1)N1CCCCC1,BRD4/NUT,Bromodomain/Histone,O60885,Q86Y26,,,,24.0,0
+T002GI,CC1OC(=O)C(C(C)C)NC(=O)C(C(C)C)OC(=O)C(C(C)C)NC(=O)C(C)OC(=O)C(C(C)C)NC(=O)C(C(C)C)OC(=O)C(C(C)C)NC(=O)C(C)OC(=O)C(C(C)C)NC(=O)C(C(C)C)OC(=O)C(C(C)C)NC1=O,XIAP/Caspase9,XIAP/SMAC,P98170,P55211,,,,116.0,0
+T000XH,CC[n+]1c(-c2ccccc2)c2cc(N)ccc2c2ccc(N)cc21.[Br-],Integrin alpha-IIb/beta-3,Integrins,P08514,P05106,,,,104.0,0
+T0054W,CO[C@H]1CNC[C@@H](OCC2CCC(F)(F)CC2)[C@@H]1Nc1ncc(-c2cncc(C)c2)c2cc(C)c(=O)[nH]c12,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+I000NC,C[N+](C)(C)CCO.[Br-],B2CL2/BAX,"BCL-like/BAX,BAK",Q92843,Q07812,,,,119.0,0
+C10048,Cc1cc2nc3c(=O)[nH]c(=O)nc-3n(C)c2cc1C=O,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,0
+T005QA,CCN(CC)C(=S)SSC(=S)N(CC)CC,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+T000IJ,CC1=CC(C)(C)[C@@H](/C=C\[C@@H](C)[C@H]2CC[C@H]3[C@@H]4C[C@H](OS(=O)(=O)[O-])[C@H]5C[C@H](O)[C@@H](OS(=O)(=O)[O-])C[C@]5(C)[C@H]4CC[C@@]32C)[C@H]1CC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3C[C@H](OS(=O)(=O)[O-])[C@H]4C[C@H](OS(=O)(=O)[O-])[C@@H](OS(=O)(=O)[O-])C[C@]4(C)[C@H]3CC[C@@]21C.[Na+].[Na+].[Na+].[Na+].[Na+],Integrin alpha-IIb/beta-3,Integrins,P08514,P05106,,,,104.0,0
+C0057L,CC[C@H]1CN2CCc3cc(O)c(OC)cc3[C@@H]2C[C@@H]1C[C@@]1(O)NCCc2cc(O)c(OC)cc21,Annexin A2/S100-A10,Annexin A2/S100-A10,P07355,P60903,,,,75.0,0
+C00568,CC[C@H]1CN2CCc3cc(O)c(OC)cc3[C@@H]2C[C@@H]1C[C@@]1(O)NCCc2cc(O)c(OC)cc21,Transcriptional coactivator YAP1/Transcriptional enhancer factor TEF-1,Transcriptional coactivator YAP1/Transcriptional enhancer factor TEF-1,P46937,P28347,,,,74.0,0
+P0000I,CC[C@H]1CN2CCc3cc(O)c(OC)cc3[C@@H]2C[C@@H]1C[C@@]1(O)NCCc2cc(O)c(OC)cc21,ZIPA/FTSZ,ZIPA/FTSZ,P77173,P0A9A6,,,,33.0,0
+T00299,CC(C)(S)[C@H](N)C(=O)O,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+T006VC,CCC(C)(C)c1ccc(OCCCC[n+]2ccc(C)cc2)c(C(C)(C)CC)c1.[Br-],Integrin alpha-IIb/beta-3,Integrins,P08514,P05106,,,,104.0,0
+C003WN,CC(C)(S)[C@H](N)C(=O)O,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,0
+T001PS,CCOC(=O)CN1C(=O)CC(C[C@@H](O)[C@@H]2C[C@@H](C)C[C@H](C)C2=O)CC1=O,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+T001H9,Brc1cnn(C2CC[NH2+]CC2)c1,Integrin alpha-5/beta-1,Integrins,P08648,P05556,,,,101.0,0
+T005RM,Cc1cc(OI)c(C(C)C)cc1-c1cc(C(C)C)c(OI)cc1C,p53/MDM2,P53/HDM2,P04637,Q00987,,,,6.0,0
+T001IR,CC[C@H](C)[C@H](NC(=O)[C@@H]1CCCN1C(=O)[C@H](CS)NC(=O)[C@H](C)N)C(=O)NCCOCCOCC(=O)NCCN(CC(=O)NCCN(CC(=O)NCCN(CC(=O)NCCN(CC(=O)NCCN(CC(=O)NCCN(CC(=O)NCCN(CC(=O)NCC(N)=O)C(=O)Cn1cnc2c(=O)[nH]c(N)nc21)C(=O)Cn1cnc2c(N)ncnc21)C(=O)Cn1ccc(N)nc1=O)C(=O)Cn1cnc2c(N)ncnc21)C(=O)Cn1cc(C)c(=O)[nH]c1=O)C(=O)Cn1ccc(N)nc1=O)C(=O)Cn1ccc(N)nc1=O,Integrin alpha-IIb/beta-3,Integrins,P08514,P05106,,,,104.0,0
+I0012U,O=C(O)CN1C(=O)CSC1=S,XIAP/Smac,XIAP/SMAC,P98170,Q9NR28,,,,16.0,0
+I000H1,C=C[C@@]1(C)CC[C@](C)(C(C)C)c2cc3c4c(c[nH]c4c21)CC(=O)NC(=O)[C@H](C(C)C)N3C,BCL2/BAX,"BCL-like/BAX,BAK",P10415,Q07812,,,,11.0,0
+T0068A,COC(=O)CC[C@H](CCO)C[C@@H](C)[C@@H]1CC(=O)[C@H](C)/C=C(\C)[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)/C=C/C=C/C=C(\C)[C@@H](OC)C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N2CCCC[C@H]2C(=O)O1,Integrin alpha-5/beta-1,Integrins,P08648,P05556,,,,101.0,0
+T0017J,Cc1n[nH]c2c1C(=O)CC(C)(C)C2,Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+T001HW,CC(=O)Oc1cc(-c2coc3cc(OC(C)=O)c(OC(C)=O)c(OC(C)=O)c3c2=O)cc(OC(C)=O)c1OC(C)=O,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+C0049H,Cc1cc(C)cc(Oc2nc3c(C)cccn3c(=O)c2/C=C(\C#N)C(=O)NC2CCS(=O)(=O)C2)c1,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,0
+T004WK,O=C1Nc2cc(Cl)c(Cl)cc2N2CCNC[C@H]12,Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+T00519,Cc1ccc2ccc([C@H](Nc3ccccc3)c3ccccc3)c(O)c2n1,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+T0043W,On1ncc2cc(CCc3nn[nH]n3)ccc21,Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+T0019V,Oc1ccc(-c2nc(-c3ccc(F)cc3)c(-c3ccncc3)[nH]2)cc1,p53/MDM2,P53/HDM2,P04637,Q00987,,,,6.0,0
+J1009W,CC1=C(/C=C/C(C)=C/C=C/C(C)=C/C(=O)Nc2ccc(O)cc2)C(C)(C)CCC1,GATA4/NKX2-5,GATA4/NKX2-5,P43694,P52952,,,,90.0,0
+T004ZS,CN(C)c1ccc2nc3ccc(=[N+](C)C)cc-3sc2c1.[Cl-],Integrin alpha-V/beta-6,Integrins,P06756,P18564,,,,103.0,0
+I000II,COC(=O)/C=C/C(=O)OC,LFA/ICAM,LFA/ICAM,P20701,P05362,,,,14.0,0
+J10008,CCCCN1[C@H]2CC[C@@H]1C[C@H](OC(c1ccc(F)cc1)c1ccc(F)cc1)C2.Cl.Cl,DCN1/UBE2M,DCN1/UBE2M,Q96GG9,P61081,,,,7.0,0
+T0080W,Cc1cc2nc(/C=C/c3nc4cc(C)c(C)cc4[nH]3)[nH]c2cc1C,"Intercellular adhesion molecule (ICAM-1), Integrin alpha-L/beta-2",Integrins,P05362,P20701,P05107,,,102.0,0
+I000D3,C[n+]1c2cc(N)ccc2cc2ccc(N)cc21.[Cl-],MCL1/BAX,"BCL-like/BAX,BAK",Q07820,Q07812,,,,118.0,0
+T00645,C[C@@H]1CN(CC(=O)N2CC(C)(C)c3ncc(Cc4ccc(F)cc4)cc32)[C@@H](CN2CCOC[C@H]2C)C[NH2+]1,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+T000S4,Cc1ccccc1-c1nnc(S)o1,"Intercellular adhesion molecule (ICAM-1), Integrin alpha-L/beta-2",Integrins,P05362,P20701,P05107,,,102.0,0
+C00429,Oc1ccc2cc[nH]c2c1,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,0
+C005JG,CC1=C[C@@H](O)[C@@H]([C@@H](C)CC[C@@H]2[C@@H](C)[C@@]3(C)CC[C@]2(C)O3)CC1,Glucokinase/Glucokinase regulatory protein,Glucokinase/Glucokinase regulatory protein,Q14397,Q14397,,,,82.0,0
+C0019I,CC[n+]1c(-c2ccccc2)c2cc(N)ccc2c2ccc(N)cc21.[Br-],Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,0
+P0006Q,NC1CONC1=O,BRD4-1/H4,Bromodomain/Histone,O60885,P62805,,,,3.0,0
+T00731,CCNc1ncnc2cc(OC)c(OC)cc12,Integrin alpha-4/beta-7,Integrins,P13612,P26010,,,,105.0,0
+T00275,CC[C@H]1CN2CCc3cc(O)c(OC)cc3[C@@H]2C[C@@H]1C[C@@]1(O)NCCc2cc(O)c(OC)cc21,Tak1/Tab1,Tak1/Tab1,O43318,Q15750,,,,56.0,0
+T0080O,O=C([O-])c1ccccc1Oc1ccccc1,Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+P000DF,CC1=C[C@@H](O)[C@@H]([C@@H](C)CC[C@@H]2[C@@H](C)[C@@]3(C)CC[C@]2(C)O3)CC1,KRAS/SOS1,KRAS/SOS1,P01116,Q07889,,,,12.0,0
+C005D7,CC[C@H]1CN2CCc3cc(O)c(OC)cc3[C@@H]2C[C@@H]1C[C@@]1(O)NCCc2cc(O)c(OC)cc21,MIF/CD74,MIF/CD74 (Macrophage migration inhibitory factor and HLA-DR antigens-associated invariant chain),P14174,P04233,,,,81.0,0
+J1006T,CN(C)c1ccc(/C=C/c2ccc3ccccc3[n+]2C)cc1.[I-],GATA4/NKX2-5,GATA4/NKX2-5,P43694,P52952,,,,90.0,0
+I000LN,C=CCNC(=S)N/N=C(\C)c1ccccn1,MDM2/p53,P53/HDM2,Q00987,P04637,,,,6.0,0
+T002OM,O=C(O)[C@@H]1C[C@H](C(=O)O)N1,XIAP/Caspase9,XIAP/SMAC,P98170,P55211,,,,116.0,0
+C004Z5,N#CC(c1cccc(Cl)c1)c1ccc2c(C(F)(F)F)cc(C(F)(F)F)nc2n1,Keap1/Nrf2,KEAP1/NRF2,Q14145,Q16236,,,,45.0,0
+I0015A,Cc1ccc2ccc(C(Nc3ccccc3)c3ccccc3)c(O)c2n1,LFA/ICAM,LFA/ICAM,P20701,P05362,,,,14.0,0
+C004DE,CCCCN1[C@H]2CC[C@@H]1C[C@H](OC(c1ccc(F)cc1)c1ccc(F)cc1)C2.Cl.Cl,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,0
+C00479,CN(C)[C@@H]1C(O)=C(C(N)=O)C(=O)[C@@]2(O)C(O)=C3C(=O)c4c(O)ccc(Cl)c4[C@@H](O)[C@H]3C[C@@H]12.Cl,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,0
+T000Y8,Cl.Cl.Oc1ccc2c3c1O[C@H]1c4[nH]c5c(c4C[C@@]4(O)[C@@H](C2)N(CC2CC2)CC[C@]314)C[C@@]1(O)[C@H]2Cc3ccc(O)c4c3[C@@]1(CCN2CC1CC1)[C@H]5O4,Integrin alpha-IIb/beta-3,Integrins,P08514,P05106,,,,104.0,0
+I0014J,CCCCCCCCCCCCCC(=O)O[C@@H]1[C@@H](C)[C@@]2(O)[C@@H](C=C(CO)C[C@@]3(O)C(=O)C(C)=C[C@H]32)[C@@H]2C(C)(C)[C@]12OC(C)=O,MDM2/p53,P53/HDM2,Q00987,P04637,,,,6.0,0
+T000OO,CN(C)Cc1ccn2c1[nH]c(=O)c1c(Cl)cccc12,Integrin alpha-4/beta-7,Integrins,P13612,P26010,,,,105.0,0
+T0007B,O=C1NC(=S)N(c2ccc(F)cc2)C(=O)/C1=C/c1ccco1,"Intercellular adhesion molecule (ICAM-1), Integrin alpha-L/beta-2",Integrins,P05362,P20701,P05107,,,102.0,0
+P000KJ,N#Cc1c(Oc2cccc(OS(=O)(=O)CCCC(F)(F)F)c2)cccc1C(F)(F)F,HDM2/P53,P53/HDM2,Q00987,P04637,,,,6.0,0
+T000YO,CN(C)CCCC(=O)Nc1ccccc1N1CCN(C(=O)C2(Oc3ccc(C(F)(F)F)cc3)CCCN(C(=O)c3cnccc3C(F)(F)F)C2)CC1.Cl,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+C003CE,Brc1cnn(C2CC[NH2+]CC2)c1,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,0
+T002Q0,C[n+]1c2cc(N)ccc2cc2ccc(N)cc21.[Cl-],"Intercellular adhesion molecule (ICAM-1), Integrin alpha-L/beta-2",Integrins,P05362,P20701,P05107,,,102.0,0
+C005AO,c1cc(Nc2ccc(NCCc3cnc4n3CCCC4)cc2)ccn1,Bcl-xL/BAK,"BCL-like/BAX,BAK",Q07817,Q16611,,,,32.0,0
+C000YK,CCOc1cc(=O)n(C)cc1-c1cc(NS(O)(O)CC)ccc1Oc1ccc(F)cc1F,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,0
+C004OK,CCCCCCCn1c2c(c(=N)c3ccccc31)CCC2.I,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,0
+T005Z8,O=C(OCc1cc(=O)n2c(n1)sc1ccccc12)C12CC3CC(CC(O)(C3)C1)C2,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+I0013E,CCN1/C(=C/C=C/c2oc3ccc4ccccc4c3[n+]2CC)Oc2ccc3ccccc3c21.Cc1ccc(S(=O)(=O)[O-])cc1,MDM2/p53,P53/HDM2,Q00987,P04637,,,,6.0,0
+P00097,OCCN(CCO)c1nc(N2CCCCC2)c2nc(N(CCO)CCO)nc(N3CCCCC3)c2n1,BRD2-2/H4,Bromodomain/Histone,P25440-2,P62805,,,,21.0,0
+T007T3,Cc1cc2nc3c(=O)[nH]c(=O)nc-3n(C[C@H](O)[C@H](O)[C@H](O)COP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n4cnc5c(N)ncnc54)[C@H](O)[C@@H]3O)c2cc1C,HIF-1a/p300,HIF-1a/p300,Q16665,Q09472,,,,23.0,0
+T007VC,Oc1ccc(/N=C/c2ccc(-c3cccs3)s2)cc1,Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+T003L8,C=C(C)CNC(=O)C(C)(C)[C@@H]1C=C[C@@]2(COCOC)[C@@H](OC(=O)NC3CCCCC3)CC(C)=C[C@H]2C1,"Intercellular adhesion molecule (ICAM-1), Integrin alpha-L/beta-2",Integrins,P05362,P20701,P05107,,,102.0,0
+C003XU,C/N=C(\S)n1cnc(N)n1,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,0
+I0017L,CC[C@H](C)[C@H](NC(=O)[C@@H]1CCCN1C(=O)[C@H](CS)NC(=O)[C@H](C)N)C(=O)NCCOCCOCC(=O)NCCN(CC(=O)NCCN(CC(=O)NCCN(CC(=O)NCCN(CC(=O)NCCN(CC(=O)NCCN(CC(=O)NCCN(CC(=O)NCC(N)=O)C(=O)Cn1cnc2c(=O)[nH]c(N)nc21)C(=O)Cn1cnc2c(N)ncnc21)C(=O)Cn1ccc(N)nc1=O)C(=O)Cn1cnc2c(N)ncnc21)C(=O)Cn1cc(C)c(=O)[nH]c1=O)C(=O)Cn1ccc(N)nc1=O)C(=O)Cn1ccc(N)nc1=O,LFA/ICAM,LFA/ICAM,P20701,P05362,,,,14.0,0
+T005BB,Nc1ccc(N2CCCCC2)cc1N1CCCCC1,FKBP1A/FK506,FKBP1A/FK506,P62942,na,,,,4.0,0
+I00051,O=C1OC2(c3cc(I)c(O)c(I)c3Oc3c2cc(I)c(O)c3I)c2c(Cl)c(Cl)c(Cl)c(Cl)c21,MDM2/p53,P53/HDM2,Q00987,P04637,,,,6.0,0
+T001AX,CP(=O)(O)C1=CCNCC1,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+T006QB,Nc1ccc(-c2nc3ccc(-c4nc5ccc(N)cc5[nH]4)cc3[nH]2)cc1,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+I0002Z,Nc1sc(-c2ccc(Cl)cc2)c(-c2ccc(Cl)cc2)c1C(=S)NC1CC1,XIAP/Smac,XIAP/SMAC,P98170,Q9NR28,,,,16.0,0
+I000VB,O=c1cc(CN2CCOCC2)occ1OCCCCCSc1ccnc2cc(C(F)(F)F)ccc12,IL2/IL2R,IL2/IL2R,P60568,P01589,,,,40.0,0
+T006SZ,Nc1ccc(N2CCNCC2)cc1,"Intercellular adhesion molecule (ICAM-1), Integrin alpha-L/beta-2",Integrins,P05362,P20701,P05107,,,102.0,0
+I0001B,CN[C@@H]1C[C@H]2O[C@@](C)([C@@H]1OC)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)NC4,BCL2/BAX,"BCL-like/BAX,BAK",P10415,Q07812,,,,11.0,0
+T000JL,O=[N+]([O-])c1c(NCc2ccc(F)cc2C(F)(F)F)ccc2nonc12,Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+T004TY,COc1cc(SSc2cc(OC)cc([N+](=O)[O-])c2N)c(N)c([N+](=O)[O-])c1,Integrin alpha-IIb/beta-3,Integrins,P08514,P05106,,,,104.0,0
+T0045M,C[C@@H]1CN(CC(=O)N2CCCC2)CC[NH2+]1,Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+C004DI,CC(=O)NCCNCc1cc(C)c(OCc2cccc(-c3cccc(COc4cc(OCc5cncc(C#N)c5)c(CNCCNC(C)=O)cc4C)c3C)c2C)cc1OCc1cncc(C#N)c1,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,0
+I000R6,CC[C@@]1(O)C(=O)OCc2c1cc1n(c2=O)Cc2c-1nc1ccc(OC(=O)N3CCN(C(=O)c4ccc(COC(=O)N[C@@H](CCC(=O)N5CCN(c6cccc(NC7=NCCCN7)c6)CC5)C(=O)O)cc4)CC3)cc1c2/C=N/OC(C)(C)C,B2CL1/BAX,"BCL-like/BAX,BAK",Q07817,Q07812,,,,95.0,0
+T00003,COC(=O)/C=C/C(=O)OC,Integrin alpha-4/beta-7,Integrins,P13612,P26010,,,,105.0,0
+C005CZ,CC[C@H]1CN2CCc3cc(O)c(OC)cc3[C@@H]2C[C@@H]1C[C@@]1(O)NCCc2cc(O)c(OC)cc21,Ubiquitin-conjugating enzyme E2 N/Ubiquitin-conjugating enzyme E2 variant 1,Ubiquitin-conjugating enzyme E2 N/Ubiquitin-conjugating enzyme E2 variant 1,P61088,Q13404,,,,80.0,0
+P0004P,Cn1cc[nH]c1=S,CREBBP/H4,CREBBP/H4,Q92793,P62805,,,,1.0,0
+C101VB,N#Cc1c(Oc2cccc(OS(=O)(=O)CCCC(F)(F)F)c2)cccc1C(F)(F)F,PCSK9/LDLR,PCSK9/LDLR,Q8NBP7,P01130,,,,92.0,0
+T004T5,C=CCN1CC[C@]23c4c5ccc(O)c4O[C@H]2/C(=N/NC(=O)c2ccccc2)CC[C@@]3(O)[C@H]1C5,Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+T005MJ,CCCCCCCCCCCCCCCCCCOC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC,Integrin alpha-IIb/beta-3,Integrins,P08514,P05106,,,,104.0,0
+I000S7,COc1ccc(-c2nnc(Nc3nc4c(OC)cccc4s3)o2)cc1,LFA/ICAM,LFA/ICAM,P20701,P05362,,,,14.0,0
+T0050W,O=c1cc(CN2CCOCC2)occ1OCCCCCSc1ccnc2cc(C(F)(F)F)ccc12,Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+T000OU,C=C[C@@]1(C)CC[C@](C)(C(C)C)c2cc3c4c(c[nH]c4c21)CC(=O)NC(=O)[C@H](C(C)C)N3C,"Intercellular adhesion molecule (ICAM-1), Integrin alpha-L/beta-2",Integrins,P05362,P20701,P05107,,,102.0,0
+T0025I,C[C@H]1C[C@H](C)C(=O)[C@H]([C@H](O)CC2CC(=O)NC(=O)C2)C1,Integrin alpha-IIb/beta-3,Integrins,P08514,P05106,,,,104.0,0
+C0041H,Br.CCCCCCCCn1c2c(c(=N)c3c1CCC3)CCCC2,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,0
+T0065N,OCCCNc1nc(O)c2c(n1)-c1ccccc1CC21CCCC1,Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+I000LZ,Cc1cc2nc3c(=O)[nH]c(=O)nc-3n(C[C@@H](O)[C@@H](O)[C@@H](O)CO)c2cc1C,MDM2/p53,P53/HDM2,Q00987,P04637,,,,6.0,0
+I0005S,CNC(=O)N1C[C@@H](C)Oc2cc(C)ccc21,CD4/gp120,CD4/gp120,P01730,P04578,,,,19.0,0
+I000GT,CCOc1cc(CNCc2ccccc2)cc(Cl)c1OCc1ccccc1Cl,MDM2/p53,P53/HDM2,Q00987,P04637,,,,6.0,0
+T0026W,CC1=C(C)C(=O)C(CCCCC#CCCCC#CCO)=C(C)C1=O,p53/MDM2,P53/HDM2,P04637,Q00987,,,,6.0,0
+I001EE,C=CC(C)(C)c1c2c(c(O)c3c(=O)c4ccc(O)c(O)c4oc13)C=CC(C)(C)O2,XIAP/Smac,XIAP/SMAC,P98170,Q9NR28,,,,16.0,0
+P0002Z,CC[C@H]1CN2CCc3cc(O)c(OC)cc3[C@@H]2C[C@@H]1C[C@@]1(O)NCCc2cc(O)c(OC)cc21,HRAS/SOS1,HRAS/SOS1,P01112,Q07889,,,,49.0,0
+T001SO,Cc1cc2nc3c(=O)[nH]c(=O)nc-3n(C)c2cc1C=O,XIAP/SMAC (BIR3 domanin),XIAP/SMAC,P98170,Q9NR28,,,,16.0,0
+C0047S,Nc1ccc2[nH]c(CCCCCCCCc3nc4cc(N)ccc4[nH]3)nc2c1,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,0
+P0009A,O=C(OCc1cc(=O)n2c(n1)sc1ccccc12)C12CC3CC(CC(O)(C3)C1)C2,BRD4-1/H4,Bromodomain/Histone,O60885,P62805,,,,3.0,0
+T0072B,Cn1cc[nH]c1=S,Integrin alpha-4/beta-7,Integrins,P13612,P26010,,,,105.0,0
+C001NA,Cl.Cl.O=c1cc(CN2CCOCC2)occ1OCCCCCSc1ccnc2cc(C(F)(F)F)ccc12,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,0
+T0000N,CN(CCC#N)C(=O)COC(=O)c1c2c(nc3ccccc13)/C(=C/c1ccco1)CC2,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+T004TS,Cc1ccc2ccc(C(Nc3ccccc3)c3ccccc3)c(O)c2n1,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+T006HN,CCOP(=S)(OCC)Oc1cc(C)nc(N(CC)CC)n1,"Intercellular adhesion molecule (ICAM-1), Integrin alpha-L/beta-2",Integrins,P05362,P20701,P05107,,,102.0,0
+T000UK,Ic1cccc(-n2cc(-c3cccc(-c4nnn[nH]4)c3)nn2)c1,Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+T005B6,Cl.Cl.O=c1cc(CN2CCOCC2)occ1OCCCCCSc1ccnc2cc(C(F)(F)F)ccc12,Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+T006D7,CC(=O)O[C@H]1C(=O)[C@]2(C)[C@@H](O)C[C@H]3OC[C@@]3(OC(C)=O)[C@H]2[C@H](OC(=O)c2ccccc2)[C@]2(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)c3ccccc3)c3ccccc3)C(C)=C1C2(C)C,Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+T006YN,Nc1ccc2cc3ccc(N)cc3nc2c1,Integrin alpha-IIb/beta-3,Integrins,P08514,P05106,,,,104.0,0
+T001KN,Cc1cc(=O)n(C)c2cc(N3CCCCC3=O)ccc12,"Intercellular adhesion molecule (ICAM-1), Integrin alpha-L/beta-2",Integrins,P05362,P20701,P05107,,,102.0,0
+C002U8,O=C(OCc1cc(=O)n2c(n1)sc1ccccc12)C12CC3CC(CC(O)(C3)C1)C2,Importin subunit beta-1/Snurportin-1,Importin subunit beta-1/Snurportin-1,Q14974,O95149,,,,18.0,0
+C002F0,CCN(CC)C(=S)SSC(=S)N(CC)CC,Importin subunit beta-1/Snurportin-1,Importin subunit beta-1/Snurportin-1,Q14974,O95149,,,,18.0,0
+T002L1,O=C(O)CN1C(=O)CSC1=S,Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+T00526,Cc1cc(Nc2ccnc3c2CC[C@H]3O)ccc1NCCc1c[nH]c2c(C)cccc12,Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+T003O0,Cl.Nc1ccn([C@@H]2O[C@H](CO)[C@@H](O)[C@@H]2O)c(=O)n1,p53/MDM2,P53/HDM2,P04637,Q00987,,,,6.0,0
+T007OT,CC(=O)[C@H]1CC[C@H]2[C@@H]3CC[C@H]4C[C@H](O)CC[C@]4(C)[C@H]3C(=O)C[C@]12C,BRD4/NUT,Bromodomain/Histone,O60885,Q86Y26,,,,24.0,0
+T00024,CCCc1c(OCCCCc2nnn[nH]2)ccc(C(C)=O)c1O,Integrin alpha-IIb/beta-3,Integrins,P08514,P05106,,,,104.0,0
+P00024,CN(C)[C@@H]1C(O)=C(C(N)=O)C(=O)[C@@]2(O)C(O)=C3C(=O)c4c(O)ccc(Cl)c4[C@@H](O)[C@H]3C[C@@H]12.Cl,VHL/HIF1A,VHL/HIF1A,P40337,Q16665,,,,35.0,0
+T0025E,C[C@@H]1CN(CC(=O)N2CC(C)(C)c3nc(CO)c(Cc4ccc(F)cc4)cc32)[C@@H](CN2CCOC[C@H]2C)C[NH2+]1,Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+I000PQ,OCCN(CCO)c1nc(N2CCCCC2)c2nc(N(CCO)CCO)nc(N3CCCCC3)c2n1,MCL1/BAX,"BCL-like/BAX,BAK",Q07820,Q07812,,,,118.0,0
+C003DH,CCCCC/C=C\C[C@H](O)/C=C/c1cccc(C[C@H](O)CCCCO)n1,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,0
+P00027,CCSc1nc2sc3c(c2c(=O)[nH]1)CCCC3,PB1-5/H4,PB1-5/H3,Q86U86-5,P62805,,,,37.0,0
+C003EJ,CC1OC(=O)C(C(C)C)NC(=O)C(C(C)C)OC(=O)C(C(C)C)NC(=O)C(C)OC(=O)C(C(C)C)NC(=O)C(C(C)C)OC(=O)C(C(C)C)NC(=O)C(C)OC(=O)C(C(C)C)NC(=O)C(C(C)C)OC(=O)C(C(C)C)NC1=O,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,0
+J00092,CC[C@H](C)[C@H](NC(=O)[C@@H]1CCCN1C(=O)[C@H](CS)NC(=O)[C@H](C)N)C(=O)NCCOCCOCC(=O)NCCN(CC(=O)NCCN(CC(=O)NCCN(CC(=O)NCCN(CC(=O)NCCN(CC(=O)NCCN(CC(=O)NCCN(CC(=O)NCC(N)=O)C(=O)Cn1cnc2c(=O)[nH]c(N)nc21)C(=O)Cn1cnc2c(N)ncnc21)C(=O)Cn1ccc(N)nc1=O)C(=O)Cn1cnc2c(N)ncnc21)C(=O)Cn1cc(C)c(=O)[nH]c1=O)C(=O)Cn1ccc(N)nc1=O)C(=O)Cn1ccc(N)nc1=O,DCN1/UBC12,DCN1/UBE2M,Q96GG9,P61081,,,,7.0,0
+T003QK,Nc1sc(-c2ccc(Cl)cc2)c(-c2ccc(Cl)cc2)c1C(=S)NC1CC1,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+C004XP,C[n+]1c2cc(N)ccc2cc2ccc(N)cc21.[Cl-],Keap1/Nrf2,KEAP1/NRF2,Q14145,Q16236,,,,45.0,0
+T002E6,c1cc(Nc2ccc(NCCc3c[nH]c4sccc34)cc2)ccn1,Integrin alpha-IIb/beta-3,Integrins,P08514,P05106,,,,104.0,0
+P000FF,Oc1c(C(Nc2cccc(F)c2)c2ccccn2)ccc2cccnc12,INTEGRASE/LEDGF,INTEGRASE/LEDGF,P12497,O75475,,,,27.0,0
+C00394,CCN1C(=Cc2sc3ccccc3[n+]2C)C=Cc2cccc(C)c21.[I-],Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,0
+T002EF,CCN1C(=Cc2sc3ccccc3[n+]2C)C=Cc2cccc(C)c21.[I-],Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+T00158,CC1=C(/C=C/C(C)=C/C=C/C(C)=C/C(=O)Nc2ccc(O)cc2)C(C)(C)CCC1,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+T00786,Nc1ccc2cc3ccc(N)cc3nc2c1,XIAP/Caspase9,XIAP/SMAC,P98170,P55211,,,,116.0,0
+T007VJ,CC(=O)[C@H]1CC[C@H]2[C@@H]3CC[C@H]4C[C@H](O)CC[C@]4(C)[C@H]3C(=O)C[C@]12C,Integrin alpha-IIb/beta-3,Integrins,P08514,P05106,,,,104.0,0
+T0060H,Cc1ccc([C@H](C)Nc2ccc3c(c2)N(C2CC2)[C@@H](C)C(=O)N3C)cc1,HIF-1a/p300,HIF-1a/p300,Q16665,Q09472,,,,23.0,0
+T002QV,CN(C)[C@@H]1C(O)=C(C(N)=O)C(=O)[C@@]2(O)C(O)=C3C(=O)c4c(O)ccc(Cl)c4[C@@H](O)[C@H]3C[C@@H]12.Cl,Integrin alpha-IIb/beta-3,Integrins,P08514,P05106,,,,104.0,0
+C00451,Cc1cncc(-c2cnc(N[C@@H]3C[C@H]4CC[C@H](N4)[C@H]3CCC3CCC(F)(F)CC3)c3[nH]c(=O)c(C)cc23)c1,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,0
+T000TI,CC(=O)Oc1cc(-c2coc3cc(OC(C)=O)c(OC(C)=O)c(OC(C)=O)c3c2=O)cc(OC(C)=O)c1OC(C)=O,FKBP1A/FK506,FKBP1A/FK506,P62942,na,,,,4.0,0
+P00025,C=C(C)CNC(=O)C(C)(C)[C@@H]1C=C[C@@]2(COCOC)[C@@H](OC(=O)NC3CCCCC3)CC(C)=C[C@H]2C1,HDM2/P53,P53/HDM2,Q00987,P04637,,,,6.0,0
+T003ST,O=P1(NCCCl)OCCCN1CCCl,Integrin alpha-4/beta-7,Integrins,P13612,P26010,,,,105.0,0
+C10270,Oc1ccc(-c2nc(-c3ccc(F)cc3)c(-c3ccncc3)[nH]2)cc1,Menin/Histone-lysine N-methyltransferase MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),O00255,Q03164,,,,2.0,0
+T00518,CCNCc1cc(C)c(OCc2cccc(-c3cccc(COc4cc(OCc5cncc(C#N)c5)c(CNCC)cc4C)c3C)c2C)cc1OCc1cncc(C#N)c1,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+T0019W,CCCCC/C=C\C[C@H](O)/C=C/c1cccc(C[C@H](O)CCCCO)n1,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+C003CC,Sc1nnc(-c2cccc(Br)c2)o1,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,0
+C0038C,Nc1ccc(S(=O)(=O)c2cnc(-c3ccc(S(N)(=O)=O)cc3Cl)s2)cn1,Runt-related transcription factor 1/Core-binding factor subunit beta,Runt-related transcription factor 1/Core-binding factor subunit beta,Q01196,Q13951,,,,10.0,0
+C004HS,Nc1ccc2cn[nH]c2c1,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,0
+C005GY,N#Cc1c(Oc2cccc(OS(=O)(=O)CCCC(F)(F)F)c2)cccc1C(F)(F)F,Cyclin-dependent kinases regulatory subunit 1/S-phase kinase-associated protein 2,Cyclin-dependent kinases regulatory subunit 1/S-phase kinase-associated protein 2,P61024,Q13309,,,,86.0,0
+T007Y2,NC(=O)c1ccc2[nH]c(-c3ccc(Oc4ccc(Cl)cc4)cc3)nc2c1,FKBP1A/FK506,FKBP1A/FK506,P62942,na,,,,4.0,0
+C005GD,CC[C@H]1CN2CCc3cc(O)c(OC)cc3[C@@H]2C[C@@H]1C[C@@]1(O)NCCc2cc(O)c(OC)cc21,Cyclin-dependent kinases regulatory subunit 1/S-phase kinase-associated protein 2,Cyclin-dependent kinases regulatory subunit 1/S-phase kinase-associated protein 2,P61024,Q13309,,,,86.0,0
+C004CP,CC/C(=C(/CC)c1ccc(O)cc1)c1ccc(O)cc1,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,0
+C0050Q,CC[C@H]1CN2CCc3cc(O)c(OC)cc3[C@@H]2C[C@@H]1C[C@@]1(O)NCCc2cc(O)c(OC)cc21,Voltage-gated N-type calcium channel alpha-1B subunit/Amyloid beta A4 precursor protein-binding family A member 1,Voltage-gated N-type calcium channel alpha-1B subunit/Amyloid beta A4 precursor protein-binding family A member 1,Q00975,Q02410,,,,72.0,0
+C003RA,CCSc1nc2sc3c(c2c(=O)[nH]1)CCCC3,Guanine nucleotide-binding protein G(i) subunit alpha-1/Regulator of G-protein signaling 12,Guanine nucleotide-binding protein G(i) subunit alpha-1/Regulator of G-protein signaling 12,P63096,O14924,,,,48.0,0
+T000U6,N=C(NCCC[C@H](N)CNCCN)N[N+](=O)[O-],Integrin alpha-5/beta-1,Integrins,P08648,P05556,,,,101.0,0
+T001M0,CN[C@@H]1C[C@H]2O[C@@](C)([C@@H]1OC)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)NC4,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+J000HH,C=CCNC(=S)N/N=C(\C)c1ccccn1,Hsp70/Bcl-2 associated anthanogene (Bag1),Hsp70/Bcl-2 associated anthanogene (Bag1),P0DMV8,Q99933,,,,9.0,0
+T005T5,Cc1nc2c([nH]1)c(=O)n(C)c(=O)n2Cc1ccco1,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+T004X7,O=C(OC1Cc2c(O)cc(O)cc2OC1c1cc(O)c(=O)c2c(O)c(O)cc(C3Oc4cc(O)cc(O)c4CC3OC(=O)c3cc(O)c(O)c(O)c3)c2c1)c1cc(O)c(O)c(O)c1,p53/MDM2,P53/HDM2,P04637,Q00987,,,,6.0,0
+T00365,CO[C@@]12[C@H](COC(N)=O)C3=C(C(=O)C(C)=C(N)C3=O)N1C[C@H]1[C@@H]2N1C,Integrin alpha-5/beta-1,Integrins,P08648,P05556,,,,101.0,0
+P000D2,C=CC(C)(C)c1c2c(c(O)c3c(=O)c4ccc(O)c(O)c4oc13)C=CC(C)(C)O2,VHL/HIF1A,VHL/HIF1A,P40337,Q16665,,,,35.0,0
+T004VG,CC(C)=CCC/C(C)=C/COc1c2occc2cc2ccc(=O)oc12,Integrin alpha-4/beta-7,Integrins,P13612,P26010,,,,105.0,0
+T00248,O=C(OC1Cc2c(O)cc(O)cc2OC1c1cc(O)c(=O)c2c(O)c(O)cc(C3Oc4cc(O)cc(O)c4CC3OC(=O)c3cc(O)c(O)c(O)c3)c2c1)c1cc(O)c(O)c(O)c1,Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+T005Q3,C[N+](C)(C)CCCCCC[N+](C)(C)C.[Br-].[Br-],Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+T007K7,CP(=O)(O)C1=CCNCC1,p53/MDM2,P53/HDM2,P04637,Q00987,,,,6.0,0
+C0047V,CCn1c(=O)/c(=C2\Sc3cc(C)ccc3N2C)s/c1=C\c1scc[n+]1Cc1ccccc1.[Cl-],Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,0
+C0040B,CN(C)Cc1ccn2c1[nH]c(=O)c1c(Cl)cccc12,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,0
+I0006V,Clc1ncc[nH]1,BCL2/BAX,"BCL-like/BAX,BAK",P10415,Q07812,,,,11.0,0
+T00416,c1cc(Nc2ccc(NCCc3c[nH]c4sccc34)cc2)ccn1,HIF-1a/p300,HIF-1a/p300,Q16665,Q09472,,,,23.0,0
+T00728,CN(C)c1nc(-c2ccccc2)[n+](C)s1.[O-][Cl+3]([O-])([O-])[O-],Integrin alpha-5/beta-1,Integrins,P08648,P05556,,,,101.0,0
+T004OU,CNC(=O)c1cc(Br)c[nH]1,Integrin alpha-4/beta-1,Integrins,P13612,P05556,,,,100.0,0
+C003TN,CCCCCS(=O)(=O)CCCCCCCCCCn1c(-c2ccc(O)cc2)c(C)c2cc(O)ccc21,Tumour suppressor p53/oncoprotein Mdm2,P53/HDM2,P04637,Q00987,,,,6.0,0
+T0072H,Cc1cc2nc3ccc(N(C)C)cc3[s+]c2cc1N.[Cl-],FKBP1A/FK506,FKBP1A/FK506,P62942,na,,,,4.0,0
+J100BJ,CC[C@H]1CN2CCc3cc(O)c(OC)cc3[C@@H]2C[C@@H]1C[C@@]1(O)NCCc2cc(O)c(OC)cc21,PD-1/PD-L1,PD-1/PD-L1,Q15116,Q9NZQ7,,,,91.0,0
+C005GM,O=C(O)[C@@H]1C[C@H](C(=O)O)N1,Cyclin-dependent kinases regulatory subunit 1/S-phase kinase-associated protein 2,Cyclin-dependent kinases regulatory subunit 1/S-phase kinase-associated protein 2,P61024,Q13309,,,,86.0,0
+J10076,Cn1ccc2cc[nH]c2c1=O,GATA4/NKX2-5,GATA4/NKX2-5,P43694,P52952,,,,90.0,0
+I0016Q,CNC(=O)N1C[C@@H](C)Oc2cc(C)ccc21,BCL2/BAX,"BCL-like/BAX,BAK",P10415,Q07812,,,,11.0,0
+T002PZ,CCc1cc2c(s1)-[n+]1c(n[nH]c1C)CN=C2c1ccccc1Cl,Integrin alpha-V/beta-3,Integrins,P06756,P05106,,,,98.0,0
+T007YI,CC[C@H]1CN2CCc3cc(O)c(OC)cc3[C@@H]2C[C@@H]1C[C@@]1(O)NCCc2cc(O)c(OC)cc21,Rad51/BRCA2,Rad51/BRCA2,Q06609,P51587,,,,52.0,0
+I000GL,CC1=C(/C=C/C(C)=C/C=C/C(C)=C/C(=O)Nc2ccc(O)cc2)C(C)(C)CCC1,B2CL1/BAX,"BCL-like/BAX,BAK",Q07817,Q07812,,,,95.0,0
