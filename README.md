@@ -12,7 +12,7 @@
 ## Requirements
 ```python
 
-pip install -r requirements.txt
+
 
 ```
 
@@ -29,7 +29,11 @@ https://github.com/rdkit/rdkit
 
 ## Training
 
+```python
 
+
+
+```
 
 
 ## License
