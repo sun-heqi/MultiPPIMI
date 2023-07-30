@@ -24,12 +24,6 @@ pip install ogb==1.3.5
 pip install rdkit
 ```
 
-https://github.com/rdkit/rdkit  
-
-
-
-
-
 
 ## Data
 
