@@ -1,4 +1,3 @@
-
 import logging
 import random
 from math import sqrt

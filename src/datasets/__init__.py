@@ -1,2 +1,2 @@
-from .PPIM_datasets_CV import *
+from .PPIMI_datasets import *
 from .molecule_datasets import *

@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 from torch.nn.utils.weight_norm import weight_norm
-from ipdb import set_trace
+
 
 class BANLayer(nn.Module):
     def __init__(self, v_dim, q_dim, h_dim, h_out, act='ReLU', dropout=0.2, k=3):
