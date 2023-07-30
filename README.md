@@ -32,17 +32,15 @@ pip install rdkit
 The `data` folder contains all experimental data used in MultiPPIMI. In `data/folds`, we have full data split under four settings (S1: random split, S2: modulator cold-start, S3: PPI cold-start, S4: cold pair). 
 
 
-## Training
-
-```python
-python ./train.py --fold 1 --eval_setting S1 
+## Reproduce results
+For the warm-start experiments with vanilla DrugBAN, you can directly run the following command. 
+```bash
+for fold in 1..5; do
+  python main.py --fold $fold --eval_setting S1
+done
 ```
 
-## Testing
 
-```python
-python ./test.py --fold 1 --eval_setting S1 --input_model_file ./setting_S1_fold1.model
-```
 
 ## License
 
