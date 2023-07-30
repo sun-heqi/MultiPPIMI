@@ -45,10 +45,6 @@ python main.py --fold 1 --eval_setting S3
 python main.py --fold 1 --eval_setting S4
 ```
 
-## License
-
-
-
 ## Cite:
 
 ## References
