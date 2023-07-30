@@ -12,11 +12,16 @@
 
 
 
-## Requirements
+## Environments
+Install packages under conda env
 ```python
+conda create -n MultiPPIMI python=3.7
+conda activate MultiPPIMI
 
-
-
+conda install pytorch==1.8.0 torchvision==0.9.0 torchaudio==0.8.0 cudatoolkit=11.1 -c pytorch -c conda-forge
+conda install pytorch-geometric -c rusty1s -c conda-forge
+pip install ogb==1.3.5
+pip install rdkit
 ```
 
 https://github.com/rdkit/rdkit  
