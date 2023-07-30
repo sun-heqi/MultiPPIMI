@@ -50,5 +50,5 @@ python main.py --fold 1 --eval_setting S4
 ## References
 
 * [1] Bai, P., Miljković, F., John, B. et al. Interpretable bilinear attention network with domain adaptation improves drug–target prediction. Nat Mach Intell 5, 126–136 (2023). https://doi.org/10.1038/s42256-022-00605-1  
-* [2] Liu S, Wang H, Liu W, et al. PRE-TRAINING MOLECULAR GRAPH REPRESENTATION WITH 3D GEOMETRY. 
+* [2] Liu, S., Wang, H., Liu, W., Lasenby, J., Guo, H. and Tang, J., 2021. Pre-training molecular graph representation with 3d geometry. arXiv preprint arXiv:2110.07728.   
 
