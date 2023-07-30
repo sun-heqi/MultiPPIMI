@@ -1,10 +1,10 @@
 # MultiPPIMI: a multimodal deep learning framework for predicting interactions between protein-protein interaction targets and modulators
 
-<div align="left">
 
 ## Introduction
 This repository contains the PyTorch implementation of the MultiPPIMI framework, a multimodal deep learning approach with a bilinear attention network that explicitly models interactions between PPI targets and modulators. The model takes modulator SMILES strings (1D) and molecular graphs (2D), as well as PPI partner protein sequences, to make predictions.
 
+## Framework
 ![Model Architecture of MultiPPIMI](https://github.com/sun-heqi/MultiPPIMI/blob/main/figure/framework_figure.png)
 
 
