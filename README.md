@@ -5,10 +5,6 @@
 ## Introduction
 This repository contains the PyTorch implementation of the MultiPPIMI framework, a multimodal deep learning approach with a bilinear attention network that explicitly models interactions between PPI targets and modulators. The model takes modulator SMILES strings (1D) and molecular graphs (2D), as well as PPI partner protein sequences, to make predictions.
 
-
-
-with adversarial domain adaptation to explicitly learn pair-wise local interactions between drugs and targets, and adapt on out-of-distribution data. It works on two-dimensional (2D) drug molecular graphs and target protein sequences to perform prediction.
-
 ![Model Architecture of MultiPPIMI](https://github.com/sun-heqi/MultiPPIMI/blob/main/figure/framework_figure.png)
 
 
