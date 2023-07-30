@@ -29,7 +29,7 @@ pip install rdkit
 
 
 ## Data
-
+The `data` folder contains all experimental data used in MultiPPIMI. In `data/folds`, we have full data split under four settings (S1: random split, S2: modulator cold-start, S3: PPI cold-start, S4: cold pair). 
 
 
 ## Training
