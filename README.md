@@ -10,7 +10,7 @@ This repository contains the PyTorch implementation of the MultiPPIMI framework,
 
 
 ## Acknowledgements
-
+This implementation is inspired and partially based on earlier works [1], [2].
 
 
 
@@ -50,3 +50,7 @@ python main.py --fold 1 --eval_setting S4
 
 
 ## Cite:
+
+## References
+[1] Bai P, Miljković F, John B, et al. Interpretable bilinear attention network with domain adaptation improves drug–target prediction. Nat Mach Intell 2023.
+[2] Liu S, Wang H, Liu W, et al. PRE-TRAINING MOLECULAR GRAPH REPRESENTATION WITH 3D GEOMETRY. 
