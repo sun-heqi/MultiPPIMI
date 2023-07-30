@@ -33,14 +33,17 @@ The `data` folder contains all experimental data used in MultiPPIMI. In `data/fo
 
 
 ## Reproduce results
-For the warm-start experiments with vanilla DrugBAN, you can directly run the following command. 
+For the warm-start experiments with vanilla DrugBAN, for one fold as an example, you can directly run the following command. 
 ```bash
-for fold in 1..5; do
-  python main.py --fold $fold --eval_setting S1
-done
+python main.py --fold 1 --eval_setting S1
 ```
 
-
+For the cold-start experiments on one fold as an example.
+```bash
+python main.py --fold 1 --eval_setting S2
+python main.py --fold 1 --eval_setting S3
+python main.py --fold 1 --eval_setting S4
+```
 
 ## License
 
