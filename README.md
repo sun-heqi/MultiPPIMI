@@ -47,6 +47,10 @@ python main.py --fold 1 --eval_setting S4
 
 ## Cite:
 
+Under Review
+
+
+
 ## References
 
 * [1] Bai, P., Miljković, F., John, B. et al. Interpretable bilinear attention network with domain adaptation improves drug–target prediction. Nat Mach Intell 5, 126–136 (2023). https://doi.org/10.1038/s42256-022-00605-1  
