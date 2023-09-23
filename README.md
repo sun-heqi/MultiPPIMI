@@ -1,4 +1,4 @@
-# MultiPPIMI: a multimodal deep learning framework for predicting interactions between protein-protein interaction targets and modulators
+# A Multimodal Deep Learning Framework for Predicting PPI-Modulator Interactions
 
 
 ## Introduction
@@ -49,7 +49,7 @@ python main.py --fold 1 --eval_setting S4
 
 * Under Review  
 
-* Heqi Sun, Jianmin Wang, Hongyan Wu, Shenggeng Lin, Junwei Chen, Yi Xiong, Dong-Qing Wei. MultiPPIMI: a multimodal deep learning framework for predicting interactions between protein-protein interaction targets and modulators. bioRxiv 2023.08.03.551827; doi: https://doi.org/10.1101/2023.08.03.551827  
+* Heqi Sun, Jianmin Wang, Hongyan Wu, Shenggeng Lin, Junwei Chen, Jinghua Wei, Shuai Lv, Yi Xiong, Dong-Qing Wei. A Multimodal Deep Learning Framework for Predicting PPI-Modulator Interactions. bioRxiv 2023.08.03.551827; doi: https://doi.org/10.1101/2023.08.03.551827 
 
 
 ## References
