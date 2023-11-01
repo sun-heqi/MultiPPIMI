@@ -1,0 +1,472 @@
+dlip_id,SMILES,Target_Pref_Name,Common_Target_Pref_Name,Target_Pref_Name_original,prot1,prot2,prot3,prot4,prot5,uniprot_id1,uniprot_id2,uniprot_id3,uniprot_id4,uniprot_id5,ppi_label,label
+P0001D,Cc1noc(C)c1-c1ccccc1,BRD2-1/H4,Bromodomain/Histone,BRD2-1/H4,BRD2-1,H4,,,,P25440,P62805,,,,50.0,1
+T004BF,Cc1ccc(-c2c(C)noc2C)cc1S(=O)(=O)N1CCCC1,BRD2/Ack,Bromodomain/Histone,BRD2/Ack,BRD2,Ack,,,,P25440,Q07912,,,,55.0,1
+P000KB,Cc1ccc(-c2c(C)noc2C)cc1S(=O)(=O)NC1CCCC1,BRD2-1/H4,Bromodomain/Histone,BRD2-1/H4,BRD2-1,H4,,,,P25440,P62805,,,,50.0,1
+T0058J,Cc1ccc(-c2c(C)noc2C)cc1S(=O)(=O)N1CCCCC1,BRD2/Ack,Bromodomain/Histone,BRD2/Ack,BRD2,Ack,,,,P25440,Q07912,,,,55.0,1
+T006EO,COc1ccc(-c2c(C)noc2C)cc1S(=O)(=O)NC1CCCNC1,BRD2/Ack,Bromodomain/Histone,BRD2/Ack,BRD2,Ack,,,,P25440,Q07912,,,,55.0,1
+P0007O,Cc1ccc(-c2c(C)noc2C)cc1S(=O)(=O)NC1C=C1,BRD2-1/H4,Bromodomain/Histone,BRD2-1/H4,BRD2-1,H4,,,,P25440,P62805,,,,50.0,1
+T004UO,Cc1noc(C)c1-c1ccc(O)c(S(=O)(=O)NC2CCCC2)c1,BRD2/Ack,Bromodomain/Histone,BRD2/Ack,BRD2,Ack,,,,P25440,Q07912,,,,55.0,1
+P0001D,N[C@@H](Cc1ccc(O)cc1)C(=O)N[C@H]1CSSC[C@@H](C(=O)O)NC(=O)C2CCN(CC2)C1=O,BRD2-1/H4,Bromodomain/Histone,BRD2-1/H4,BRD2-1,H4,,,,P25440,P62805,,,,50.0,0
+P000ET,CC1(Cc2ccc(Br)cc2)C(=O)N(c2cc(Cl)cc(Cl)c2)c2ncc(C#N)n21,BRD2-1/H4,Bromodomain/Histone,BRD2-1/H4,BRD2-1,H4,,,,P25440,P62805,,,,50.0,0
+T006EO,CCCNC(=O)Nc1cccc(-c2ccc(C[C@H](NC(=O)NCc3ccccc3)C(=O)O)cc2)c1,BRD2/Ack,Bromodomain/Histone,BRD2/Ack,BRD2,Ack,,,,P25440,Q07912,,,,55.0,0
+P0007O,CCN(CC)c1ncc(N(CC)C(=O)c2cccs2)c(N[C@@H](Cc2ccc(OC(=O)N3CCCC3)cc2)C(=O)O)n1,BRD2-1/H4,Bromodomain/Histone,BRD2-1/H4,BRD2-1,H4,,,,P25440,P62805,,,,50.0,0
+P000EO,COc1cc2[nH]c(C#N)cc2cc1CN1CCC(Nc2ncnc3sc(CC(F)(F)F)cc23)CC1,BRD2-1/H4,Bromodomain/Histone,BRD2-1/H4,BRD2-1,H4,,,,P25440,P62805,,,,50.0,0
+C003RB,CCC(NC(=O)c1ccc(C(=N)N)cc1)C(C)(C)C(=O)N1CCC(CC(=O)O)CC1,Guanine nucleotide-binding protein G(i) subunit alpha-1/Regulator of G-protein signaling 12,Guanine nucleotide-binding protein G(i) subunit alpha-1/Regulator of G-protein signaling 12,Guanine nucleotide-binding protein G(i) subunit alpha-1/Regulator of G-protein signaling 12,Guanine nucleotide-binding protein G(i) subunit alpha-1,Regulator of G-protein signaling 12,,,,P63096,O14924,,,,48.0,0
+C003QN,Cc1nnc(-c2nc(C3CCCCC3)n(-c3cccc(Cl)c3F)c2-c2ccc(F)c(Cl)c2)o1,Guanine nucleotide-binding protein G(i) subunit alpha-1/Regulator of G-protein signaling 12,Guanine nucleotide-binding protein G(i) subunit alpha-1/Regulator of G-protein signaling 12,Guanine nucleotide-binding protein G(i) subunit alpha-1/Regulator of G-protein signaling 12,Guanine nucleotide-binding protein G(i) subunit alpha-1,Regulator of G-protein signaling 12,,,,P63096,O14924,,,,48.0,0
+C003QP,CNc1nc(NCc2ccc(NC(=O)c3ccc(C#N)cc3)cc2)c2ccccc2n1,Guanine nucleotide-binding protein G(i) subunit alpha-1/Regulator of G-protein signaling 12,Guanine nucleotide-binding protein G(i) subunit alpha-1/Regulator of G-protein signaling 12,Guanine nucleotide-binding protein G(i) subunit alpha-1/Regulator of G-protein signaling 12,Guanine nucleotide-binding protein G(i) subunit alpha-1,Regulator of G-protein signaling 12,,,,P63096,O14924,,,,48.0,0
+C003QS,CNc1nc(NCc2ccc(NC(=O)c3ccc(-c4ccccc4)cc3)cc2)c2ccccc2n1,Guanine nucleotide-binding protein G(i) subunit alpha-1/Regulator of G-protein signaling 12,Guanine nucleotide-binding protein G(i) subunit alpha-1/Regulator of G-protein signaling 12,Guanine nucleotide-binding protein G(i) subunit alpha-1/Regulator of G-protein signaling 12,Guanine nucleotide-binding protein G(i) subunit alpha-1,Regulator of G-protein signaling 12,,,,P63096,O14924,,,,48.0,0
+C0050R,O=C1c2ccccc2C(O)(c2ccc(Cl)cc2)N1Cc1ccc([N+](=O)[O-])cc1,Voltage-gated N-type calcium channel alpha-1B subunit/Amyloid beta A4 precursor protein-binding family A member 1,Voltage-gated N-type calcium channel alpha-1B subunit/Amyloid beta A4 precursor protein-binding family A member 1,Voltage-gated N-type calcium channel alpha-1B subunit/Amyloid beta A4 precursor protein-binding family A member 1,Voltage-gated N-type calcium channel alpha-1B subunit,Amyloid beta A4 precursor protein-binding family A member 1,,,,Q00975,Q02410,,,,72.0,0
+C0051I,O=C(O)CC(=O)N1CCC(C(=O)N2CCC3(CC2)CCN(c2ccncc2)CC3)CC1,Voltage-gated N-type calcium channel alpha-1B subunit/Amyloid beta A4 precursor protein-binding family A member 1,Voltage-gated N-type calcium channel alpha-1B subunit/Amyloid beta A4 precursor protein-binding family A member 1,Voltage-gated N-type calcium channel alpha-1B subunit/Amyloid beta A4 precursor protein-binding family A member 1,Voltage-gated N-type calcium channel alpha-1B subunit,Amyloid beta A4 precursor protein-binding family A member 1,,,,Q00975,Q02410,,,,72.0,0
+C0051L,CNc1nc(NCc2ccc(NC(=O)c3ccc(F)cc3)cc2)c2cc(C)ccc2n1,Voltage-gated N-type calcium channel alpha-1B subunit/Amyloid beta A4 precursor protein-binding family A member 1,Voltage-gated N-type calcium channel alpha-1B subunit/Amyloid beta A4 precursor protein-binding family A member 1,Voltage-gated N-type calcium channel alpha-1B subunit/Amyloid beta A4 precursor protein-binding family A member 1,Voltage-gated N-type calcium channel alpha-1B subunit,Amyloid beta A4 precursor protein-binding family A member 1,,,,Q00975,Q02410,,,,72.0,0
+C0051Q,CCN(CC)c1ncc(N(CC)C(=O)NCc2ccccc2)c(N[C@@H](Cc2ccc(OC(=O)N3CCCC3)cc2)C(=O)O)n1,Voltage-gated N-type calcium channel alpha-1B subunit/Amyloid beta A4 precursor protein-binding family A member 1,Voltage-gated N-type calcium channel alpha-1B subunit/Amyloid beta A4 precursor protein-binding family A member 1,Voltage-gated N-type calcium channel alpha-1B subunit/Amyloid beta A4 precursor protein-binding family A member 1,Voltage-gated N-type calcium channel alpha-1B subunit,Amyloid beta A4 precursor protein-binding family A member 1,,,,Q00975,Q02410,,,,72.0,0
+C005CB,CC[C@@H]1/C=C(\C)C[C@H](C)C[C@H](OC)[C@H]2O[C@@](O)(C(=O)C(=O)N3CCCC[C@H]3C(=O)O[C@H](/C(C)=C/C3CC[C@@H](OCC(=O)NC4CCCCC4)[C@H](OC)C3)[C@H](C)[C@@H](O)CC1=O)[C@H](C)C[C@@H]2OC,Apoptosis regulator Bcl-2/Bcl-2 homologous antagonist/killer,Apoptosis regulator Bcl-2/Bcl-2 homologous antagonist/killer,Apoptosis regulator Bcl-2/Bcl-2 homologous antagonist/killer,Apoptosis regulator Bcl-2,Bcl-2 homologous antagonist/killer,,,,P10415,Q16611,,,,79.0,0
+C005CD,CC(=O)CN1C(=O)[C@@H](NC(=O)c2cccc(C)c2)[C@@H](c2ccc(F)cc2)c2c(C)nn(-c3ccccc3)c21,Apoptosis regulator Bcl-2/Bcl-2 homologous antagonist/killer,Apoptosis regulator Bcl-2/Bcl-2 homologous antagonist/killer,Apoptosis regulator Bcl-2/Bcl-2 homologous antagonist/killer,Apoptosis regulator Bcl-2,Bcl-2 homologous antagonist/killer,,,,P10415,Q16611,,,,79.0,0
+C005CG,O=C(O)C[C@H]1Cc2ccc(OCCCNc3ccccn3)cc2Cc2ccccc21,Apoptosis regulator Bcl-2/Bcl-2 homologous antagonist/killer,Apoptosis regulator Bcl-2/Bcl-2 homologous antagonist/killer,Apoptosis regulator Bcl-2/Bcl-2 homologous antagonist/killer,Apoptosis regulator Bcl-2,Bcl-2 homologous antagonist/killer,,,,P10415,Q16611,,,,79.0,0
+C005CR,N=C(N)c1ccc(NC(=O)c2ccc3c(c2)N[C@H](CC(=O)O)C(=O)N(CCc2ccccc2)C3)cc1,Apoptosis regulator Bcl-2/Bcl-2 homologous antagonist/killer,Apoptosis regulator Bcl-2/Bcl-2 homologous antagonist/killer,Apoptosis regulator Bcl-2/Bcl-2 homologous antagonist/killer,Apoptosis regulator Bcl-2,Bcl-2 homologous antagonist/killer,,,,P10415,Q16611,,,,79.0,0
+C005CV,CNc1nc(NCc2ccc(NC(=O)c3ccc(F)cc3)cc2)c2cc(C)ccc2n1,Apoptosis regulator Bcl-2/Bcl-2 homologous antagonist/killer,Apoptosis regulator Bcl-2/Bcl-2 homologous antagonist/killer,Apoptosis regulator Bcl-2/Bcl-2 homologous antagonist/killer,Apoptosis regulator Bcl-2,Bcl-2 homologous antagonist/killer,,,,P10415,Q16611,,,,79.0,0
+P00015,COc1ccc(C2=N[C@@H](c3ccc(Cl)cc3)[C@@H](c3ccc(Cl)cc3)N2C(=O)N2CCNC(=O)C2)c(OC(C)C)c1,XDM2/P53,XDM2/P53,XDM2/P53,XDM2,P53,,,,P56273,P04637,,,,31.0,1
+P000LN,COc1ccc(C2=N[C@@H](c3ccc(Cl)cc3)[C@@H](c3ccc(Cl)cc3)N2C(=O)N2CCNCC2)c(OC(C)C)c1,XDM2/P53,XDM2/P53,XDM2/P53,XDM2,P53,,,,P56273,P04637,,,,31.0,1
+P000D3,COc1cccc2c1C1=C(C(c3ccc(Br)cc3)O2)C(c2ccc(Br)cc2)n2ncnc2N1C,XDM2/P53,XDM2/P53,XDM2/P53,XDM2,P53,,,,P56273,P04637,,,,31.0,0
+P000A8,C[NH+](C)CCn1nnnc1Sc1cc(C2CC2)nc2ncnn12.[Cl-],XDM2/P53,XDM2/P53,XDM2/P53,XDM2,P53,,,,P56273,P04637,,,,31.0,0
+P000GM,CCn1c(=O)/c(=C2\Sc3cc(Cl)ccc3N2C)s/c1=C\c1scc[n+]1Cc1cc(C)sc1C.[Cl-],XDM2/P53,XDM2/P53,XDM2/P53,XDM2,P53,,,,P56273,P04637,,,,31.0,0
+P0007Q,Cc1cc(C)c(S(=O)(=O)N[C@@H](CNC(=O)C2=NO[C@]3(C2)C[C@@H](CNc2ncc[nH]2)N(C(=O)OCc2ccccc2)C3)C(=O)O)c(C)c1,XDM2/P53,XDM2/P53,XDM2/P53,XDM2,P53,,,,P56273,P04637,,,,31.0,0
+P000HD,Cc1cn(C[C@H](NC(=O)OCc2ccccc2)C(=O)O)c(=O)nc1NCCCCNc1nc2ccccc2[nH]1,XDM2/P53,XDM2/P53,XDM2/P53,XDM2,P53,,,,P56273,P04637,,,,31.0,0
+I000GI,COc1cccc2c1C1=C(C(c3ccc(Br)cc3)O2)C(c2ccc(Br)cc2)n2ncnc2N1C,E2/E1,E1/E2,E2_E1,E2,E1,,,,P06790,P06789,,,,28.0,0
+I00135,C[NH+](C)CCn1nnnc1Sc1cc(C2CC2)nc2ncnn12.[Cl-],E2/E1,E1/E2,E2_E1,E2,E1,,,,P06790,P06789,,,,28.0,0
+T001G6,Cc1cc(C)c(S(=O)(=O)N[C@@H](CNC(=O)C2=NO[C@]3(C2)C[C@@H](CNc2ncc[nH]2)N(C(=O)OCc2ccccc2)C3)C(=O)O)c(C)c1,E1/E2,E1/E2,E1/E2,E1,E2,,,,P06789,P06790,,,,28.0,0
+I001IB,Cc1nn(-c2ccccc2)c2c1[C@H](c1ccc(F)cc1)[C@H](NC(=O)c1ccc3ccccc3c1)C(=O)N2,E2/E1,E1/E2,E2_E1,E2,E1,,,,P06790,P06789,,,,28.0,0
+I000J0,Cc1cn(C[C@H](NC(=O)OCc2ccccc2)C(=O)O)c(=O)nc1NCCCCNc1nc2ccccc2[nH]1,E2/E1,E1/E2,E2_E1,E2,E1,,,,P06790,P06789,,,,28.0,0
+C005HF,O=C(O)Cc1cc(=O)n(CC(=O)NCC2CCC(Nc3nc4ccccc4[nH]3)CC2)c2ccccc12,Aryl hydrocarbon receptor nuclear translocator/Endothelial PAS domain-containing protein 1,Aryl hydrocarbon receptor nuclear translocator/Endothelial PAS domain-containing protein 1,Aryl hydrocarbon receptor nuclear translocator/Endothelial PAS domain-containing protein 1,Aryl hydrocarbon receptor nuclear translocator,Endothelial PAS domain-containing protein 1,,,,P27540,Q99814,,,,88.0,0
+C005HJ,Cc1nnc(N2CCN(c3ncnc4sc(CC(F)(F)F)cc34)CC2)s1,Aryl hydrocarbon receptor nuclear translocator/Endothelial PAS domain-containing protein 1,Aryl hydrocarbon receptor nuclear translocator/Endothelial PAS domain-containing protein 1,Aryl hydrocarbon receptor nuclear translocator/Endothelial PAS domain-containing protein 1,Aryl hydrocarbon receptor nuclear translocator,Endothelial PAS domain-containing protein 1,,,,P27540,Q99814,,,,88.0,0
+C005HN,COc1ccc2c(c1)CCN1C(=O)C3CCCC(C21)N3S(=O)(=O)Nc1cc(F)c(F)cc1F,Aryl hydrocarbon receptor nuclear translocator/Endothelial PAS domain-containing protein 1,Aryl hydrocarbon receptor nuclear translocator/Endothelial PAS domain-containing protein 1,Aryl hydrocarbon receptor nuclear translocator/Endothelial PAS domain-containing protein 1,Aryl hydrocarbon receptor nuclear translocator,Endothelial PAS domain-containing protein 1,,,,P27540,Q99814,,,,88.0,0
+C005HT,Cc1ccc(C2C3=C(c4ccccc4OC3c3ccc(Br)cc3)N(C)c3ncnn32)cc1,Aryl hydrocarbon receptor nuclear translocator/Endothelial PAS domain-containing protein 1,Aryl hydrocarbon receptor nuclear translocator/Endothelial PAS domain-containing protein 1,Aryl hydrocarbon receptor nuclear translocator/Endothelial PAS domain-containing protein 1,Aryl hydrocarbon receptor nuclear translocator,Endothelial PAS domain-containing protein 1,,,,P27540,Q99814,,,,88.0,0
+C005HY,CN1C2=C([C@H](c3ccc(C#N)cc3)n3ncnc31)[C@@H](c1ccc(Br)cc1)Oc1ccccc12,Aryl hydrocarbon receptor nuclear translocator/Endothelial PAS domain-containing protein 1,Aryl hydrocarbon receptor nuclear translocator/Endothelial PAS domain-containing protein 1,Aryl hydrocarbon receptor nuclear translocator/Endothelial PAS domain-containing protein 1,Aryl hydrocarbon receptor nuclear translocator,Endothelial PAS domain-containing protein 1,,,,P27540,Q99814,,,,88.0,0
+P000B6,CC(O)(c1ccc(-c2ccc(S(=O)(=O)c3ccc(N)nc3)nc2Oc2ccccc2)nc1)C(F)(F)F,BAZ2B/H4,BAZ2B/H4,BAZ2B/H4,BAZ2B,H4,,,,Q9UIF8,P62805,,,,15.0,0
+P000IX,CS(=O)(=O)N[C@@H](CNC(=O)c1ccc(CCC(=O)NC2=NCCCN2)s1)C(=O)O,BAZ2B/H4,BAZ2B/H4,BAZ2B/H4,BAZ2B,H4,,,,Q9UIF8,P62805,,,,15.0,0
+P000HU,O=C(N[C@@H](Cn1cc(-c2ccccc2)c(N2CCC(CNc3nc4ccccc4[nH]3)CC2)nc1=O)C(=O)O)OCc1ccccc1,BAZ2B/H4,BAZ2B/H4,BAZ2B/H4,BAZ2B,H4,,,,Q9UIF8,P62805,,,,15.0,0
+P000IS,Cc1cc(C)c(S(=O)(=O)N[C@@H](CNC(=O)c2cccc3c2cnn3CCCNc2ncc[nH]2)C(=O)O)c(C)c1,BAZ2B/H4,BAZ2B/H4,BAZ2B/H4,BAZ2B,H4,,,,Q9UIF8,P62805,,,,15.0,0
+P0005D,Cc1cc(C)c(S(=O)(=O)N[C@@H](Cc2ccc(-c3cccc(NC(=O)c4ccco4)c3)cc2)C(=O)O)c(C)c1,BAZ2B/H4,BAZ2B/H4,BAZ2B/H4,BAZ2B,H4,,,,Q9UIF8,P62805,,,,15.0,0
+P000CG,CNc1nc(NCc2ccc(NC(=O)c3ccc(F)cc3)cc2)c2cc(C)ccc2n1,BAZ2B/H4,BAZ2B/H4,BAZ2B/H4,BAZ2B,H4,,,,Q9UIF8,P62805,,,,15.0,0
+P000FB,Cc1cccc(-c2nc(C(=O)O)c(-c3cccc(Cl)c3)n2-c2cc(Cl)ccc2C)n1,BAZ2B/H4,BAZ2B/H4,BAZ2B/H4,BAZ2B,H4,,,,Q9UIF8,P62805,,,,15.0,0
+P000C1,CC(C)[C@@H]1NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H]2CCCN2C(=O)[C@@H](N)CSSC[C@@H](C(=O)O)NC1=O,BAZ2B/H4,BAZ2B/H4,BAZ2B/H4,BAZ2B,H4,,,,Q9UIF8,P62805,,,,15.0,0
+P0000C,COc1cc2c(c(OC)c1)C1C3CCCC(C(=O)N1CC2)N3C(=O)C(=O)c1ccc(Cl)cc1Cl,BAZ2B/H4,BAZ2B/H4,BAZ2B/H4,BAZ2B,H4,,,,Q9UIF8,P62805,,,,15.0,0
+P000D8,CC[C@@H]1/C=C(\C)C[C@H](C)C[C@H](OC)[C@H]2O[C@@](O)(C(=O)C(=O)N3CCCC[C@H]3C(=O)O[C@H](/C(C)=C/C3CC[C@@H](OC[C@@H](O)c4ccc5ccccc5c4)[C@H](OC)C3)[C@H](C)[C@H](O)CC1=O)[C@H](C)C[C@@H]2OC,BAZ2B/H4,BAZ2B/H4,BAZ2B/H4,BAZ2B,H4,,,,Q9UIF8,P62805,,,,15.0,0
+P000H5,COc1cc2c(c(OC)c1)C1C3CCCC(C(=O)N1CC2)N3C(=O)C(=O)c1ccc(F)cc1,BAZ2B/H4,BAZ2B/H4,BAZ2B/H4,BAZ2B,H4,,,,Q9UIF8,P62805,,,,15.0,0
+P0000E,O=C(Nc1cc(F)c(CC(=O)N2C[C@@H](F)C[C@H]2CO[C@H]2CC[C@H](C(=O)O)CC2)cc1Cl)c1nsc2ccccc12,BAZ2B/H4,BAZ2B/H4,BAZ2B/H4,BAZ2B,H4,,,,Q9UIF8,P62805,,,,15.0,0
+P000BB,CN(Cc1nc2ccccc2[nH]1)C(=O)c1ccc2c(c1)CN(C)C(=O)[C@@H](CC(=O)O)N2,BAZ2B/H4,BAZ2B/H4,BAZ2B/H4,BAZ2B,H4,,,,Q9UIF8,P62805,,,,15.0,0
+P00040,CCCCCCc1ccc(C[C@H](NC(=O)Cc2cccc(NC(=N)N)c2)C(=O)O)cc1,BAZ2B/H4,BAZ2B/H4,BAZ2B/H4,BAZ2B,H4,,,,Q9UIF8,P62805,,,,15.0,0
+I000LS,COc1cccc2c1C1=C(C(c3ccc(Br)cc3)O2)C(c2ccc(Br)cc2)n2ncnc2N1C,FAK/VEGFR3,FAK/VEGFR3,FAK_VEGFR3,FAK,VEGFR3,,,,Q05397,P35916,,,,47.0,0
+I000YK,Cc1ccc(-c2c(C)noc2C)cc1S(=O)(=O)Nc1ccccc1,LEDGF/IN,LEDGF/IN,LEDGF_IN,LEDGF,IN,,,,O75475,C5J4T0,,,,29.0,0
+I000PT,O=C1c2ccccc2C(O)(c2ccc(Cl)cc2)N1Cc1ccc([N+](=O)[O-])cc1,LEDGF/IN,LEDGF/IN,LEDGF_IN,LEDGF,IN,,,,O75475,C5J4T0,,,,29.0,0
+I0009Z,O=S(=O)(c1cc(Cl)cc(Cl)c1O)N(Cc1ccc(Cl)cc1)Cc1cccc(-c2ccc(Cl)cc2)n1,LEDGF/IN,LEDGF/IN,LEDGF_IN,LEDGF,IN,,,,O75475,C5J4T0,,,,29.0,0
+I0015U,O=C(O)CC(=O)N1CCC(C(=O)N2CCC3(CC2)CCN(c2ccncc2)CC3)CC1,LEDGF/IN,LEDGF/IN,LEDGF_IN,LEDGF,IN,,,,O75475,C5J4T0,,,,29.0,0
+I000C4,N=C(N)NCCC[C@@H]1NC(=O)CNC(=O)C[C@@H](C(=O)O)NC(=O)[C@@H](c2ccccc2)NC(=O)[C@H]2CCCN2C1=O,LEDGF/IN,LEDGF/IN,LEDGF_IN,LEDGF,IN,,,,O75475,C5J4T0,,,,29.0,0
+I001F6,CNc1nc(NCc2ccc(NC(=O)c3ccc(F)cc3)cc2)c2cc(C)ccc2n1,LEDGF/IN,LEDGF/IN,LEDGF_IN,LEDGF,IN,,,,O75475,C5J4T0,,,,29.0,0
+I000DB,CCOc1cc(Cl)c(C#N)cc1C1=N[C@@H](c2ccc(Cl)cc2)[C@@H](c2ccc(Cl)cc2)N1C(=O)N1CCNC(=O)C1,LEDGF/IN,LEDGF/IN,LEDGF_IN,LEDGF,IN,,,,O75475,C5J4T0,,,,29.0,0
+I000FC,CN(Cc1nc2ccccc2[nH]1)C(=O)c1ccc2c(c1)Cc1ccccc1C(CC(=O)O)C2,LEDGF/IN,LEDGF/IN,LEDGF_IN,LEDGF,IN,,,,O75475,C5J4T0,,,,29.0,0
+I00140,CC[C@@H]1/C=C(\C)C[C@H](C)C[C@H](OC)[C@H]2O[C@@](O)(C(=O)C(=O)N3CCCC[C@H]3C(=O)O[C@H](/C(C)=C/C3CC[C@@H](OC[C@@H](O)c4cc5ccccc5s4)[C@H](OC)C3)[C@H](C)[C@H](O)CC1=O)[C@H](C)C[C@@H]2OC,LEDGF/IN,LEDGF/IN,LEDGF_IN,LEDGF,IN,,,,O75475,C5J4T0,,,,29.0,0
+I0008H,O=C1c2ccccc2C(OCc2ccc(CO)cc2)(c2ccc(Cl)cc2)N1Cc1ccc([N+](=O)[O-])cc1,LEDGF/IN,LEDGF/IN,LEDGF_IN,LEDGF,IN,,,,O75475,C5J4T0,,,,29.0,0
+I001BV,Cc1nnc(N2CCN(c3ncnc4sc(CC(F)(F)F)cc34)CC2)s1,LEDGF/IN,LEDGF/IN,LEDGF_IN,LEDGF,IN,,,,O75475,C5J4T0,,,,29.0,0
+I0009A,COc1ccccc1NS(=O)(=O)c1cc(-c2c(C)noc2C)ccc1OC,LEDGF/IN,LEDGF/IN,LEDGF_IN,LEDGF,IN,,,,O75475,C5J4T0,,,,29.0,0
+I000WX,CN(C)C(=O)c1cc(Cl)cc(-n2c(C3CCCCC3)nc(-c3nnn[nH]3)c2-c2cccc(Cl)c2F)c1,LEDGF/IN,LEDGF/IN,LEDGF_IN,LEDGF,IN,,,,O75475,C5J4T0,,,,29.0,0
+I00101,Cc1ccccc1NC(=O)Nc1ccc(CC(=O)N2C[C@@H](F)C[C@H]2COc2ccc(C(=O)O)cc2)cc1Cl,LEDGF/IN,LEDGF/IN,LEDGF_IN,LEDGF,IN,,,,O75475,C5J4T0,,,,29.0,0
+I000N1,COc1ccc(C2=NC(c3ccc(Cl)cc3)C(c3ccc(Cl)cc3)N2C(=O)OCCN(C)C)c(OC(C)C)c1,LEDGF/IN,LEDGF/IN,LEDGF_IN,LEDGF,IN,,,,O75475,C5J4T0,,,,29.0,0
+I001DE,O=C(O)CC(CC(=O)NNC(=O)CCCCNc1ccccn1)c1cc(Cl)cc(Cl)c1,LEDGF/IN,LEDGF/IN,LEDGF_IN,LEDGF,IN,,,,O75475,C5J4T0,,,,29.0,0
+J10000,Cc1ccc([C@H]2c3c(C)nn(-c4ccccc4)c3NC(=O)[C@H]2NC(=O)c2cccc(C)c2)cc1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J10001,Cc1cccc(C(=O)N[C@@H]2C(=O)Nc3c(c(C)nn3-c3ccccc3)[C@@H]2c2ccccc2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J10002,Cc1cccc(C(=O)N[C@@H]2C(=O)Nc3c(c(C)nn3-c3ccccc3)[C@@H]2c2ccc(F)cc2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J10003,Cc1cccc(C(=O)N[C@@H]2C(=O)Nc3c(c(C)nn3-c3ccccc3)[C@@H]2c2cccc(F)c2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J10004,Cc1cccc(C(=O)N[C@@H]2C(=O)Nc3c(c(C)nn3-c3ccccc3)[C@@H]2c2ccc(F)nc2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J10005,Cc1cccc(C(=O)N[C@@H]2C(=O)Nc3c(c(C)nn3-c3ccccc3)[C@@H]2c2cccnc2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J10006,Cc1cccc(C(=O)N[C@@H]2C(=O)Nc3c(c(C)nn3-c3ccccc3)[C@@H]2Cc2ccccc2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J10007,CCC[C@H]1c2c(C)nn(-c3ccccc3)c2NC(=O)[C@H]1NC(=O)c1cccc(C)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J10008,Cc1cccc(C(=O)N[C@@H]2C(=O)Nc3c(c(C)nn3-c3ccccc3)[C@@H]2C2CCCCC2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J10009,Cc1nn(-c2ccccc2)c2c1[C@H](c1ccc(F)cc1)[C@H](NC(=O)c1ccccc1)C(=O)N2,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1000A,Cc1nn(-c2ccccc2)c2c1[C@H](c1ccc(F)cc1)[C@H](NC(=O)c1cccc(C(F)(F)F)c1)C(=O)N2,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1000B,Cc1nn(-c2ccccc2)c2c1[C@H](c1ccc(F)cc1)[C@H](NC(=O)c1cccc(I)c1)C(=O)N2,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1000K,CCCn1nc(C)c2c1NC(=O)[C@@H](NC(=O)c1cccc(C)c1)[C@H]2c1ccc(F)cc1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1000L,CCC(C)n1nc(C)c2c1NC(=O)[C@@H](NC(=O)c1cccc(C)c1)[C@H]2c1ccc(F)cc1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1000M,Cc1cccc(C(=O)N[C@@H]2C(=O)Nc3c(c(C)nn3C(C)(C)C)[C@@H]2c2ccc(F)cc2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1000N,Cc1cccc(C(=O)N[C@@H]2C(=O)Nc3c(c(C)nn3C3CCCC3)[C@@H]2c2ccc(F)cc2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1000O,Cc1cccc(C(=O)N[C@@H]2C(=O)Nc3c(c(C)nn3C3CC3)[C@@H]2c2ccc(F)cc2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1000Q,CCN1C(=O)[C@@H](NC(=O)c2cccc(C)c2)[C@@H](c2ccc(F)cc2)c2c(C)nn(-c3ccccc3)c21,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1000R,Cc1cccc(C(=O)N[C@@H]2C(=O)N(C(C)C)c3c(c(C)nn3-c3ccccc3)[C@@H]2c2ccc(F)cc2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1000S,CC(=O)CN1C(=O)[C@@H](NC(=O)c2cccc(C)c2)[C@@H](c2ccc(F)cc2)c2c(C)nn(-c3ccccc3)c21,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1000T,CC(=O)N1C(=O)[C@@H](NC(=O)c2cccc(C)c2)[C@@H](c2ccc(F)cc2)c2c(C)nn(-c3ccccc3)c21,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1000U,CCCn1nc(C)c2c1N(CC)C(=O)[C@@H](NC(=O)c1cccc(C)c1)[C@H]2c1ccc(F)cc1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1000V,CCC(C)n1nc(C)c2c1N(CC)C(=O)[C@@H](NC(=O)c1cccc(C)c1)[C@H]2c1ccc(F)cc1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1000W,Cc1cccc(C(=O)N[C@@H]2C(=O)N(C)c3c(c(C)nn3C(C)(C)C)[C@@H]2c2ccc(F)cc2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1000X,CCN1C(=O)[C@@H](NC(=O)c2cccc(C)c2)[C@@H](c2ccc(F)cc2)c2c(C)nn(C3CCCC3)c21,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1000Y,CCN1C(=O)[C@@H](NC(=O)c2cccc(C)c2)[C@@H](c2ccc(F)cc2)c2c(C)nn(C3CC3)c21,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1000Z,Cc1cccc(C(=O)N[C@@H]2C(=O)Nc3c(c(C)nn3-c3ccccc3)[C@@H]2c2ccc(Cl)cc2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J10010,Cc1cccc(C(=O)N[C@@H]2C(=O)Nc3c(c(C)nn3-c3ccccc3)[C@@H]2c2ccc(Br)cc2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J10011,Cc1cccc(C(=O)N[C@@H]2C(=O)Nc3c(c(C)nn3-c3ccccc3)[C@@H]2c2ccc(F)c(F)c2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J10017,CCCC[C@H]1c2c(C)nn(-c3ccccc3)c2NC(=O)[C@H]1NC(=O)c1cccc(C)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J10018,Cc1cccc(C(=O)N[C@@H]2C(=O)Nc3c(c(C)nn3-c3ccccc3)[C@@H]2C2CCCC2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J10019,Cc1cccc(C(=O)N[C@@H]2C(=O)Nc3c(c(C)nn3-c3ccccc3)[C@@H]2C2CCC(F)(F)CC2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1001B,CCCC[C@H]1c2c(C)nn(C(C)(C)C)c2NC(=O)[C@H]1NC(=O)c1cccc(C)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1001C,Cc1cccc(C(=O)N[C@@H]2C(=O)Nc3c(c(C)nn3C(C)(C)C)[C@@H]2C2CCCCC2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1001D,CCCn1nc(C)c2c1NC(=O)[C@@H](NC(=O)c1cccc(C)c1)[C@H]2C1CCCCC1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1001E,CCN1C(=O)[C@@H](NC(=O)c2cccc(C)c2)[C@@H](C(C)C)c2c(C)nn(-c3ccccc3)c21,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1001F,CCN1C(=O)[C@@H](NC(=O)c2cccc(C)c2)[C@@H](c2ccc(F)nc2)c2c(C)nn(-c3ccccc3)c21,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1001I,Cc1nn(-c2ccccc2)c2c1[C@H](c1ccc(F)cc1)[C@H](NC(=O)c1cccc(Br)c1)C(=O)N2,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1001L,Cc1nn(-c2ccccc2)c2c1[C@H](c1ccc(F)cc1)[C@H](NC(=O)c1ccc3ccccc3c1)C(=O)N2,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1001O,Cc1cccc(C(=O)N[C@@H]2C(=O)Nc3c(c(C)nn3-c3ccccc3F)[C@@H]2c2ccc(F)cc2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1001P,Cc1cccc(C(=O)N[C@@H]2C(=O)Nc3c(c(C)nn3-c3ccc(F)cc3)[C@@H]2c2ccc(F)cc2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1001Q,CCCCn1nc(C)c2c1NC(=O)[C@@H](NC(=O)c1cccc(C)c1)[C@H]2c1ccc(F)cc1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1001R,Cc1cccc(C(=O)N[C@@H]2C(=O)Nc3c(c(C)nn3CC(F)(F)F)[C@@H]2c2ccc(F)cc2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1001S,CCn1nc(C)c2c1NC(=O)[C@@H](NC(=O)c1cccc(C)c1)[C@H]2c1ccc(F)cc1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1001U,Cc1cccc(C(=O)N[C@@H]2C(=O)Nc3c(c(C)nn3CCC#N)[C@@H]2c2ccc(F)cc2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1001V,Cc1cccc(C(=O)N[C@@H]2C(=O)Nc3c(c(C)nn3CC(C)C)[C@@H]2c2ccc(F)cc2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1001W,Cc1cccc(C(=O)N[C@@H]2C(=O)Nc3c(c(C)nn3C(C)C)[C@@H]2c2ccc(F)cc2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1001X,Cc1cccc(C(=O)N[C@@H]2C(=O)Nc3c(c(C)nn3C(C)C3CC3)[C@@H]2c2ccc(F)cc2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1001Y,Cc1cccc(C(=O)N[C@@H]2C(=O)Nc3c(c(C)nn3C(C)C(F)(F)F)[C@@H]2c2ccc(F)cc2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1001Z,Cc1cccc(C(=O)N[C@@H]2C(=O)Nc3c(c(C)nn3C3CCCCC3)[C@@H]2c2ccc(F)cc2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J10020,Cc1cccc(C(=O)N[C@@H]2C(=O)N(C)c3c(c(C)nn3-c3ccccc3)[C@@H]2c2ccc(F)cc2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J10021,CCCN1C(=O)[C@@H](NC(=O)c2cccc(C)c2)[C@@H](c2ccc(F)cc2)c2c(C)nn(-c3ccccc3)c21,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J10022,Cc1cccc(C(=O)N[C@@H]2C(=O)N(CC(F)(F)F)c3c(c(C)nn3-c3ccccc3)[C@@H]2c2ccc(F)cc2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J10023,COCN1C(=O)[C@@H](NC(=O)c2cccc(C)c2)[C@@H](c2ccc(F)cc2)c2c(C)nn(-c3ccccc3)c21,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J10024,CCN1C(=O)[C@@H](NC(=O)c2cccc(C)c2)[C@@H](c2ccc(F)cc2)c2c(C)nn(-c3ccccc3F)c21,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J10025,CCN1C(=O)[C@@H](NC(=O)c2cccc(C)c2)[C@@H](c2ccc(F)cc2)c2c(C)nn(-c3ccc(F)cc3)c21,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J10026,CCCn1nc(C)c2c1N(C)C(=O)[C@@H](NC(=O)c1cccc(C)c1)[C@H]2c1ccc(F)cc1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J10027,CCCN1C(=O)[C@@H](NC(=O)c2cccc(C)c2)[C@@H](c2ccc(F)cc2)c2c(C)nn(CCC)c21,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J10028,CCN1C(=O)[C@@H](NC(=O)c2cccc(C)c2)[C@@H](c2ccc(F)cc2)c2c(C)nn(CC)c21,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J10029,CCN1C(=O)[C@@H](NC(=O)c2cccc(C)c2)[C@@H](c2ccc(F)cc2)c2c(C)nn(CC(F)(F)F)c21,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1002A,CCC(C)n1nc(C)c2c1N(C(C)=O)C(=O)[C@@H](NC(=O)c1cccc(C)c1)[C@H]2c1ccc(F)cc1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1002B,CCN1C(=O)[C@@H](NC(=O)c2cccc(C)c2)[C@@H](c2ccc(F)cc2)c2c(C)nn(C(C)C)c21,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1002C,CCN1C(=O)[C@@H](NC(=O)c2cccc(C)c2)[C@@H](c2ccc(F)cc2)c2c(C)nn(C(C)C(F)(F)F)c21,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1002D,CCN1C(=O)[C@@H](NC(=O)c2cccc(C)c2)[C@@H](c2ccc(F)cc2)c2c(C)nn(C3CCCCC3)c21,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1003I,COC1=Nc2c(c(C)nn2C(C)(C)C)[C@@H](c2ccc(F)cc2)[C@H]1NC(=O)c1cccc(C)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1003S,COCN1C(=O)[C@@H](NC(=O)c2cccc(C)c2)[C@@H](c2ccc(F)cc2)c2c1n[nH]c2C,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J1003V,Cc1cccc(C(=O)N[C@@H]2C(=O)N(C3CCC3)c3n[nH]c(C)c3[C@@H]2c2ccc(F)cc2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100H5,Cn1nnnc1Sc1cc(-c2ccccc2)nc2ncnn12,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100H8,C[NH+](C)CCn1nnnc1Sc1cc(-c2ccccc2)nc2ncnn12.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100H9,Cc1cc(Sc2nnnn2CC[NH+](C)C)n2nccc2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100HC,Cc1cc(Sc2nnnn2CC[NH+](C)C)n2ncnc2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100HD,CCc1cc(Sc2nnnn2CC[NH+](C)C)n2ncnc2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100HE,CC(C)c1cc(Sc2nnnn2CC[NH+](C)C)n2ncnc2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100HF,C[NH+](C)CCn1nnnc1Sc1cc(C2CC2)nc2ncnn12.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100HG,C[NH+](C)CCn1nnnc1Sc1c2c(nc3ncnn13)CCC2.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100HH,CCCSc1nc2nc(C)cc(Sc3nnnn3CC[NH+](C)C)n2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100HI,C=CCSc1nc2nc(C)cc(Sc3nnnn3CC[NH+](C)C)n2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100HJ,C#CCSc1nc2nc(C)cc(Sc3nnnn3CC[NH+](C)C)n2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100HK,Cc1cc(Sc2nnnn2CC[NH+](C)C)n2nc(SC(C)C)nc2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100HL,Cc1cc(Sc2nnnn2CC[NH+](C)C)n2nc(SCC3CC3)nc2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100HM,Cc1cc(Sc2nnnn2CC[NH+](C)C)n2nc(SCC3CCCCC3)nc2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100HN,Cc1cc(Sc2nnnn2CC[NH+](C)C)n2nc(SCc3cccc4ccccc34)nc2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100HO,Cc1cc(Sc2nnnn2CC[NH+](C)C)n2nc(SCc3ccccc3)nc2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100HP,Cc1cc(Sc2nnnn2CC[NH+](C)C)n2nc(SCCc3ccccc3)nc2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100HQ,Cc1cc(Sc2nnnn2CC[NH+](C)C)n2nc(SCCCc3ccccc3)nc2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100HR,Cc1cc(Sc2nnnn2CC[NH+](C)C)n2nc(SCc3csc4ccc(Cl)cc34)nc2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100HS,Cc1cc(Sc2nnnn2CC[NH+](C)C)n2nc(SCc3cc(=O)oc4c3ccc3ccccc34)nc2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100HT,C[NH+](C)CCn1nnnc1Sc1cc(-c2ccccc2)nc2nc(SCc3ccccc3)nn12.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100HU,CCc1cc(Sc2nnnn2CC[NH+](C)C)n2nc(SCc3ccccc3)nc2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100HV,C#CCSc1nc2nc(-c3ccccc3)cc(Sc3nnnn3CC[NH+](C)C)n2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100HW,Cc1cc(Sc2nnnn2CC[NH+](C)C)n2nc(SCc3ccc([N+](=O)[O-])cc3)nc2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100HX,Cc1cc(Sc2nnnn2CC[NH+](C)C)n2nc(SCc3ccccc3[N+](=O)[O-])nc2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100HY,Cc1cc(Sc2nnnn2CC[NH+](C)C)n2nc(SCc3ccc(F)cc3)nc2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100HZ,Cc1cc(Sc2nnnn2CC[NH+](C)C)n2nc(SCc3ccc(Cl)cc3)nc2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100I0,Cc1cc(Sc2nnnn2CC[NH+](C)C)n2nc(SCc3ccc(Br)cc3)nc2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100I1,Cc1cc(Sc2nnnn2CC[NH+](C)C)n2nc(SCc3ccccc3Br)nc2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100I2,Cc1cc(Sc2nnnn2CC[NH+](C)C)n2nc(SCc3cccc(Br)c3)nc2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100I3,Cc1ccc(CSc2nc3nc(C)cc(Sc4nnnn4CC[NH+](C)C)n3n2)cc1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100I4,Cc1cc(Sc2nnnn2CC[NH+](C)C)n2nc(SCc3ccc(C(F)(F)F)cc3)nc2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100I5,Cc1cc(Sc2nnnn2CC[NH+](C)C)n2nc(SCc3ccccc3C(F)(F)F)nc2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100I6,Cc1cc(Sc2nnnn2CC[NH+](C)C)n2nc(SCc3cccc(C(F)(F)F)c3)nc2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100I7,COc1ccc(CSc2nc3nc(C)cc(Sc4nnnn4CC[NH+](C)C)n3n2)cc1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100I8,Cc1cc(Sc2nnnn2CC[NH+](C)C)n2nc(SCc3ccc(Cl)c(F)c3)nc2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100I9,Cc1cc(Sc2nnnn2CC[NH+](C)C)n2nc(SCc3ccc(F)c(Cl)c3)nc2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100IA,Cc1cc(Sc2nnnn2CC[NH+](C)C)n2nc(SCc3c(Cl)cccc3Cl)nc2n1.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J100IB,Cc1nc2nc(SCc3ccc(Cl)cc3)nn2c(Sc2nnnn2CC[NH+](C)C)c1C.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,1
+J0003Q,CN(C)C(=O)Oc1ccc(C[C@H](Nc2ncncc2-c2ccncc2)C(=O)O)cc1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J0008H,Nc1ccc(S(=O)(=O)c2cnc(-c3ccc(S(N)(=O)=O)cc3Cl)s2)cn1,DCN1/UBC12,DCN1/UBE2M,DCN1/UBC12,DCN1,UBC12,,,,Q96GG9,P61081,,,,7.0,0
+J0004G,CCn1c(=O)/c(=C2\Sc3cc(Cl)ccc3N2C)s/c1=C\c1scc[n+]1Cc1c(Cl)cccc1Cl.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J0004B,Cc1ccccc1NC(=O)Nc1ccc(CC(=O)N[C@@H](CC(C)C)C(=O)N2CCC(CC(=O)O)CC2)cc1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J0004E,O=C(Cc1ccc(Cl)c(Cl)c1)NCc1cc(-c2cn3c(n2)CCC3)ccc1N1CCOCC1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J0001L,NC(=O)Cc1ccc(Cl)c(F)c1-n1c(C2CCCCC2)nc(C(N)=O)c1-c1ccc(F)c(Cl)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J00037,Cc1ccc(-c2c(C)noc2C)cc1S(=O)(=O)NC1CC1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J00095,CN(C)CCNC(=O)Cc1ccc(Cl)c(F)c1-n1c(C2CCCCC2)nc(-c2nnc(N)o2)c1-c1ccc(F)c(Cl)c1,DCN1/UBC12,DCN1/UBE2M,DCN1/UBC12,DCN1,UBC12,,,,Q96GG9,P61081,,,,7.0,0
+J0001S,CCOc1nc(C)ncc1C1=N[C@@H](c2ccc(Cl)cc2)[C@@H](c2ccc(Cl)cc2)N1C(=O)N1CCN(CC(=O)N(C)C)CC1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J00055,CC1=C(C)C(OCC2(CO)CC2)(c2ccc(Cl)cc2)N(Cc2ccccc2)C1=O,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J0000T,N[C@@H](Cc1ccc(O)cc1)C(=O)N[C@H]1CSSC[C@@H](C(=O)O)NC(=O)c2ccc(cc2)NC1=O,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J00031,O=C(O)CCCCC(=O)N1CCC2(CC1)CCN(c1ccncc1)CC2,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J0004L,CCN(CC)c1ncc(N(CC)C(C)=O)c(N[C@@H](Cc2ccc(OC(=O)N3CCCC3)cc2)C(=O)O)n1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J0002A,CN(Cc1nc2ccccc2o1)C(=O)c1ccc2c(c1)CN(C)C(=O)[C@H](CC(=O)O)N2,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J0004M,C#Cc1ccc(C2Oc3ccccc3C3=C2C(c2ccc(Br)cc2)n2ncnc2N3C)cc1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J0004A,CC(=O)N1CC[C@H](c2ccc(O)cc2)[C@@H]1C(=O)N[C@H]1CSSC[C@@H](C(=O)O)NC(=O)[C@@H]2CCCN2C(=O)[C@H](CO)NC1=O,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J0002D,Cc1cccc(Cl)c1S(=O)(=O)N[C@@H](CNC(=O)C1=NOC(CCCCNc2ncc[nH]2)C1)C(=O)O,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J0002N,CC(CNC(=O)C1CCC2(CC1)CCN(c1ccncc1)CC2)CC(=O)O,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J0002G,CN1C2=C([C@H](c3ccc(Br)cc3)n3ncnc31)[C@@H](c1ccc(Br)cc1)Oc1cccc(F)c12,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J0002V,Cc1ccnc(NCCCCC(=O)NNC(=O)CC(CC(=O)O)c2ccc(-c3ccccc3)cc2)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J00020,CN[C@@H](C)C(=O)N[C@H](C(=O)N1CC[C@@H]2[C@H]1[C@@H](c1c[nH]c3ccc(F)cc13)CN2C(C)=O)[C@@H](C)O,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J0003M,O=C(NC[C@H](NS(=O)(=O)c1ccccc1)C(=O)O)c1ccc(OCCNC2=NCCCN2)cc1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J0003I,COC(=O)c1cc(Cl)cc(S(=O)(=O)N(Cc2ccc(F)cc2)Cc2cccc(-c3ccc(Cl)cc3)c2)c1O,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J0003B,C#Cc1ccc([C@@H]2N=C(c3ccc(C(C)(C)C)cc3OCC)N(C(=O)N3CCN(CCS(C)(=O)=O)CC3)[C@@H]2c2ccc(C#C)cc2)cc1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J00028,c1ccc(-c2cn3c(n2)CCC3)cc1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J0003C,O=C(O)CC(CC(=O)NNC(=O)CCCCNc1ccccn1)c1ccc(Br)cc1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J0001B,CNc1cccc(CN(C)C(=O)c2ccc3c(c2)CN(C)C(=O)[C@H](CC(=O)O)N3)n1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J0003R,Cc1cc(-c2ccccc2)cc(C)c1S(=O)(=O)N[C@@H](CNC(=O)C1=NOC(CCCCNc2ncc[nH]2)C1)C(=O)O,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J0001U,COc1cc2c(c(OC)c1)C1C3CCCC(C(=O)N1CC2)N3C(=O)C(=O)c1ccc(Cl)cc1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+P0002J,CC(C)S(=O)(=O)c1ccc(N2CC(CN3CCC(C4(C5CCCC5)NCCc5ccccc54)CC3)C2)cc1,DCN1/UBC12,DCN1/UBE2M,DCN1/UBC12,DCN1,UBC12,,,,Q96GG9,P61081,,,,7.0,0
+J00099,COc1ccc(Cl)cc1-c1c(-c2nn[nH]n2)nc(-c2ccc(C)c(C)c2)n1-c1cc(Cl)ccc1C,DCN1/UBC12,DCN1/UBE2M,DCN1/UBC12,DCN1,UBC12,,,,Q96GG9,P61081,,,,7.0,0
+J00039,CC1(C)CN(C(=O)Cc2ccc(Cl)c(F)c2-n2c(C3CCCCC3)nc(-c3nnc(N)o3)c2-c2ccc(F)c(Cl)c2)C1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J10000,CN1C2=C([C@H](c3ccc(Br)cc3)n3ncnc31)[C@@H](c1ccc(Br)cc1)Oc1cc(Cl)ccc12,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J1000L,N#CCN1C2=C(C(c3ccc(Br)cc3)Oc3ccccc32)C(c2ccc(Br)cc2)n2ncnc21,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J1000O,O=C(O)CCN1CCN(C(=O)N2CCC3(CC2)CCN(c2ccncc2)C3)CC1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J1000Q,CN1Cc2cc(NS(=O)(=O)c3ccccc3F)ccc2NC1=O,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J1000T,Cc1ccc2c(NCc3ccc(NC(=O)c4ccc(F)cc4)cc3)nc(N3CCNCC3)nc2c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J1000Y,CCCCOC(=O)N1C[C@@]2(CC(C(=O)NC[C@H](NS(=O)(=O)c3c(C)cc(C)cc3C)C(=O)O)=NO2)C[C@H]1CNc1ncc[nH]1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J1001D,O=C(O)CCNC(=O)C1CCCN(C(=O)CCC2CCNCC2)C1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J1001E,O=C1c2ccccc2C(OCCCO)(c2ccc(Cl)cc2)N1Cc1ccc([N+](=O)[O-])cc1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J1001I,O=C(N[C@@H](CNC(=O)c1ccc2c(cnn2CCCNC2=NCCN2)c1)C(=O)O)OCc1ccccc1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J1001X,CCN(CC)c1ncc(N(CC)C(=O)N2CCCCC2)c(N[C@@H](Cc2ccc(OC(=O)N3CCCC3)cc2)C(=O)O)n1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J10028,O=C(c1ccc(CN(Cc2ccc(F)cc2)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)cc1)N1CCN(c2cnccn2)CC1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J1003I,Cc1c(CN2CCC(Nc3ncnc4sc(CC(F)(F)F)cc34)CC2)ccc2c1cc(C#N)n2CC(N)=O,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J100HG,CCCc1cn(C[C@H](NC(=O)OCc2ccccc2)C(=O)O)c(=O)nc1N1CCC(CNc2nc3ccccc3[nH]2)CC1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J100HN,Cc1ccc(-c2c(C)noc2C)cc1S(=O)(=O)NCc1ccccc1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J100HT,CCn1c(=O)/c(=C2\Sc3cc(Cl)ccc3N2C)s/c1=C\c1scc[n+]1Cc1ccccc1F.[Cl-],DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J100HY,O=C(O)C[C@@H]1Nc2ccc(C(=O)NCc3nc4ccccc4[nH]3)cc2CN(CCc2ccc3c(c2)OCO3)C1=O,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J100HZ,Cc1cc(/C=C/C(=O)O)cc(C)c1NC(=O)c1cccc(NC(=N)N)c1,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J100I5,COc1cc2c(c(OC)c1)C1C3CCCC(C(=O)N1CC2)N3C(=O)C(=O)c1cc(Cl)ccc1Cl,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+J100IB,Cc1c(CN2CCC(Nc3ncnc4sc(CC(F)(F)F)cc34)CC2)c(O)cc2[nH]c(C#N)cc12,DCN1/UBE2M,DCN1/UBE2M,DCN1/UBE2M,DCN1,UBE2M,,,,Q96GG9,P61081,,,,7.0,0
+C004US,COc1cccc2c1C1=C(C(c3ccc(Br)cc3)O2)C(c2ccc(Br)cc2)n2ncnc2N1C,Peroxisome proliferator-activated receptor gamma/Nuclear receptor corepressor 2,Peroxisome proliferator-activated receptor gamma/Nuclear receptor corepressor 2,Peroxisome proliferator-activated receptor gamma/Nuclear receptor corepressor 2,Peroxisome proliferator-activated receptor gamma,Nuclear receptor corepressor 2,,,,P37231,Q9Y618,,,,71.0,0
+C004UV,C[NH+](C)CCn1nnnc1Sc1cc(C2CC2)nc2ncnn12.[Cl-],Peroxisome proliferator-activated receptor gamma/Nuclear receptor corepressor 2,Peroxisome proliferator-activated receptor gamma/Nuclear receptor corepressor 2,Peroxisome proliferator-activated receptor gamma/Nuclear receptor corepressor 2,Peroxisome proliferator-activated receptor gamma,Nuclear receptor corepressor 2,,,,P37231,Q9Y618,,,,71.0,0
+C004V1,COc1cc2c(c(OC)c1)C1C3CCCC(C(=O)N1CC2)N3C(=O)Cc1ccc(Cl)cc1,Peroxisome proliferator-activated receptor gamma/Nuclear receptor corepressor 2,Peroxisome proliferator-activated receptor gamma/Nuclear receptor corepressor 2,Peroxisome proliferator-activated receptor gamma/Nuclear receptor corepressor 2,Peroxisome proliferator-activated receptor gamma,Nuclear receptor corepressor 2,,,,P37231,Q9Y618,,,,71.0,0
+J100E0,COc1cccc2c1C1=C(C(c3ccc(Br)cc3)O2)C(c2ccc(Br)cc2)n2ncnc2N1C,RANKL/RANK,RANKL/RANK,RANKL/RANK,RANKL,RANK,,,,O35235,O35305,,,,93.0,0
+J100EB,COc1ccc(C2=N[C@H](c3ccc(Cl)cc3)[C@H](c3ccc(Cl)cc3)N2C(=O)NCC(=O)N2CCN(C(C)=O)CC2)c(OC(C)C)c1,RANKL/RANK,RANKL/RANK,RANKL/RANK,RANKL,RANK,,,,O35235,O35305,,,,93.0,0
+P000E3,CCN(CC)c1ncc(N(CC)C(=O)NCc2ccccc2)c(N[C@@H](Cc2ccc(OC(=O)N3CCCC3)cc2)C(=O)O)n1,KRAS/SOS1,KRAS/SOS1,KRAS/SOS1,KRAS,SOS1,,,,P01116,Q07889,,,,12.0,0
+P00053,O=S(=O)(c1cc(Cl)cc(Cl)c1O)N(Cc1ccc(Cl)cc1)Cc1cccc(-c2ccc(Cl)cc2)n1,KRAS/SOS1,KRAS/SOS1,KRAS/SOS1,KRAS,SOS1,,,,P01116,Q07889,,,,12.0,0
+P0006B,O=C(C[C@@H]1NC(=O)N(CC(=O)NCC(NC(=O)OCc2ccccc2)C(=O)O)C1=O)NCc1nc2ccccc2[nH]1,KRAS/SOS1,KRAS/SOS1,KRAS/SOS1,KRAS,SOS1,,,,P01116,Q07889,,,,12.0,0
+P0009V,CCn1c(=O)/c(=C2\Sc3cc(Cl)ccc3N2C)s/c1=C\c1scc[n+]1Cc1ccccc1Br.[Cl-],KRAS/SOS1,KRAS/SOS1,KRAS/SOS1,KRAS,SOS1,,,,P01116,Q07889,,,,12.0,0
+P0007J,N=C(N)c1ccc(C(=O)Nc2ccc3c(c2)CN(CCC(=O)O)C(=O)CN3)cc1,KRAS/SOS1,KRAS/SOS1,KRAS/SOS1,KRAS,SOS1,,,,P01116,Q07889,,,,12.0,0
+P0006L,CN[C@@H](C)C(=O)N[C@H](C(=O)N1CC[C@H]2CC[C@H](NC(=O)c3c(OC)ccc4ccccc34)[C@H]21)C(C)(C)C,KRAS/SOS1,KRAS/SOS1,KRAS/SOS1,KRAS,SOS1,,,,P01116,Q07889,,,,12.0,0
+P0008S,Cc1cc(C)c(S(=O)(=O)N[C@@H](CNC(=O)C2=NOC(CCNC(=O)Nc3ncc[nH]3)C2)C(=O)O)c(C)c1,KRAS/SOS1,KRAS/SOS1,KRAS/SOS1,KRAS,SOS1,,,,P01116,Q07889,,,,12.0,0
+P000JX,CC(C)CN(Cc1ccc(CN(CC(C)C)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)cc1)S(=O)(=O)c1cc(Cl)cc(Cl)c1O,KRAS/SOS1,KRAS/SOS1,KRAS/SOS1,KRAS,SOS1,,,,P01116,Q07889,,,,12.0,0
+P0007A,O=C(O)C[C@@H](Cc1ccccc1)NC(=O)[C@@H]1CCCN(C(=O)CCC2CCNCC2)C1,KRAS/SOS1,KRAS/SOS1,KRAS/SOS1,KRAS,SOS1,,,,P01116,Q07889,,,,12.0,0
+J000D8,COc1cccc2c1C1=C(C(c3ccc(Br)cc3)O2)C(c2ccc(Br)cc2)n2ncnc2N1C,NCS-1/Ric8a,NCS-1/Ric8a,NCS-1/Ric8a,NCS-1,Ric8a,,,,P62166,Q9NPQ8,,,,60.0,0
+C005EU,COc1cccc2c1C1=C(C(c3ccc(Br)cc3)O2)C(c2ccc(Br)cc2)n2ncnc2N1C,Adenomatous polyposis coli protein/Transcription factor 7-like 2,Adenomatous polyposis coli protein/Transcription factor 7-like 2,Adenomatous polyposis coli protein/Transcription factor 7-like 2,Adenomatous polyposis coli protein,Transcription factor 7-like 2,,,,P25054,Q9NQB0,,,,83.0,0
+T005J1,COc1cccc2c1C1=C(C(c3ccc(Br)cc3)O2)C(c2ccc(Br)cc2)n2ncnc2N1C,CRM1/Rev,CRM1/Rev,CRM1/Rev,CRM1,Rev,,,,O14980,P04618,,,,30.0,0
+T005L2,C[NH+](C)CCn1nnnc1Sc1cc(C2CC2)nc2ncnn12.[Cl-],CRM1/Rev,CRM1/Rev,CRM1/Rev,CRM1,Rev,,,,O14980,P04618,,,,30.0,0
+P0004L,CN1CCc2cc(-c3cn4c(n3)CCC4)ccc21,WDR5/MLL1,WDR5/MLL1,WDR5/MLL1,WDR5,MLL1,,,,P61964,Q03164,,,,20.0,1
+P000CL,c1ccc(-c2cn3c(n2)CCC3)cc1,WDR5/MLL1,WDR5/MLL1,WDR5/MLL1,WDR5,MLL1,,,,P61964,Q03164,,,,20.0,1
+P000GX,COc1cccc(C(=O)N(Cc2cccc(-c3cn4c(n3)CCC4)c2)CC2CC2)c1,WDR5/MLL1,WDR5/MLL1,WDR5/MLL1,WDR5,MLL1,,,,P61964,Q03164,,,,20.0,1
+P000LQ,COc1cccc2c1C1=C(C(c3ccc(Br)cc3)O2)C(c2ccc(Br)cc2)n2ncnc2N1C,WDR5/MLL1,WDR5/MLL1,WDR5/MLL1,WDR5,MLL1,,,,P61964,Q03164,,,,20.0,0
+P000F9,CCC(NC(=O)c1ccc(C(=N)N)cc1)C(C)(C)C(=O)N1CCC(CC(=O)O)CC1,WDR5/MLL1,WDR5/MLL1,WDR5/MLL1,WDR5,MLL1,,,,P61964,Q03164,,,,20.0,0
+P000ED,N#Cc1ccc(OCCCN2CCC(C(N)(c3ccccc3)C3CCCC3)CC2)cc1,WDR5/MLL1,WDR5/MLL1,WDR5/MLL1,WDR5,MLL1,,,,P61964,Q03164,,,,20.0,0
+P000FX,CCN1C(=O)[C@@H](NC(=O)c2cccc(C)c2)[C@@H](c2ccc(F)cc2)c2c(C)nn(-c3ccccc3F)c21,WDR5/MLL1,WDR5/MLL1,WDR5/MLL1,WDR5,MLL1,,,,P61964,Q03164,,,,20.0,0
+P0007K,Cc1nn(-c2ccccc2)c2c1[C@H](c1ccc(F)cc1)[C@H](NC(=O)c1ccc3ccccc3c1)C(=O)N2,WDR5/MLL1,WDR5/MLL1,WDR5/MLL1,WDR5,MLL1,,,,P61964,Q03164,,,,20.0,0
+P000L7,CCCN1C(=O)[C@@H](NC(=O)c2cccc(C)c2)[C@@H](c2ccc(F)cc2)c2c(C)nn(CCC)c21,WDR5/MLL1,WDR5/MLL1,WDR5/MLL1,WDR5,MLL1,,,,P61964,Q03164,,,,20.0,0
+T004H0,Cc1cccc(NCCNC(=O)c2ccc3c(c2)CN(C)C(=O)[C@H](CC(=O)O)N3)n1,HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T006EB,Cc1cccc(C(=O)N[C@@H]2C(=O)Nc3c(c(C)nn3-c3ccccc3)[C@@H]2C2CCCCC2)c1,HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T0041H,N=C(N)c1ccc(C(=O)Nc2ccc3c(c2)CCC(CC(=O)O)C3=O)c(F)c1,HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T000H5,Cc1cccc(-c2nc(C(=O)O)c(-c3cc(Cl)ccc3O)n2-c2cc(Cl)ccc2C)c1,HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T000HY,COc1cccc(C(=O)NCc2cc(-c3cn4c(n3)CCC4)ccc2OC(C)C)c1,HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T000MP,N#Cc1ccc(OCCCN2CCC([C@@](O)(c3ccccc3)C3CC3)CC2)cc1,HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T0013T,COc1cc2c(c(OC)c1)C1C3CCCC(C(=O)N1CC2)N3S(=O)(=O)c1cccc(Br)c1,HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T0014I,Cn1cc(C(=O)Nc2cc(F)c(CC(=O)N3C[C@@H](F)C[C@H]3CO[C@H]3CC[C@H](C(=O)O)CC3)cc2Cl)c2ccccc21,HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T001EG,O=C(Nc1ccc(CC(NS(=O)(=O)c2ccccc2)C(=O)O)cc1)c1cccc(NC2=NCCN2)c1,HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T001I0,N#Cc1ccc(OCCCN2CCC(C(O)(c3cccc(F)c3)c3ccccn3)CC2)cc1,HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T001ND,Cc1cn(C[C@@H](CC(=O)O)NC(=O)OCc2ccccc2)c(=O)nc1NCCCCCNc1nc2ccccc2[nH]1,HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T001P6,O=C1c2ccccc2C(OCCCO)(c2ccc(Br)cc2)N1Cc1ccc([N+](=O)[O-])cc1,HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T0023P,O=C1c2cc(F)ccc2C(OCC2(CO)CC2)(c2ccc(Cl)cc2)N1Cc1ccc([N+](=O)[O-])cc1,HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T0029N,FC(F)(F)Cc1cc2c(NC3CCN(CC4CC4)CC3)ncnc2s1,HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T002F3,O=C(N[C@@H](CNC(=O)[C@@H]1CCCN(C(=O)CCC2CCNCC2)C1)C(=O)O)OCc1ccccc1,HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T002M2,N#Cc1cc2cc(CN3CCC(Nc4ncnc5sc(CC(F)(F)F)cc45)CC3)ccc2n1CC(O)CO,HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T003LT,O=C(C1=C(Nc2ccc(F)cc2)C(=O)N(CCCn2ccnc2)C1c1ccc(Br)cc1)c1ccccc1,HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T004LF,O=C(NC[C@@H](NS(=O)(=O)c1ccccc1)C(=O)O)c1ccc(OCCC2CCNCC2)cc1,HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T005M6,CCn1c(=O)/c(=C2\Sc3cc(Cl)ccc3N2C)s/c1=C\c1scc[n+]1Cc1ccccc1C.[Cl-],HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T007XO,Cc1ccccc1NC(=O)Nc1ccc(CC(=O)N[C@@H](CC(C)C)C(=O)N2CCCC(CC(=O)O)C2)cc1,HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T0064J,O=C(O)CC1c2ccccc2C(=O)N(CC(=O)NCc2nc3ccccc3[nH]2)c2ccccc21,HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T006O6,O=C(O)[C@H](CCC(=O)N1CCC2(CC1)CCN(c1ccncc1)C2)NS(=O)(=O)c1cnoc1,HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T005IT,Cc1cccc(C(=O)N[C@@H]2C(=O)Nc3c(c(C)nn3-c3ccccc3)[C@@H]2c2ccc(Cl)cc2)c1,HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T0056O,Cc1cc(C)c(S(=O)(=O)N[C@@H](CNC(=O)C2=NOC(CCNc3ncc[nH]3)C2)C(=O)O)c(C)c1,HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T003KN,CC[C@H](NC(=O)[C@H](C)NC)C(=O)N1CC[C@@H]2[C@H]1[C@@H](c1c[nH]c3cc(F)ccc13)CN2S(C)(=O)=O,HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T0041A,CCn1c(=O)/c(=C2\Sc3cc(Cl)ccc3N2C)s/c1=C\c1scc[n+]1Cc1ccnc(Cl)c1.[Cl-],HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T003GW,CC(C)c1cc(Sc2nnnn2CC[NH+](C)C)n2ncnc2n1.[Cl-],HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T003QE,C[C@@H]1NC(=O)[C@@H](NC(=O)[C@@H](N)Cc2ccc(O)cc2)CSSC[C@@H](C(=O)O)NC(=O)[C@H](CC2CCCCC2)NC1=O,HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T007LB,COc1ccnc(NCCCOc2ccc(C[C@@H](CC(=O)O)NS(=O)(=O)c3ccc(C)cc3)cc2)c1,HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+T006V4,O=C1c2ccccc2C(O[C@H]2C=C[C@@H](O)C2)(c2ccc(Cl)cc2)N1Cc1ccccc1,HIF-1a/p300,HIF-1a/p300,HIF-1a/p300,HIF-1a,p300,,,,Q16665,Q09472,,,,23.0,0
+P000KY,Cc1cc(/N=N/c2ccc(S(=O)(=O)Nc3ccccn3)cc2)c(N)cc1O,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE,LEDGF,,,,P12497,O75475,,,,27.0,0
+P000BU,O=S(=O)(c1cc(Cl)cc(Cl)c1O)N(Cc1ccc(Cl)cc1)Cc1cccc(-c2ccc(Cl)cc2)n1,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE,LEDGF,,,,P12497,O75475,,,,27.0,0
+P00096,O=C1c2ccccc2C(OCC2(CO)CC2)(c2ccc(Cl)cc2)N1Cc1ccc([N+](=O)[O-])cc1,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE,LEDGF,,,,P12497,O75475,,,,27.0,0
+P000JH,O=C(O)Cc1cc(=O)n(CC(=O)NCC2CCC(Nc3nc4ccccc4[nH]3)CC2)c2ccccc12,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE,LEDGF,,,,P12497,O75475,,,,27.0,0
+P00055,Cc1cn(C[C@@H](CC(=O)O)NC(=O)OCc2ccccc2)c(=O)nc1NCc1ccc(NC(=O)NCc2ccccc2)cc1,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE,LEDGF,,,,P12497,O75475,,,,27.0,0
+P0002R,CCCn1nc(C)c2c1N(C)C(=O)[C@@H](NC(=O)c1cccc(C)c1)[C@H]2c1ccc(F)cc1,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE,LEDGF,,,,P12497,O75475,,,,27.0,0
+P00059,O=C(NC[C@H](NS(=O)(=O)c1cccc2ccccc12)C(=O)O)C1=NOC(CCCCNc2ncc[nH]2)C1,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE,LEDGF,,,,P12497,O75475,,,,27.0,0
+P000B8,CNc1nc(NCc2ccc(NC(=O)c3ccc(F)cc3)cc2)c2cc(C)ccc2n1,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE,LEDGF,,,,P12497,O75475,,,,27.0,0
+P000AZ,O=C(O)C[C@H](NC(=O)[C@@H]1CCN(C(=O)/C=C/C2CCNCC2)C1)c1cccnc1,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE,LEDGF,,,,P12497,O75475,,,,27.0,0
+P000FM,Cc1ccc2c(c1)C(OCC1(CO)CC1)(c1ccc(Cl)cc1)N(Cc1ccc([N+](=O)[O-])cc1)C2=O,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE,LEDGF,,,,P12497,O75475,,,,27.0,0
+P0001G,Cc1ccc(-c2nc(C(N)=O)c(-c3cccc(Cl)c3)n2-c2cc(Cl)ccc2C)cc1C,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE,LEDGF,,,,P12497,O75475,,,,27.0,0
+P00083,Cc1noc(C)c1-c1ccc(OCCCN2CCOCC2)c(S(=O)(=O)NC2CCCC2)c1,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE,LEDGF,,,,P12497,O75475,,,,27.0,0
+P0002V,Cc1ccccc1-c1cnc(N(C)CC(C)C)nc1N[C@@H](Cc1ccc(OC(=O)N(C)C)cc1)C(=O)O,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE,LEDGF,,,,P12497,O75475,,,,27.0,0
+P0005H,CC(O)(c1ccc(-c2ccc(S(=O)(=O)c3ccc(N)nc3)cn2)nc1)C(F)(F)F,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE,LEDGF,,,,P12497,O75475,,,,27.0,0
+P000JN,Cc1ccccc1NC(=O)Nc1ccc(CC(=O)N[C@@H](CCCCNC(=O)CCCCCN)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@H](C(=O)N2CCC[C@H]2C(=O)O)C(C)C)cc1,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE,LEDGF,,,,P12497,O75475,,,,27.0,0
+P000A9,CN1C2=C([C@H](c3ccc(Br)cc3)n3ncnc31)[C@@H](c1ccc(Br)cc1)Oc1ccc(F)cc12,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE,LEDGF,,,,P12497,O75475,,,,27.0,0
+P0003I,Nc1sc(-c2ccc(Cl)cc2)c(-c2ccc(Cl)cc2)c1C(=S)NC1CCCC1,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE,LEDGF,,,,P12497,O75475,,,,27.0,0
+P000FO,O=C(Nc1cc(F)c(CC(=O)N2C[C@@H](F)C[C@H]2CO[C@H]2CC[C@H](C(=O)O)CC2)cc1Cl)c1nccc2ccccc12,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE,LEDGF,,,,P12497,O75475,,,,27.0,0
+P000JK,CC(=O)N1CC[C@@H](c2ccc(O)cc2)[C@@H]1C(=O)N[C@H]1CSSC[C@@H](C(=O)O)NC(=O)[C@@H]2CCCN2C(=O)[C@H](CO)NC1=O,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE,LEDGF,,,,P12497,O75475,,,,27.0,0
+P0007R,O=C(O)CC1Nc2cc(/C=C\CCC3CCNCC3)ccc2CN(CCc2ccccc2)C1=O,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE/LEDGF,INTEGRASE,LEDGF,,,,P12497,O75475,,,,27.0,0
+I0017T,O=S(=O)(c1cc(Cl)cc(Cl)c1O)N(Cc1ccc(F)cc1)Cc1ccc(CN(Cc2ccc(F)cc2)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I0010B,CC(C)CN(Cc1cc(Cl)cc(CN(CC(C)C)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)c1)C(=O)c1ccc(SC(F)(F)F)cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000SG,O=C(c1ccc(CN(Cc2ccc(F)cc2)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)cc1)N1CCN(c2cnccn2)CC1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000LP,O=C(NC[C@@H](O)CO)c1cc(Cl)c(O)c(S(=O)(=O)N(Cc2ccc(F)cc2)Cc2cccc(-c3ccc(Cl)cc3)c2)c1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000W5,O=S(=O)(NCc1ccc(CN(Cc2ccc(F)cc2)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)cc1)c1cc(Cl)cc(Cl)c1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I001IU,CC(C)CCNC(=O)c1ccc(CN(Cc2ccc(F)cc2)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I0007P,CC(C)CN(Cc1cc(Cl)cc(CN(CC(C)C)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)c1)C(=O)c1cccc(S(=O)(=O)C(F)(F)F)c1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000PQ,CN(C)c1ccc(CNC(=O)c2ccc(CN(Cc3ccc(F)cc3)S(=O)(=O)c3cc(Cl)cc(Cl)c3O)cc2)cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000ZO,CN(CCc1ccccc1)C(=O)c1ccc(CN(Cc2ccc(F)cc2)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000U0,N#Cc1ccc(S(=O)(=O)NCc2cccc(CN(Cc3ccc(-c4ccccc4)cc3)S(=O)(=O)c3cc(Cl)cc(Cl)c3O)c2)cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000ZM,COc1c(Cl)cc(CN(CCn2ccc3ccccc32)S(=O)(=O)c2cc(C(=O)NCc3ccccc3)cc(Cl)c2O)cc1-c1ccc(Cl)cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000D3,CC(C)CN(Cc1cc(Cl)cc(CN(CC(C)C)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)c1)C(=O)c1cccc(SC(F)(F)F)c1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000U3,O=S(=O)(c1cc(Cl)cc(Cl)c1O)N(Cc1ccc(F)cc1)Cc1cccc(-c2ccc(Cl)cc2)c1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I0017O,O=S(=O)(NCc1cccc(CN(Cc2ccccc2SC(F)(F)F)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)c1)c1cc(Cl)cc(Cl)c1O,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I001FI,O=C(NCc1ccccc1)c1cc(Cl)c(O)c(S(=O)(=O)N(Cc2ccc(F)cc2)Cc2ccc(Oc3ccc(C(F)(F)F)cc3)cc2)c1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I001IJ,O=C(N[C@H]1C[C@@H]1c1ccccc1)c1ccc(CN(Cc2ccc(F)cc2)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000MZ,O=C(c1ccc(CN(Cc2ccc(F)cc2)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)cc1)N(Cc1ccc(F)cc1)Cc1cc(Cl)cc(Cl)c1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000TH,O=C(c1ccc(CN(Cc2ccc(F)cc2)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)cc1)N1CCCCC1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I001CS,CS(=O)(=O)c1cccc(CN(Cc2cc(CNC(=O)c3cccc(Oc4ccccc4)c3)cc(Oc3ccc(F)cc3)c2)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)c1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I0017D,O=C(c1cccc(CN(Cc2ccc(F)cc2)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)c1)N(Cc1ccc(F)cc1)Cc1cc(Cl)cc(Cl)c1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000JU,Cc1ccc(S(=O)(=O)N(Cc2cc(CN(Cc3ccc(F)cc3)S(=O)(=O)c3cc(Cl)cc(Cl)c3O)cc(Oc3ccc(F)cc3)c2)CC(C)C)cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I0013K,O=C(NCc1cccc(CN(Cc2ccc(-c3ccccc3)cc2)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)c1)c1ccc(CNC(CO)CO)cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000NQ,O=S(=O)(c1cc(Cl)cc(Cl)c1)N(Cc1ccc(F)cc1)Cc1cccc(CN(Cc2ccc(F)cc2)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)n1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000FK,CCCCNC(=O)c1ccc(CN(Cc2ccc(F)cc2)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000Z4,CCCCCCCc1ccc(CN(Cc2cccc(Oc3ccc(F)cc3)c2)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I00029,O=C(O)c1ccc(S(=O)(=O)NCc2cccc(CN(Cc3ccc(-c4ccccc4)cc3)S(=O)(=O)c3cc(Cl)cc(Cl)c3O)c2)cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000AM,COC(=O)c1cc(Cl)cc(S(=O)(=O)N(Cc2ccc(F)cc2)Cc2cccc(-c3ccc(Cl)cc3)c2)c1O,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000CZ,CCCCc1ccc(-c2cccc(CN(Cc3ccc(F)cc3)S(=O)(=O)c3cc(Cl)cc(Cl)c3O)c2)cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I001D9,CC(C)N(Cc1ccccc1)C(=O)c1ccc(CN(Cc2ccc(F)cc2)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I00009,CC(C)CN(Cc1cccc(CN(Cc2ccc(-c3ccc(F)cc3)cc2)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)c1)C(=O)c1nc2ccccc2s1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000JM,O=S(=O)(c1cc(Cl)cc(Cl)c1O)N(Cc1ccc(Cl)cc1)Cc1cccc(-c2ccc(Cl)cc2)n1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000UH,O=S(=O)(c1cc(Cl)cc(Cl)c1)N(Cc1ccc(F)cc1)Cc1cccc(CN(Cc2ccc(F)cc2)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)[n+]1[O-],BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000A8,Cc1cccc(CN(Cc2ccc(F)cc2)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)c1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I001HZ,CC(C)CN(Cc1cccc(CN(Cc2ccc(-c3ccc(F)cc3)cc2)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)c1)C(=O)c1ccc2[nH]c(=O)c(=O)[nH]c2c1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000NA,COc1c(CN(Cc2ccc(F)cc2)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)cccc1-c1ccc(Cl)cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000PE,Cc1ccc(S(=O)(=O)N(Cc2ccc(F)cc2)Cc2cc(CNS(=O)(=O)c3cc(Cl)cc(Cl)c3O)cc(-c3ccc(F)cc3)c2)cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I001GC,O=S(=O)(c1cc(Cl)cc(Cl)c1)N(CCO)Cc1ccc(CN(Cc2ccc(F)cc2)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I001D7,O=C(NCCCO)c1cc(Cl)c(O)c(S(=O)(=O)N(Cc2ccc(F)cc2)Cc2cccc(-c3ccc(Cl)cc3)c2)c1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000ES,CC(C)CN(Cc1ccc(CN(CC(C)C)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)cc1)S(=O)(=O)c1cc(Cl)cc(Cl)c1O,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000NF,O=S(=O)(c1cccc(CN(Cc2ccc(F)cc2)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)c1)N(Cc1ccc(F)cc1)Cc1cc(Cl)cc(Cl)c1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000H5,O=C(NCc1cccc(CN(Cc2ccc(F)cc2)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)c1)c1cc(O)nc(O)c1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000QS,NS(=O)(=O)c1ccc(CNC(=O)c2ccc(CN(Cc3ccc(F)cc3)S(=O)(=O)c3cc(Cl)cc(Cl)c3O)cc2)cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I00171,CC(C)CN(Cc1cc(Cl)cc(CN(CC(C)C)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)c1)S(=O)(=O)c1cccnc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000PJ,CN(C)CCOc1ccc(CN(Cc2cccc(CNS(=O)(=O)c3cc(Cl)cc(Cl)c3O)c2)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000IX,CS(=O)(=O)c1ccc(CN(Cc2cccc(CNS(=O)(=O)c3cc(Cl)cc(Cl)c3O)c2)S(=O)(=O)c2cc(Cl)cc(Cl)c2O)cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+I000F3,CC(C)NC(=O)c1cc(Cl)c(O)c(S(=O)(=O)N(Cc2ccc(F)cc2)Cc2cccc(-c3ccc(Cl)cc3)c2)c1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,1
+P0000F,Cc1cn(C[C@H](NC(=O)OCc2ccccc2)C(=O)O)c(=O)nc1N1CCC(CNc2nc3ccccc3s2)CC1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2/BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+P000BC,O=C(O)CCC1CC(=O)N(CC(=O)NCc2ccc(Nc3nc4ccccc4[nH]3)cc2)c2ccccc21,BCL2/BAX,"BCL-like/BAX,BAK",BCL2/BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+P00047,Cc1cnc2n1C(C)(Cc1ccc(Br)cc1)C(=O)N2c1cc(Cl)cc(Cl)c1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2/BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I00022,COc1cccc(C(=O)N(Cc2cc(-c3cn4c(n3)CCC4)ccc2OC2CCC2)CC2CC2)c1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I001IM,Cc1cc(N=Nc2ccc(S(=O)(=O)Nc3ccc(Br)cn3)cc2)cc(C)c1O,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I000IU,CCc1ccc2c(c1)S/C(=c1/s/c(=C\c3scc[n+]3Cc3ccc(C(F)(F)F)o3)n(CC)c1=O)N2C.[Cl-],BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I000SG,Cc1ccccc1NC(=O)Nc1ccc(CC(=O)N[C@@H](CC(C)C)c2ncc(CCC(=O)O)o2)cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I000W5,CCCCOC(=O)N[C@@H](CCC(=O)N1CCC2(CC1)CCN(c1ccncc1)CC2)C(=O)O,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I000QA,O=S(=O)(c1ccc(N2CC(CN3CCC(C4(C5CCCC5)NCCc5ccccc54)CC3)C2)cc1)C1CCC1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I000E2,CCCc1cn(C[C@H](NC(=O)OCc2ccccc2)C(=O)O)c(=O)nc1N1CCC(CNc2nc3ccccc3[nH]2)CC1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I000F6,Cc1cccc2oc(Nc3ccc(CC(=O)N4C[C@@H](F)C[C@H]4CO[C@H]4CC[C@H](C(=O)O)CC4)cc3Cl)nc12,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I000F7,CC(O)(c1ccc(-c2ccc(S(=O)(=O)c3ccc(N)nc3)nc2Nc2ccccn2)nc1)C(F)(F)F,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I0017A,CCOCCOC(=O)N1C(c2ccc(OC)cc2OC(C)C)=NC(c2ccc(Cl)cc2)C1c1ccc(Cl)cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I0003W,Nc1cccc(CN2CCC(Nc3ncnc4sc(CC(F)(F)F)cc34)CC2)c1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I000IG,Cc1cc(C(=O)N[C@@H]2CCc3ccc(-c4cn5c(n4)CCC5)cc32)ccn1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I000WU,N=C(N)c1ccc2oc(C(=O)N3CCCC(C(=O)NC(CC(=O)O)c4ccccc4)C3)cc2c1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I001JQ,O=C(O)C[C@@H](Cc1ccc(OCCCNc2ccccn2)cc1)c1ccccc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I000SL,NC1=C(C(=O)c2ccccc2)C(c2ccc(Br)cc2)N(CCCn2ccnc2)C1=O,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I000D3,O=C(O)C[C@H](C#Cc1ccccc1)NC(=O)[C@@H]1CCCN(C(=O)CCC2CCNCC2)C1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I0012Z,CN1C2=C([C@H](c3ccc(C#N)cc3)n3ncnc31)[C@@H](c1ccc(Br)cc1)Oc1ccccc12,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I000S0,CNc1nc(NCc2ccc(NC(=O)c3ccc(Cl)cc3)cc2)c2ccc(C)cc2n1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I000BS,CCn1c(=O)/c(=C2\Sc3ccc(OC)cc3N2C)s/c1=C\c1scc[n+]1Cc1ccccc1OC(F)(F)F.[Cl-],BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I0007A,COc1cc2c(cc(C#N)n2Cc2c[nH]nn2)c(C)c1CN1CCC(Nc2ncnc3sc(CC(F)(F)F)cc23)CC1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I001CD,O=C(N[C@H]1CSSC[C@@H](C(=O)O)NC(=O)[C@@H]2CCCN2C(=O)[C@H](CO)NC1=O)C(Cc1ccc(O)cc1)c1ccccc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I001BT,CCN(CC)c1ncc(N(CC)C(=O)c2cccc(F)c2)c(N[C@@H](Cc2ccc(OC(=O)N3CCCC3)cc2)C(=O)O)n1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I0019F,N#Cc1ccc(OCCCN2CCC(C(O)(c3ccccn3)C3CCCC3)CC2)cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I000NL,Cc1cn(C[C@@H](CC(=O)O)NC(=O)OCc2ccccc2)c(=O)nc1NCCCc1ncc[nH]1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I0014S,N#Cc1ccc(OCCCN2CCC([C@@](N)(c3ccccc3)C3CCCC3)CC2)cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I0015Q,Nc1ccc(S(=O)(=O)c2ccc(-c3ncc(C(O)(C(F)(F)F)C(F)(F)F)cc3Cl)cc2)cn1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I0016X,CN1C2=C(C(c3ccc(Br)cc3)Oc3cccc(F)c32)C(c2ccc(Br)cc2)n2ncnc21,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I0015K,CC(=O)CN1C(=O)[C@@H](NC(=O)c2cccc(C)c2)[C@@H](c2ccc(F)cc2)c2c(C)nn(-c3ccccc3)c21,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I000OH,O=C(N[C@H]1CSSC[C@@H](C(=O)O)NC(=O)[C@@H]2CCCN2C(=O)[C@H](CO)NC1=O)c1cccc2ccccc12,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I001JL,CCCNC(=O)Nc1cccc(-c2ccc(C[C@H](NC(=O)NCc3ccccc3)C(=O)O)cc2)c1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I000OP,CC(C)(C)NC(=O)NC(Cc1ccc(NC(=O)c2cccc(NC(=N)N)c2)cc1)C(=O)O,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I000I9,CN1C2=C([C@H](c3ccc(Br)cc3)n3ncnc31)[C@@H](c1ccc(Br)cc1)Oc1c(Cl)cccc12,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I000MR,N=C(N)Nc1cccc(C(=O)NNC(=O)NC(CC(=O)O)c2ccc(Cl)cc2)c1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I00144,C[C@@]1(Cc2ccc(Br)cc2)C(=O)N(c2cc(Cl)cc(Cl)c2)c2ncc(S(=O)(=O)N3CCCCC3)n21,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I0012Q,O=C(C1=C(O)C(=O)N(Cc2cccnc2)C1c1ccc(Cl)cc1)c1ccccc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I001D9,CN(CCC(=O)NC(CC(=O)O)c1ccccc1)C(=O)c1cc2cc(C(=N)N)ccc2o1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I00036,CC1(Cc2ccc(Br)cc2)C(=O)N(c2cc(Cl)cc(Cl)c2)c2nc(C#N)cn21,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I0012J,O=C(O)C[C@@H](NC(=O)[C@@H]1CCCN(C(=O)CCC2CCNCC2)C1)c1ccc(Cl)s1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I000AE,O=C1c2cccc(Cl)c2C(OCC2(CO)CC2)(c2ccc(Cl)cc2)N1Cc1ccc(Br)cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I000E9,N#Cc1ccc(CN2C(=O)c3ccccc3C2(O)c2ccc(Cl)cc2)cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I000TV,CCn1c(=O)/c(=C2\Sc3cc(Cl)ccc3N2C)s/c1=C\c1scc[n+]1Cc1ccc(Br)s1.[Cl-],BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I000JY,CN[C@@H](C)C(=O)N[C@H](C(=O)N1CC[C@H]2CC[C@H](NC(=O)c3ccc4nonc4c3)[C@H]21)C(C)(C)C,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I0014W,Cn1cc(C(=O)Nc2ccc(CC(=O)N3C[C@@H](F)C[C@H]3CO[C@H]3CC[C@H](C(=O)O)CC3)cc2Cl)c2ccccc21,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I000PE,Cc1cc(Sc2nnnn2CC[NH+](C)C)n2nc(SCc3ccc(Cl)cc3)nc2n1.[Cl-],BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I001GC,CC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)N[C@H]1CSSC[C@@H](C(=O)O)NC(=O)[C@@H]2CCCN2C(=O)[C@H]([C@@H](C)O)NC1=O,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I0004S,O=C1c2ccccc2C(OC2CCC(O)C2)(c2ccc(Cl)cc2)N1Cc1ccc([N+](=O)[O-])cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I000ES,Cc1ccc(CSc2nc3nc(C)cc(Sc4nnnn4CC[NH+](C)C)n3n2)cc1.[Cl-],BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I00063,CC(C)CNC(=O)c1c(N)sc(-c2ccc(Cl)cc2)c1-c1ccc(Cl)cc1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I001HF,CCOc1ccc(S(=O)(=O)N(CCOC)CCOC)cc1C1=N[C@@H](c2ccc(Cl)cc2)[C@@H](c2ccc(Cl)cc2)N1C(=O)N1CCNC(=O)C1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I00150,Cc1cc(C)c(S(=O)(=O)N[C@@H](Cc2ccc(-c3cccc(NC(=O)c4ccco4)c3)cc2)C(=O)O)c(C)c1,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I00169,C[NH+](C)CCn1nnnc1Sc1cc(-c2ccccc2)nc2ncnn12.[Cl-],BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I0013D,O=C(O)C[C@H](Cc1nc(CCCCNc2ccccn2)no1)c1ccc2c(c1)OCO2,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I000YL,CN[C@@H](C)C(=O)N[C@H](C(=O)N1CC[C@@H]2[C@H]1[C@@H](c1c[nH]c3cc(F)ccc13)CN2Cc1ccccc1)C(C)(C)C,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+I000MV,CN1C2=C([C@H](c3ccc(Br)cc3)n3ncnc31)[C@@H](c1ccc(Br)cc1)Oc1cc(Cl)ccc12,BCL2/BAX,"BCL-like/BAX,BAK",BCL2-Like_BAX,BCL2,BAX,,,,P10415,Q07812,,,,11.0,0
+J000EZ,COc1cc(C(=O)N[C@@H]2CCCc3ccc(-c4cn5c(n4)CCC5)cc32)ccc1C,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+J000E8,COc1cccc(C(=O)N(Cc2cccc(-c3cn4c(n3)CCC4)c2)C(C)C)c1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+J000F2,O=C(Cc1ccc(Cl)c(Cl)c1)N[C@@H]1CCc2ccc(-c3cn4c(n3)CCC4)cc21,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+I00021,N#Cc1ccc(OCCCN2CCC([C@](N)(c3ccccc3)C3CCCC3)CC2)cc1,WDR5/MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),MENIN_MLL,WDR5,MLL,,,,P61964,Q03164,,,,20.0,1
+J000EE,CCOc1ccc(-c2cn3c(n2)CCC3)cc1CN(CC1CC1)C(=O)c1cccc(OC)c1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+J000EI,COc1cccc(C(=O)NCc2cc(-c3cn4c(n3)CCC4)ccc2OC2CCC2)c1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+J000ER,COc1cc(C(=O)NCc2cc(-c3cn4c(n3)CCC4)ccc2OC2CCC2)ccc1C,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+J000EW,COc1cc(C(=O)N[C@H]2CCc3ccc(-c4cn5c(n4)CCC5)cc32)cc(OC)c1C,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+J000EM,CC(C)Oc1ccc(-c2cn3c(n2)CCC3)cc1CNC(=O)Cc1ccc(Cl)c(Cl)c1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+J000EK,CN(C)c1ccc(-c2cn3c(n2)CCC3)cc1CNC(=O)Cc1ccc(Cl)c(Cl)c1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+I000X2,N#Cc1ccc(OCCCN2CCC(C(O)(c3ccccc3)c3ccccc3)CC2)cc1,WDR5/MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),MENIN_MLL,WDR5,MLL,,,,P61964,Q03164,,,,20.0,1
+I000C3,N#Cc1ccc(OCCCN2CCC([C@](O)(c3cccc(F)c3)C3CCCC3)CC2)cc1,WDR5/MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),MENIN_MLL,WDR5,MLL,,,,P61964,Q03164,,,,20.0,1
+I001BH,N#Cc1ccc(OCCCN2CCC([C@](O)(c3ccccc3)C3CCC3)CC2)cc1,WDR5/MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),MENIN_MLL,WDR5,MLL,,,,P61964,Q03164,,,,20.0,1
+J000EQ,COc1cc(C(=O)N(Cc2cc(-c3cn4c(n3)CCC4)ccc2OC2CCC2)CC2CC2)ccc1C,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+J000DT,O=C(NCc1cccc(-c2cn3c(n2)CCC3)c1)c1ccccc1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+J000ET,COc1cc(C(=O)N[C@@H]2CCc3ccc(-c4cn5c(n4)CCC5)cc32)ccc1C,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+J000DU,O=C(NCc1cccc(-c2cn3c(n2)CCC3)c1)C1CCCCC1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+J000DX,COc1ccc(C(=O)NCc2cccc(-c3cn4c(n3)CCC4)c2)cc1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+I00158,N#Cc1ccc(OCCCN2CCC([C@@](O)(c3ccccc3)C3CC3)CC2)cc1,WDR5/MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),MENIN_MLL,WDR5,MLL,,,,P61964,Q03164,,,,20.0,1
+J000EH,COc1cccc(C(=O)N(Cc2cc(-c3cn4c(n3)CCC4)ccc2OC2CCC2)CC2CC2)c1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+J000ED,COc1cccc(C(=O)N(Cc2cc(-c3cn4c(n3)CCC4)ccc2OC)CC2CC2)c1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+J000EO,O=C(Cc1ccc(Cl)c(Cl)c1)NCc1cc(-c2cn3c(n2)CCC3)ccc1OC1CCC1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+I001FP,N#Cc1ccc(OCCCN2CCC([C@@](O)(c3cccc(F)c3)c3ccccn3)CC2)cc1,WDR5/MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),MENIN_MLL,WDR5,MLL,,,,P61964,Q03164,,,,20.0,1
+J000E1,COc1cc(C(=O)NCc2cccc(-c3cn4c(n3)CCC4)c2)ccc1C,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+J000EF,COc1cccc(C(=O)N(Cc2cc(-c3cn4c(n3)CCC4)ccc2OC(C)C)CC2CC2)c1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+I0009G,N#Cc1ccc(OCCCN2CCC([C@](O)(c3cccc(Cl)c3)C3CCCC3)CC2)cc1,WDR5/MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),MENIN_MLL,WDR5,MLL,,,,P61964,Q03164,,,,20.0,1
+J000EJ,COc1cccc(C(=O)NCc2cc(-c3cn4c(n3)CCC4)ccc2N(C)C)c1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+J000E2,COc1cc(C)cc(C(=O)NCc2cccc(-c3cn4c(n3)CCC4)c2)c1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+J000E5,O=C(NCc1cccc(-c2cn3c(n2)CCC3)c1)c1cccnc1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+J000DV,COc1cccc(C(=O)NCc2cccc(-c3cn4c(n3)CCC4)c2)c1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+J000EV,Cc1cc(C(=O)N[C@@H]2CCc3ccc(-c4cn5c(n4)CCC5)cc32)ccn1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+J000E3,O=C(NCc1cccc(-c2cn3c(n2)CCC3)c1)c1ccccn1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+J000EB,COc1cc(C(=O)N(Cc2cccc(-c3cn4c(n3)CCC4)c2)CC2CC2)ccn1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+J000DH,c1ccc(-c2ccc(-c3cn4c(n3)CCC4)cc2)cc1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+I000UU,N#Cc1ccc(OCCCN2CCC([C@](O)(c3cc(F)cc(F)c3)C3CCCC3)CC2)cc1,WDR5/MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),MENIN_MLL,WDR5,MLL,,,,P61964,Q03164,,,,20.0,1
+J000EL,O=C(Cc1ccc(Cl)c(Cl)c1)NCc1cc(-c2cn3c(n2)CCC3)ccc1N1CCOCC1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+J000E7,COc1cccc(C(=O)N(C)Cc2cccc(-c3cn4c(n3)CCC4)c2)c1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+J000E6,Cc1cncc(C(=O)NCc2cccc(-c3cn4c(n3)CCC4)c2)c1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+J000E4,O=C(NCc1cccc(-c2cn3c(n2)CCC3)c1)c1ccncc1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+I000HR,N#Cc1ccc(OCCCN2CCC([C@](O)(c3nccs3)C3CCCC3)CC2)cc1,WDR5/MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),MENIN_MLL,WDR5,MLL,,,,P61964,Q03164,,,,20.0,1
+J000EC,COc1cccc(C(=O)N(Cc2cc(OC)cc(-c3cn4c(n3)CCC4)c2)CC2CC2)c1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+I000EL,CC(C)[C@](O)(c1ccccc1)C1CCN(CCCOc2ccc(C#N)cc2)CC1,WDR5/MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),MENIN_MLL,WDR5,MLL,,,,P61964,Q03164,,,,20.0,1
+I000JO,CCCC[C@](O)(c1ccccc1)C1CCN(CCCOc2ccc(C#N)cc2)CC1,WDR5/MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),MENIN_MLL,WDR5,MLL,,,,P61964,Q03164,,,,20.0,1
+J000EG,COc1cccc(C(=O)NCc2cc(-c3cn4c(n3)CCC4)ccc2OC(C)C)c1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+J000E0,COc1ccc(C(=O)NCc2cccc(-c3cn4c(n3)CCC4)c2)cc1OC,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+J000DZ,O=C(Cc1ccc(Cl)c(Cl)c1)NCc1cccc(-c2cn3c(n2)CCC3)c1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+I001FQ,N#Cc1ccc(OCCCN2CCC([C@](O)(c3cccc(F)c3)c3ccccn3)CC2)cc1,WDR5/MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),MENIN_MLL,WDR5,MLL,,,,P61964,Q03164,,,,20.0,1
+I000NO,N#Cc1ccc(OCCCN2CCC([C@@](O)(c3ccccc3)C3CCCCC3)CC2)cc1,WDR5/MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),MENIN_MLL,WDR5,MLL,,,,P61964,Q03164,,,,20.0,1
+J000DW,Cc1cccc(C(=O)NCc2cccc(-c3cn4c(n3)CCC4)c2)c1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+J000EA,COc1cccc(C(=O)N(Cc2cccc(-c3cn4c(n3)CCC4)c2)CC2CCC2)c1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,1
+J000E8,COc1ccc(C2=N[C@@H](c3ccc(Cl)cc3)[C@@H](c3ccc(Cl)cc3)N2C(=O)N2CCN(C(C)=O)CC2)c(OC(C)C)c1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,0
+J000ER,O=C1c2cccc(Cl)c2C(OCC2(CO)CC2)(c2ccc(Cl)cc2)N1Cc1ccc(S(=O)(=O)C(F)(F)F)cc1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,0
+I00158,O=S(=O)(Nc1ccccn1)c1ccc(N=Nc2ccc(O)c3c2CCCC3)cc1,WDR5/MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),MENIN_MLL,WDR5,MLL,,,,P61964,Q03164,,,,20.0,0
+J000EN,O=C(N[C@@H](CCC(=O)N1CCC2(CC1)CCN(c1ccncc1)CC2)C(=O)O)OCc1ccccc1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,0
+J000EF,CN[C@@H](C)C(=O)N[C@H](C(=O)N1CCC[C@H]1CNC(=O)c1cccc2ccccc12)C(C)(C)C,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,0
+I0009G,COCN1C(=O)[C@@H](NC(=O)c2cccc(C)c2)[C@@H](c2ccc(F)cc2)c2c1n[nH]c2C,WDR5/MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),MENIN_MLL,WDR5,MLL,,,,P61964,Q03164,,,,20.0,0
+J000EJ,O=C(O)CC1c2ccccc2C(=O)N(CC(=O)NCCCCNc2nc3ccccc3[nH]2)c2ccccc21,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,0
+J000E7,O=C(O)CC(NC(=O)NNC(=O)CCCCNc1ccccn1)c1ccc(Cl)cc1,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,0
+J000E6,C=CC[C@@H]1/C=C(\C)C[C@H](C)C[C@H](OC)[C@H]2O[C@@](O)(C(=O)C(=O)N3CCCC[C@H]3C(=O)O[C@H](/C(C)=C/[C@@H]3CC[C@@H](O)[C@H](OC)C3)[C@H](C)[C@@H](O)CC1=O)[C@H](C)C[C@@H]2OC,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,0
+J000EC,CCCCC(CCCCNC(=O)c1cc2cc(C(=N)N)ccc2[nH]1)CC(=O)O,WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5/Mixed-lineage leukemia 1 (MLL1),WDR5,Mixed-lineage leukemia 1 (MLL1),,,,P61964,Q03164,,,,20.0,0
+I000NO,Cc1cc(C)c(S(=O)(=O)N[C@@H](Cc2ccc(-c3ccc(C)c(NC(=O)NC4CC4)c3)cc2)C(=O)O)c(C)c1,WDR5/MLL,WDR5/Mixed-lineage leukemia 1 (MLL1),MENIN_MLL,WDR5,MLL,,,,P61964,Q03164,,,,20.0,0
